@@ -1,0 +1,2286 @@
+{
+    "action_menu_activate_current_tab": {
+        "message": "អនុញ្ញាតឈ្មោះគេហទំព័រនេះ",
+        "description": "Activate on current tab shortcut in the action menu"
+    },
+    "action_menu_all_options": {
+        "message": "ជម្រើសទាំងអស់",
+        "description": "All options link in the action menu"
+    },
+    "action_menu_configure_mailvelope": {
+        "message": "<0>កំណត់ Mailvelope</0> ដើម្បីចាប់ផ្តើម!",
+        "description": "Configure Mailvelope label in the action menu"
+    },
+    "action_menu_dashboard_description": {
+        "message": "បង្ហាញជម្រើសនៃការកំណត់ទាំងអស់។",
+        "description": "Dashboard description in the action menu"
+    },
+    "action_menu_dashboard_label": {
+        "message": "ផ្ទាំងព័ត៌មាន",
+        "description": "Dashboard label in the action menu"
+    },
+    "action_menu_file_encryption_description": {
+        "message": "ធ្វើកូដនីយកម្មលើឯកសារមួយ ឬច្រើន។",
+        "description": "File encryption description in the action menu"
+    },
+    "action_menu_file_encryption_label": {
+        "message": "ការធ្វើកូដនីយកម្មឯកសារ",
+        "description": "File encryption label in the action menu"
+    },
+    "action_menu_help": {
+        "message": "ជំនួយ",
+        "description": "Online help shortcut."
+    },
+    "action_menu_keyring_description": {
+        "message": "គ្រប់គ្រងសោសាធារណៈ និងឯកជន។",
+        "description": "Keyring description in the action menu"
+    },
+    "action_menu_keyring_label": {
+        "message": "ចង្កោមសោ",
+        "description": "Keyring label in the action menu"
+    },
+    "action_menu_primary_menu_aria_label": {
+        "message": "មឺនុយចំបងរបស់ Mailvelope ",
+        "description": "Accessibility, aria label of the primary menu"
+    },
+    "action_menu_reload_extension_scripts": {
+        "message": "Mailvelope ផ្ទុកឡើងវិញ",
+        "description": "Reload extension scripts shortcut in the action menu"
+    },
+    "action_menu_review_security_logs_description": {
+        "message": "ពិនិត្យសកម្មភាពអ្នកប្រើប្រាស់ពាក់ព័ន្ធសុវត្ថិភាព។",
+        "description": "Review security logs description in the action menu"
+    },
+    "action_menu_review_security_logs_label": {
+        "message": "កំណត់ត្រាសុវត្ថិភាព",
+        "description": "Review security logs label in the action menu"
+    },
+    "action_menu_setup_menu_aria_label": {
+        "message": "មឺនុយកំណត់ Mailvelope ",
+        "description": "Accessibility, aria label of the setup menu"
+    },
+    "action_menu_setup_new_bg_description": {
+        "message": "បច្ចុប្បន្នភាពចុងក្រោយរបស់ Mailvelope តម្រូវឱ្យអ្នកកំណត់រចនាសម្ព័ន្ធផ្ទៃខាងក្រោយនៃសុវត្ថិភាពរបស់អ្នកឡើងវិញ។",
+        "description": "Configure new security bg description text in the action menu"
+    },
+    "action_menu_setup_start_label": {
+        "message": "តោះចាប់ផ្តើម!",
+        "description": "Start button label"
+    },
+    "alert_header_error": {
+        "message": "បញ្ហា!",
+        "description": "Alert header of category error."
+    },
+    "alert_header_important": {
+        "message": "សំខាន់!",
+        "description": "Alert header of category important."
+    },
+    "alert_header_notice": {
+        "message": "សូមចំណាំ៖",
+        "description": "Alert header of category notice."
+    },
+    "alert_header_success": {
+        "message": "ជោគជ័យ!",
+        "description": "Alert header of category success."
+    },
+    "alert_header_warning": {
+        "message": "ព្រមាន!",
+        "description": "Alert header of category warning."
+    },
+    "alert_invalid_domainmatchpattern_warning": {
+        "message": "លំនាំផ្គូផ្គងដូមែនគឺ [*.]host.name.tld[:port]។",
+        "description": "Alert header of category warning."
+    },
+    "alert_no_domainmatchpattern_warning": {
+        "message": "យ៉ាងហោចណាស់ តម្រូវឲ្យមានដែល Domainត្រូវនឹងគំនូសមួយ។",
+        "description": "Alert header of category warning."
+    },
+    "analytics_consent_description": {
+        "message": "ចែករំលែកព័ត៌មានស្ថិតិវិភាគដែលបានផ្គុំគ្នា និងអនាមិកជាមួយ Mailvelope",
+        "description": "Consent to share analytics information with mailvelope"
+    },
+    "auth_domain_api_label": {
+        "message": "អនុញ្ញាត API",
+        "description": "Label for API allowed info"
+    },
+    "auth_domain_description": {
+        "message": "តើអ្នកអនុញ្ញាតការប្រើប្រាស់ Mailvelope សម្រាប់ domain $1?",
+        "description": "Description in authorize domain dialog"
+    },
+    "auth_domain_headline": {
+        "message": "អនុញ្ញាត domain",
+        "description": "Headline of authorize domain dialog."
+    },
+    "change_link": {
+        "message": "ផ្លាស់ប្តូរ",
+        "description": "Navigation link to change this setting."
+    },
+    "cleartext_read_error": {
+        "message": "មិនអាចអាន សារទទេរនេះ៖ $1",
+        "description": "Cleartext message read error message: $1: error message."
+    },
+    "dashboard_link_encrypt_decrypt_files": {
+        "message": "កូដនីយកម្ម",
+        "description": "Dashboard encrypt decrypt files link"
+    },
+    "dashboard_link_manage_domains": {
+        "message": "ឈ្មោះគេហទំព័រដែលបានអនុញ្ញាត",
+        "description": "Dashboard manage domains link"
+    },
+    "dashboard_link_manage_keys": {
+        "message": "គ្រប់គ្រងសោរ",
+        "description": "Dashboard manage keys link"
+    },
+    "dashboard_link_view_security_log": {
+        "message": "កំណត់ត្រាសុវត្ថិភាព",
+        "description": "Dashboard view security logs link"
+    },
+    "decrypt_att_frame_help_text": {
+        "message": "ចុចទីនេះ ដើម្បីបង្ហាញសារ",
+        "description": "Help text on decrypt frame with encrypted attachments or clipped armored message."
+    },
+    "decrypt_attachment_label": {
+        "message": "ឯកសារភ្ជាប់",
+        "description": "Label for attachments in decrypted message"
+    },
+    "decrypt_cleartext_warning": {
+        "message": "អក្សរខាងក្រោមមិនបានធ្វើកូដនីយកម្មទេ។",
+        "description": "Warning when cleartext is shown in decrypt component"
+    },
+    "decrypt_decrypted_files_label": {
+        "message": "ឯកសារដែលបានដោះកូដសាររួច",
+        "description": "Decrypted files label on decrypt success page."
+    },
+    "decrypt_digital_signature": {
+        "message": "បានចុះហត្ថលេខា",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_failure": {
+        "message": "ហត្ថលេខាមិនត្រឹមត្រូវ",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_inconsistent": {
+        "message": "Inconsistent signatures: message and file not signed with same key",
+        "description": "Warning message if digital signature is inconsistent"
+    },
+    "decrypt_digital_signature_missing": {
+        "message": "Signature missing",
+        "description": "Digital signature is missing"
+    },
+    "decrypt_digital_signature_null": {
+        "message": "មិនស្គាល់ហត្ថលេខា",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_null_info": {
+        "message": "សោជាមួយលេខ ID $1 រកមិនឃើញ។",
+        "description": "Digital signature unknown info message"
+    },
+    "decrypt_digital_signature_null_info_short": {
+        "message": "សោ រកមិនឃើញ។",
+        "description": "Digital signature unknown short info message"
+    },
+    "decrypt_digital_signature_sender_mismatch": {
+        "message": "Sender address mismatch",
+        "description": "Alert label in the case of sender email address mismatch"
+    },
+    "decrypt_digital_signature_sender_mismatch_tooltip": {
+        "message": "This message contains a digital signature, but a mismatch was detected. The message was sent from an email address that doesn't match the signer's public key.",
+        "description": "Tooltip for alert label in the case of sender email address mismatch"
+    },
+    "decrypt_digital_signature_uncertain_sender": {
+        "message": "Uncertain sender identity",
+        "description": "Digital signature link to more information in the case of uncertain sender identity"
+    },
+    "decrypt_file_error_header": {
+        "message": "ការដោះកូដសារឯកសារ $1 គឺមិនអាចធ្វើបានទេ។",
+        "description": "Header of file decryption error on decrypt result page."
+    },
+    "decrypt_frame_help_text": {
+        "message": "ចុច ដើម្បីវិកូដនីយកម្ម",
+        "description": "Help text on decrypt frame."
+    },
+    "decrypt_header": {
+        "message": "វិកូដនីយកម្មទិន្នន័យ",
+        "description": "Header of file/text decrypt page."
+    },
+    "decrypt_header_success": {
+        "message": "វិកូដនីយកម្មជោគជ័យ",
+        "description": "Header of file/text decrypt result page."
+    },
+    "decrypt_home": {
+        "message": "បើកកូដនីយកម្ម",
+        "description": "File/text decrypting navigation: Home."
+    },
+    "decrypt_open_viewer_btn_title": {
+        "message": "បើកក្នុងកម្មវិធីបើក Mailvelope",
+        "description": "Title of open message viewer icon button."
+    },
+    "decrypt_show_message_btn": {
+        "message": "បង្ហាញសារ",
+        "description": "Show messsage button label in decrypt message."
+    },
+    "decrypt_signer_label": {
+        "message": "អ្នកផ្ញើ",
+        "description": "Label for signature line in decrypted message"
+    },
+    "decrypt_text_area_label": {
+        "message": "អក្សរសម្រាប់វិកូដនីយកម្ម",
+        "description": "Label of textarea to paste armored block in on decrypt page."
+    },
+    "decrypt_text_decryption_btn": {
+        "message": "តើអ្នកចង់ធ្វើវិកូដនីយកម្មអក្សរ?",
+        "description": "Text decryption button label on decrypt page."
+    },
+    "decrypt_text_error_header": {
+        "message": "ការដោះកូដសារអត្ថបទ គឺមិនអាចធ្វើបានទេ។",
+        "description": "Header of text decryption error on decrypt result page."
+    },
+    "dialog_cancel_btn": {
+        "message": "បោះបង់",
+        "description": "Dialog cancel button label"
+    },
+    "dialog_no_btn": {
+        "message": "ទេ",
+        "description": "Dialog no button label"
+    },
+    "dialog_popup_close": {
+        "message": "បិទ",
+        "description": "Close decrypt popup."
+    },
+    "dialog_save_btn": {
+        "message": "រក្សាទុក",
+        "description": "Dialog save button label"
+    },
+    "dialog_yes_btn": {
+        "message": "មែន",
+        "description": "Dialog yes button label"
+    },
+    "editor_blur_warn": {
+        "message": "ព្រមាន៖ កម្មវិធីសរសេរអក្សរបាត់បង់ការកំណត់។",
+        "description": "Warning for lost focus."
+    },
+    "editor_encrypt_button": {
+        "message": "ធ្វើកូដនីយកម្ម",
+        "description": "Encrypt button."
+    },
+    "editor_error_header": {
+        "message": "បញ្ហា",
+        "description": ""
+    },
+    "editor_extra_key_checkbox": {
+        "message": "បន្ថែមសោច្រើនទៀត",
+        "description": "Extra key checkbox label."
+    },
+    "editor_extra_key_help": {
+        "message": "អ៊ីមែលនឹងត្រូវបានបំប្លែងកូដដោយប្រើសោបន្ថែមទៀតនេះ",
+        "description": "Extra key help text."
+    },
+    "editor_header": {
+        "message": "បង្កើតសារសុវត្ថិភាព",
+        "description": "Header of editor popup."
+    },
+    "editor_key_auto_sign": {
+        "message": "តើអ្នកចង់ចុះហត្ថលេខាគ្រប់អ៊ីម៉ែលទាំងអស់?",
+        "description": "Label for default private key option."
+    },
+    "editor_key_auto_sign_link": {
+        "message": "ផ្លាស់ប្តូរការកំណត់នៅទីនេះ",
+        "description": "Test for auto sign link."
+    },
+    "editor_key_has_extra_msg": {
+        "message": "អ៊ីមែលនឹងត្រូវបានបំប្លែងកូដដោយប្រើសោផ្សេងទៀតជំនួសដែលបានបញ្ចូលខាងក្រោម។",
+        "description": "Label for info message invalid recipients but extra key."
+    },
+    "editor_key_no_sign_option": {
+        "message": "មិនបានចុះហត្ថលេខា",
+        "description": "Label for not sign option in sign key select."
+    },
+    "editor_key_not_found": {
+        "message": "សោរ រកមិនឃើញ!",
+        "description": "Warning for when a recipient key was not found."
+    },
+    "editor_key_not_found_msg": {
+        "message": "អ្នកទទួលទាំងអស់ត្រូវការ​សោរ PGP ដើម្បី​ធ្វើកូដនីយកម្ម​​។ អ្នកនៅតែ​អាចចុះហត្ថលេខានៅលើសារដដែល។",
+        "description": "Warning for when a recipient key was not found."
+    },
+    "editor_label_attachments": {
+        "message": "ឯកសារភ្ជាប់",
+        "description": "Label for attachments select/drop area."
+    },
+    "editor_label_copy_recipient": {
+        "message": "Cc",
+        "description": "Label for copy recipient text input."
+    },
+    "editor_label_message": {
+        "message": "សារ",
+        "description": "Label for message textarea."
+    },
+    "editor_label_recipient": {
+        "message": "អ្នកទទួល",
+        "description": "Label for recipient input."
+    },
+    "editor_label_subject": {
+        "message": "ប្រធានបទ",
+        "description": "Label for subject text input."
+    },
+    "editor_link_file_encryption": {
+        "message": "​ឯកសារកូតនីយកម្ម",
+        "description": "Navigation link to file encryption"
+    },
+    "editor_no_default_key_caption_long": {
+        "message": "អ៊ីម៉ែលមិនអាចបាន​ចុះហត្ថលេខាឌីជីថល ដោយសារសោដើមបានបាត់",
+        "description": ""
+    },
+    "editor_no_default_key_caption_short": {
+        "message": "អ៊ីម៉េល មិនអាចចុះហត្ថលេខាដោយប្រព័ន្ធឌីជីថល",
+        "description": ""
+    },
+    "editor_remove_upload": {
+        "message": "ដកចេញ",
+        "description": "Remove uploaded attachment"
+    },
+    "editor_sign_button": {
+        "message": "ហត្ថលេខាតែមួយគត់",
+        "description": "Sign button."
+    },
+    "editor_sign_caption_long": {
+        "message": "នៅពេលអ៊ីម៉េលត្រូវបានផ្ញើចេញ វានឹងចុះហត្ថលេខាដោយប្រព័ន្ធឌីជីថល",
+        "description": ""
+    },
+    "editor_sign_caption_short": {
+        "message": "អ៊ីម៉េល នឹងត្រូវចុះហត្ថលេខាដោយប្រព័ន្ធឌីជីថល",
+        "description": ""
+    },
+    "editor_transfer": {
+        "message": "បញ្ជូន",
+        "description": "Transfer button of editor popup."
+    },
+    "encrypt_change_signer_dialog_signer_label": {
+        "message": "ជ្រើសរើសហត្ថលេខា",
+        "description": "Label for signer select of change signer dialog."
+    },
+    "encrypt_change_signer_dialog_title": {
+        "message": "ផ្លាស់ប្តូរហត្ថលេខា",
+        "description": "Titel of change signer dialog."
+    },
+    "encrypt_dialog_no_recipient": {
+        "message": "សូមបន្ថែមអ្នកទទួលម្នាក់។",
+        "description": "Error message if no recipient selected."
+    },
+    "encrypt_download_all_button": {
+        "message": "ទាញយកទាំងអស់",
+        "description": "Button to download all files"
+    },
+    "encrypt_encrypted_files_label": {
+        "message": "ឯកសារបានធ្វើកូដនីយកម្ម",
+        "description": "Encrypted files label on encrypt success page."
+    },
+    "encrypt_encrypted_for_label": {
+        "message": "បានធ្វើកូដនីយកម្មសម្រាប់",
+        "description": "Encrypted for label on encrypt success page."
+    },
+    "encrypt_error": {
+        "message": "មិនអាច​ធ្វើកូដនីយកម្មសម្ងាត់សារនេះ៖ $1",
+        "description": "Error during encryption process."
+    },
+    "encrypt_file_error_header": {
+        "message": "ការបំប្លែងឯកសារ $1 គឺមិនអាចធ្វើបានទេ។",
+        "description": "Header of file decryption error on decrypt result page."
+    },
+    "encrypt_frame_btn_label": {
+        "message": "សរសេរអ៊ីម៉ែលសុវត្ថិភាព",
+        "description": "Text on expanded editor button of editable email area"
+    },
+    "encrypt_header": {
+        "message": "កូដនីយកម្មទិន្នន័យ",
+        "description": "Header of file/text encrypt page."
+    },
+    "encrypt_header_success": {
+        "message": "កូដនីយកម្មជោគជ័យ",
+        "description": "Header of file/text encrypt result page."
+    },
+    "encrypt_home": {
+        "message": "ធ្វើកូដនីយកម្ម",
+        "description": "File/text encrypting navigation: Home."
+    },
+    "encrypt_no_signer_info": {
+        "message": "ទិន្នន័យកូដនីយកម្មមិនបានចុះហត្ថលេខា",
+        "description": "No signer info text on encrypt page."
+    },
+    "encrypt_remove_signer_btn": {
+        "message": "លុបហត្ថលេខា",
+        "description": "Remove signer button label on encrypt page."
+    },
+    "encrypt_signed_as_label": {
+        "message": "ហត្ថលេខាដោយ",
+        "description": "Signed as label on encrypt success page."
+    },
+    "encrypt_signer_info": {
+        "message": "ទិន្នន័យធ្វើកូដនីយកម្ម បានចុះហត្ថលេខាជាមួយសោអ្នក ($1)",
+        "description": "Signer info text on encrypt page."
+    },
+    "encrypt_text_encryption_btn": {
+        "message": "តើអ្នកចង់ធ្វើកូដនីយកម្មអក្សរដែរទេ?",
+        "description": "Text encryption button label on encrypt page."
+    },
+    "encrypt_text_error_header": {
+        "message": "ការ​បំប្លែងអត្ថបទ​មិន​អាច​ធ្វើ​​បាន​ទេ។",
+        "description": "Header of text decryption error on decrypt result page."
+    },
+    "encrypt_upload_file_warning_too_big": {
+        "message": "មានឯកសារមួយធំពេក។",
+        "description": "."
+    },
+    "ext_description": {
+        "message": "បង្កើនអ្នកផ្តល់អ៊ីម៉ែលរបស់អ្នកជាមួយ​កូដនីយកម្មទាំងសងខាង។ រក្សាទំនាក់ទំនងអ៊ីម៉ែលដែលមានសុវត្ថិភាពដោយផ្អែកលើស្តង់ដារ OpenPGP ។",
+        "description": "Description of the extension."
+    },
+    "ext_name": {
+        "message": "Mailvelope",
+        "description": "Name of the extension."
+    },
+    "feature_banner_new_security_background_btn": {
+        "message": "កំណត់ដោយខ្លួនឯងឥឡូវនេះ",
+        "description": "Button text of feature banner for new security background."
+    },
+    "feature_banner_new_security_background_text": {
+        "message": "ដាក់ Mailvelope ឲ្យមានសុវត្ថិភាពជាងមុនដោយកំណត់ប្រវត្តិសុវត្ថិភាពរបស់អ្នក។",
+        "description": "Text of feature banner for new security background."
+    },
+    "file_invalid_signed": {
+        "message": "ហត្ថលេខាមិនត្រឹមត្រូវ",
+        "description": "Text of signer field of file element."
+    },
+    "file_not_signed": {
+        "message": "ឯកសារមិនបានចុះហត្ថលេខា",
+        "description": "Text of signer field of file element."
+    },
+    "file_read_error": {
+        "message": "មិនអាច បើកកូដនីយកម្មនៃឯកសារនេះទេ៖ $1",
+        "description": ""
+    },
+    "file_signed": {
+        "message": "ឯកសារបានចុះហត្ថលេខាដោយ $1",
+        "description": "Text of signer field of file element."
+    },
+    "form_back": {
+        "message": "ត្រលប់ក្រោយ",
+        "description": "Back form button."
+    },
+    "form_busy": {
+        "message": "កំពុងដំណើរការ",
+        "description": "Form in busy state."
+    },
+    "form_cancel": {
+        "message": "បោះបង់",
+        "description": "Cancel form button."
+    },
+    "form_clear": {
+        "message": "សំអាត",
+        "description": "Clear form button."
+    },
+    "form_close": {
+        "message": "បិទ",
+        "description": "Close form button."
+    },
+    "form_confirm": {
+        "message": "យល់ព្រម",
+        "description": "Confirm form button."
+    },
+    "form_continue": {
+        "message": "បន្ត",
+        "description": "Continue form button."
+    },
+    "form_definition_error_no_recipient_key": {
+        "message": "មិនមានសោកូដនីយកម្មត្រឹមត្រូវសម្រាប់អាសយដ្ឋានអ្នកទទួល។",
+        "description": "Error message when recipient key is not in keyring"
+    },
+    "form_definition_error_signature_invalid": {
+        "message": "ទម្រង់ហត្ថលេខាមិនត្រឹមត្រូវ។",
+        "description": "Error message when the form signature is not valid"
+    },
+    "form_destination": {
+        "message": "គោលដៅ",
+        "description": "URL the form data will be sent to"
+    },
+    "form_destination_default": {
+        "message": "ទិន្នន័យកូដនីយកម្មនឹងត្រូវត្រឡប់ទៅកាន់ទំព័រនេះ។",
+        "description": "Behavior when no action is specified in form"
+    },
+    "form_forward": {
+        "message": "បញ្ជូនបន្ត",
+        "description": "Forward form button."
+    },
+    "form_import": {
+        "message": "នាំចូល",
+        "description": "Import form button."
+    },
+    "form_loading": {
+        "message": "កំពុងផ្ទុកទម្រង់",
+        "description": "Waiting modal when form is loading."
+    },
+    "form_next": {
+        "message": "បន្ទាប់",
+        "description": "Next form button."
+    },
+    "form_no": {
+        "message": "ទេ",
+        "description": "No form button."
+    },
+    "form_ok": {
+        "message": "យល់ព្រម",
+        "description": "Ok form button."
+    },
+    "form_recipient": {
+        "message": "អ្នកទទួល",
+        "description": "The email for which the form will be encrypted for"
+    },
+    "form_save": {
+        "message": "រក្សាទុក",
+        "description": "Save form button."
+    },
+    "form_sign_error_no_default_key": {
+        "message": "រកមិនឃើញសោឯកជនក្នុងចង្កោមសោដើម្បីចុះហត្ថលេខាលើមាតិកាទម្រង់។ សូមនាំចូល ឬបង្កើតថ្មី។",
+        "description": "Error message when trying to sign and no primary key is found"
+    },
+    "form_submit": {
+        "message": "ផ្ញើ",
+        "description": "Submit form button."
+    },
+    "form_undo": {
+        "message": "ត្រលប់មកដើមវិញ",
+        "description": "Undo form button."
+    },
+    "form_yes": {
+        "message": "មែន",
+        "description": "Yes form button."
+    },
+    "general_default_key_always": {
+        "message": "តែងតែបន្ថែមសោដើមទៅកាន់បញ្ជីអ្នកទទួល។ (នេះអនុញ្ញាតធ្វើវិកូដនីយកម្ម សារដែលបានផ្ញើ)",
+        "description": "Label for default private key option."
+    },
+    "general_default_key_auto_sign": {
+        "message": "ភ្ជាប់ហត្ថលេខាឌីជីថលទៅសារដែលបានផ្ញើចេញទាំងអស់។",
+        "description": "Label for default private key option."
+    },
+    "general_gnupg_check_availability": {
+        "message": "អនុញ្ញាតឱ្យយើងពិនិត្យមើលពេលរកបាន។",
+        "description": "Button label to check availability of GnuPG"
+    },
+    "general_gnupg_installed_question": {
+        "message": "តើអ្នកមានដំឡើង GnuPG ទេ? បើទេ <0>ទាញយកទីនេះ</0>។ ដើម្បីត្រួតពិនិត្យម្តងទៀត<1>បើក Mailvelopeឡើងវិញ</1>",
+        "description": "Status message with available user options"
+    },
+    "general_gnupg_not_available": {
+        "message": "GnuPG មិនមានទេ",
+        "description": "Indicator if GnuPG is not available"
+    },
+    "general_gnupg_prefer": {
+        "message": "តើអ្នកចង់ប្រើ GnuPG?",
+        "description": "Question if user prefers to use GnuPG"
+    },
+    "general_openpgp_current": {
+        "message": "អ្នកកំពុងប្រើប្រាស់",
+        "description": "Label for current OpenPGP backend. Sentence continues with either 'OpenPGP.js' or 'GnuPG"
+    },
+    "general_openpgp_prefer": {
+        "message": "តើកម្មវិធីអ៊ិនគ្រីបខាងក្រោយមួយណាដែលអ្នកចូលចិត្ត?",
+        "description": "Label for OpenPGP backend selection."
+    },
+    "general_openpgp_preferences": {
+        "message": "ចំណូលចិត្ត OpenPGP",
+        "description": "Headline for OpenPGP settings."
+    },
+    "general_prefer_gnupg_note": {
+        "message": "សម្គាល់៖ សោសាធារណៈត្រូវបានធ្វើសមកាលកម្មរវាងចង្កោមសោដែលមាន។ អាស្រ័យលើភាពអាចរកបាននៃកូនសោឯកជន Mailvelopeអាចបដិសេធការកំណត់បណ្ណាល័យអ៊ិនគ្រីបដែលពេញចិត្ត។",
+        "description": "Help text for GnuPG as the preferred OpenPGP backend option."
+    },
+    "gmail_integration_auth_error_download": {
+        "message": "Mailvelope មិនបានអនុញ្ញាតឱ្យទាញយកឯកសារភ្ជាប់ទេ។ អ្នកត្រូវផ្តល់ការអនុញ្ញាតឲ្យចូលប្រើ Mailvelope ទៅ Gmail API ដើម្បីប្រើប្រាស់មុខងារនេះជាមុនសិន។",
+        "description": "Error message for components requiring authorization of GMAIL integration"
+    },
+    "gmail_integration_auth_error_send": {
+        "message": "Mailvelope មិនបានអនុញ្ញាតឱ្យផ្ញើអ៊ីមែលទេ។ អ្នកត្រូវផ្តល់ការអនុញ្ញាតឲ្យចូលប្រើ Mailvelope ទៅ Gmail API ដើម្បីប្រើប្រាស់មុខងារនេះជាមុនសិន។",
+        "description": "Error message for components requiring authorization of GMAIL integration"
+    },
+    "gmail_integration_quoted_mail_header_forward": {
+        "message": "---------- សារផ្ញើបន្ត ---------\nពី៖ $1\nកាលបរិច្ឆេទ៖ $2\nប្រធានបទ៖ $3\nទៅ៖ $4",
+        "description": "Header for forwarded mail"
+    },
+    "gmail_integration_quoted_mail_header_reply": {
+        "message": "លើ $1, $2 បានសរសេរ៖",
+        "description": "Header for quoted reply mail"
+    },
+    "gmail_integration_sent_success": {
+        "message": "អ៊ីម៉ែលត្រូវបានផ្ញើដោយជោគជ័យ",
+        "description": "Email sent success notification"
+    },
+    "gnupg_connection": {
+        "message": "ការតភ្ជាប់ GnuPG ",
+        "description": "Header that shows that GnuPG is available on the system."
+    },
+    "gnupg_error_unusable_pub_key": {
+        "message": "សូមត្រួតពិនិត្យ ប្រសិនបើសោសាធារណៈមាននៅបង្កោមសោ GnuPG និងត្រឹមត្រូវ៖ $1",
+        "description": ""
+    },
+    "import_frame_help_text": {
+        "message": "ចុច ដើម្បីនាំចូលសោរ",
+        "description": "Help text on import frame."
+    },
+    "install_landing_page_hint": {
+        "message": "ចុចទីនេះ ដើម្បីបើកមុខងារបន្ថែម។",
+        "description": "Install landing page getting started hint"
+    },
+    "key_default_active_btn_title": {
+        "message": "សោបានកំណត់ជាសោលំនាំដើម",
+        "description": "Title for active default key button"
+    },
+    "key_default_disabled_btn_title": {
+        "message": "សោរ មិនអាចផៀងផ្ទាត់សម្រាប់ កូដនីយកម្ម​ និង​ដំណើរ​ការចុះ​ហត្ថលេខា",
+        "description": "Title for disabled (invalid) default key button"
+    },
+    "key_default_inactive_btn_title": {
+        "message": "កំណត់សោជាសោលំនាំដើម",
+        "description": "Title for inactive default key button"
+    },
+    "key_export_btn": {
+        "message": "នាំចេញ",
+        "description": "Export key button label"
+    },
+    "key_export_btn_title": {
+        "message": "នាំចេញសោរ",
+        "description": "Title for export key button"
+    },
+    "key_export_create_file": {
+        "message": "រក្សាទុក",
+        "description": "Download file button."
+    },
+    "key_export_dialog_copy_to_clipboard": {
+        "message": "ចម្លងទៅឃ្នាប",
+        "description": "Copy to clipboard button label."
+    },
+    "key_export_dialog_question": {
+        "message": "តើអ្នកចង់នាំចេញសោណា?",
+        "description": "Question in export private key dialog."
+    },
+    "key_export_dialog_title": {
+        "message": "នាំចេញសោរ",
+        "description": "Title of export key dialog."
+    },
+    "key_export_filename": {
+        "message": "ឈ្មោះឯកសារ",
+        "description": "Label of filename input."
+    },
+    "key_export_header": {
+        "message": "នាំចេញសោរ",
+        "description": "Export key dialog header."
+    },
+    "key_export_warning_private": {
+        "message": "ឯកសារនេះមានសោរឯកជន។ រក្សាឯកសារនេះនៅទីកន្លែងសុវត្ថិភាព និងមិនត្រូវចែករំលែកជាមួយអ្នកដទៃទេ។",
+        "description": "Key export warning."
+    },
+    "key_gen_advanced_btn": {
+        "message": "កម្រិតខ្ពស់",
+        "description": "Advanced key generation settings."
+    },
+    "key_gen_another": {
+        "message": "បង្កើតមួយទៀត...",
+        "description": "Key import button"
+    },
+    "key_gen_demail": {
+        "message": "កំណត់អាសយដ្ឋានអ៊ីម៉េលម្តងទៀត",
+        "description": "De-Mail address name."
+    },
+    "key_gen_error": {
+        "message": "បញ្ហាក្នុងការបង្កើតសោរ។",
+        "description": "Key generation error message"
+    },
+    "key_gen_experimental": {
+        "message": "ពិសោធន៍",
+        "description": "A key algorithm is flagged as experimental"
+    },
+    "key_gen_expiration": {
+        "message": "កាលបរិច្ឆេទផុតកំណត់សោរ",
+        "description": "Key expiration date"
+    },
+    "key_gen_future_default": {
+        "message": "លំនាំដើមអនាគត",
+        "description": "Key generation algorithm, the future supported standard."
+    },
+    "key_gen_generate": {
+        "message": "បង្កើត",
+        "description": "Key generate button label"
+    },
+    "key_gen_invalid_email": {
+        "message": "អាសយដ្ឋានអ៊ីម៉េលមិនត្រឹមត្រូវ",
+        "description": "Error message."
+    },
+    "key_gen_key_size": {
+        "message": "ទំហំសោរ",
+        "description": "Advanced key generation settings: Key size"
+    },
+    "key_gen_name_help": {
+        "message": "ឈ្មោះពេញ នៃម្ចាស់សោរ",
+        "description": "Help text for name field."
+    },
+    "key_gen_pwd": {
+        "message": "បញ្ចូល​ពាក្យសម្ងាត់",
+        "description": "Label for passphrase input field"
+    },
+    "key_gen_pwd_empty": {
+        "message": "កន្លែងបញ្ចូលពាក្យសម្ងាត់នៅទទេរ",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_pwd_match": {
+        "message": "ពាក្យ​សម្ងាត់​ត្រូវ​គ្នា",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_pwd_reenter": {
+        "message": "បញ្ចូល​ពាក្យសម្ងាត់​ សារឡើងវិញ",
+        "description": "Label for passphrase input field"
+    },
+    "key_gen_pwd_unequal": {
+        "message": "ពាក្យសម្ងាត់ មិនត្រូវគ្នា",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_success": {
+        "message": "សោរថ្មីត្រូវបានបង្កើត និងបាននាំចូលក្នុងបណ្តុំសោរ",
+        "description": "Key generation success message"
+    },
+    "key_gen_upload": {
+        "message": "បញ្ជូនសោរសាធារណៈ ទៅកាន់​ម៉ាស៊ីនមេសោរ Mailvelope  (អាចត្រូវ​បានលុប ចោលគ្រប់ពេល)",
+        "description": "Upload key to Mailvelope key server checkbox"
+    },
+    "key_gen_wait_header": {
+        "message": "ការបង្កើតសោរកំពុងដំណើរការ...",
+        "description": "Wait dialog header"
+    },
+    "key_gen_wait_info": {
+        "message": "សូមរង់ចាំ, ការបង្កើតសោរ អាចចំណាយពេលច្រើននាទី អាស្រ័យ កត្តាច្រើន ដូចជា ទំហំសោរ។",
+        "description": "Wait dialog info message"
+    },
+    "key_import_bulk_success": {
+        "message": "សោបាននាំចូល/បានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ។",
+        "description": "Import success message for more than 5 keys"
+    },
+    "key_import_contacts_import_btn": {
+        "message": "នាំចូលសោនានា",
+        "description": "Contact import button label on key import page."
+    },
+    "key_import_default_description": {
+        "message": "បន្ទាប់ពីធ្វើការបញ្ជាក់រួច សោនេះត្រូវផ្ទេរទៅកាន់ចង្កោមសោក្នុងឃ្លាំងផ្ទុកមូលដ្ឋាននេះ៖",
+        "description": "Key import dialog description."
+    },
+    "key_import_default_description_plural": {
+        "message": "បន្ទាប់ពីធ្វើការបញ្ជាក់រួច សោទាំងនេះត្រូវផ្ទេរទៅកាន់ចង្កោមសោក្នុងឃ្លាំងផ្ទុកមូលដ្ឋាន៖",
+        "description": "Key import dialog description."
+    },
+    "key_import_default_headline": {
+        "message": "បញ្ជាក់សោ",
+        "description": "Key import dialog header."
+    },
+    "key_import_dialog_header": {
+        "message": "បន្ថែមសោរទៅបណ្តុំសោរ",
+        "description": "Key import dialog header."
+    },
+    "key_import_error": {
+        "message": "នាំចូលមានបញ្ហា។",
+        "description": "Import error alert."
+    },
+    "key_import_error_no_uid": {
+        "message": "រកមិនឃើញលេខID អ្នកប្រើប្រាស់ក្នុងសោ $1",
+        "description": "Import error no user id found."
+    },
+    "key_import_error_parse": {
+        "message": "កំហុសក្នុងការអានសោ PGP ៖ $1",
+        "description": "Import parse error."
+    },
+    "key_import_exception": {
+        "message": "បញ្ហាមួយកើតឡើងនៅពេលដំណើរការសោរនេះ",
+        "description": "Import error alert."
+    },
+    "key_import_file_label": {
+        "message": "ជ្រើសរើសេឯកសារ",
+        "description": "File selection label."
+    },
+    "key_import_from_text_btn": {
+        "message": "នាំចូលសោពីត្បៀតឯកសារ",
+        "description": "Import keys from clipboard button label on key import page."
+    },
+    "key_import_from_text_label": {
+        "message": "អក្សរពីត្បៀតឯកសារ",
+        "description": "Import keys from clipboard textarea label on key import page."
+    },
+    "key_import_invalid_text": {
+        "message": "រកមិនឃើញសោរជាអក្សរត្រឹមត្រូវ​ទេ",
+        "description": "Import error alert."
+    },
+    "key_import_invalidated_description": {
+        "message": "ការព្រមាន៖ សោសម្រាប់បញ្ជីទំនាក់ទំនងនេះបានផុតកំណត់ហើយ។ ការប្រាស្រ័យទាក់ទងដែលបានបំប្លែងកូដជាមួយ $1 គឺមិនអាចប្រើប្រាស់បានទៀតទេ។ អ្នកត្រូវយកសោបច្ចុប្បន្នពីបញ្ជីទំនាក់ទំនងនេះ។",
+        "description": ""
+    },
+    "key_import_number_of_failed": {
+        "message": "មិនអាចនាំចូលកូនសោបានទេដោយសារមានកំហុស។",
+        "description": "Error message with number of failed imports."
+    },
+    "key_import_number_of_failed_plural": {
+        "message": "$1 សោមិនអាចនាំចូលដោយសារមានបញ្ហា។",
+        "description": "Error message with number of failed imports."
+    },
+    "key_import_private_exists": {
+        "message": "ផ្នែកសោរឯកជន ត្រូវគ្នាជាមួយ សោរ​សាធារណៈដែលមានស្រាប់ $1 នៃអ្នកប្រើប្រាស់ $2 បាននាំចូលទៅក្នុងបណ្តុំសោរ",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_private_read": {
+        "message": "មិនអាចអានសោរឯកជន៖ $1",
+        "description": "Import error message. $1: error message"
+    },
+    "key_import_private_success": {
+        "message": "សោរឯកជន $1 នៃអ្នកប្រើប្រាស់ $2 បាន​នាំចូលក្នុងបណ្តុំសោរ",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_private_update": {
+        "message": "បានធ្វើបច្ចុប្បន្នភាព សោរឯកជន $1 នៃអ្នកប្រើប្រាស់ $2",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_public_read": {
+        "message": "មិនអាចអានសោរសាធារណ៖ $1",
+        "description": "Import error message. $1: error message"
+    },
+    "key_import_public_success": {
+        "message": "សោរសាធារណៈ $1 នៃអ្នកប្រើ $2 បាននាំចូលក្នុងបណ្តុំសោរ",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_public_update": {
+        "message": "បច្ចុប្បន្នភាពសោរសាធារណៈ $1 នៃអ្នកប្រើ $2",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_rotation_add": {
+        "message": "បន្ថែមទៅកាន់ចង្កោមសោ",
+        "description": "Key import rotation add button."
+    },
+    "key_import_rotation_cancel": {
+        "message": "មិនទាន់ចាប់ផ្តើម",
+        "description": "Key import rotation cancel button."
+    },
+    "key_import_rotation_description": {
+        "message": "ប្រសិនបើអ្នកបន្តប្រើសោចាស់ អ្នកផ្ញើប្រហែលជាមិនអាចដោះសោសាររបស់អ្នកបានទេ។ ប្រសិនបើអ្នកមានការសង្ស័យ សូមសួរទៅអ្នកផ្ញើឱ្យបញ្ជាក់ពីការផ្លាស់ប្តូរនៅក្នុងបណ្តាញទំនាក់ទំនងផ្សេងទៀត។ អ្នកអាចបន្ថែម ឬលុបសោនៅពេលក្រោយបាន។",
+        "description": "Key import dialog description."
+    },
+    "key_import_rotation_headline": {
+        "message": "អ្នកផ្ញើបានចុះហត្ថលេខាលើសារនេះដោយប្រើសោថ្មី។",
+        "description": "Key import rotation dialog header."
+    },
+    "key_import_search_btn": {
+        "message": "ស្វែងរក",
+        "description": "Key search input button."
+    },
+    "key_import_search_found": {
+        "message": "បានរកឃើញសោនៅក្នុង៖",
+        "description": "Key search found label."
+    },
+    "key_import_search_found_source": {
+        "message": "ប្រភព៖",
+        "description": "Key search found label."
+    },
+    "key_import_search_found_modified": {
+        "message": "បានកែសម្រួលចុងក្រោយនៅ៖",
+        "description": "Key search found label."
+    },
+    "key_import_search_disabled": {
+        "message": "បានបិទការស្វែងរក។",
+        "description": "Key search disabled warning."
+    },
+    "key_import_search_disabled_descr": {
+        "message": "យ៉ាងហោចណាស់បើកដំណើការប្រភពសោមួយនៅក្នុងការកំណត់នេះ។",
+        "description": "Key search disabled warning description."
+    },
+    "key_import_search_invalid": {
+        "message": "បញ្ចូលអាសយដ្ឋានអ៊ីមែលត្រឹមត្រូវ លេខសម្គាល់សោ (16 ខ្ទង់) ឬស្នាមម្រាមដៃ (40 ខ្ទង់)",
+        "description": "Key search input has invalid content."
+    },
+    "key_import_search_not_found": {
+        "message": "សោមិនមាននៅក្នុងបញ្ជីសោរដែលបានស្វែងរកណាមួយទេ។",
+        "description": "Key search found no result error message."
+    },
+    "key_import_search_not_found_header": {
+        "message": "រកមិនឃើញសោទេ។",
+        "description": "Key search found no result header."
+    },
+    "key_import_search_ph": {
+        "message": "អាសយដ្ឋានអ៊ីមែល / លេខសម្គាល់សោ / ស្នាមម្រាមដៃ",
+        "description": "Key search input place holder."
+    },
+    "key_import_textarea": {
+        "message": "បញ្ជូលសោរជាអក្សរ",
+        "description": "Key import box."
+    },
+    "key_import_too_big": {
+        "message": "សោរអក្សរ ដែលអ្នកព្យាយាមនាំចូលមានទំហំធំពេក។ ព្យាយាមនាំចូលបំណែកសោរ ដែលតូចជាងនេះ។",
+        "description": "Import error alert."
+    },
+    "key_import_unable": {
+        "message": "មិនអាចនាំចូលសោរដោយសារការលើកលែង៖ $1",
+        "description": "Import error message: $1: error message."
+    },
+    "key_keyserver_mod": {
+        "message": "ទិន្នន័យសម្រាប់សោនៅលើម៉ាស៊ីនមេសោ Mailvelope លែងមានបច្ចុប្បន្នភាពទៀតហើយ។",
+        "description": "Local key data differs from Mailvelope key server"
+    },
+    "key_keyserver_not": {
+        "message": "សោនេះមិនបានធ្វើសមកាលកម្មជាមួយនឹងម៉ាស៊ីនមេសោ Mailvelope ទេ។",
+        "description": "Key is not on the the Mailvelope server"
+    },
+    "key_keyserver_remove": {
+        "message": "បានផ្ញើអ៊ីមែលបញ្ជាក់ទៅកាន់លេខសម្គាល់អ្នកប្រើទាំងអស់ដើម្បីដកចេញជាចុងក្រោយពីម៉ាស៊ីនមេសោ Mailvelope។",
+        "description": "A deletion request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_remove_btn": {
+        "message": "លុបចោលលេខ IDs អ្នកប្រើប្រាស់ទាំងអស់",
+        "description": "Key server remove existing key button label"
+    },
+    "key_keyserver_resend_btn": {
+        "message": "បញ្ជូនម្តងទៀត",
+        "description": "Key server send again button label"
+    },
+    "key_keyserver_sync": {
+        "message": "ទិន្នន័យសោនៅលើម៉ាស៊ីនមេ Mailvelope បានធ្វើបច្ចុប្បន្នភាព។",
+        "description": "Key data is synchronized with the Mailvelope key server"
+    },
+    "key_keyserver_update": {
+        "message": "ទិន្នន័យសម្រាប់សោបានធ្វើបច្ចុប្បន្នភាពនៅលើម៉ាស៊ីនមេសោ Mailvelope។",
+        "description": "An update request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_update_btn": {
+        "message": "បច្ចុប្បន្នភាព",
+        "description": "Key server update button label"
+    },
+    "key_keyserver_upload": {
+        "message": "ដើម្បីធ្វើសមកាលកម្មសោជាមួយម៉ាស៊ីនមេសោ Mailvelope នោះនឹងមានផ្ញើអ៊ីមែលបញ្ជាក់ទៅកាន់លេខសម្គាល់អ្នកប្រើទាំងអស់។",
+        "description": "An upload request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_upload_btn": {
+        "message": "សមកាល",
+        "description": "Key server upload button label"
+    },
+    "key_recovery_failed": {
+        "message": "ការស្តារសោរពីការបម្រុងទុកបានបរាជ័យ។",
+        "description": ""
+    },
+    "key_remove_btn": {
+        "message": "ដកចេញ",
+        "description": "Remove key button label"
+    },
+    "key_remove_btn_title": {
+        "message": "លុបសោចេញពីចង្កោមសោ",
+        "description": "Title for remove key button"
+    },
+    "key_remove_dialog_title": {
+        "message": "លុបសោ",
+        "description": "Title of delete key dialog."
+    },
+    "key_revoke_btn": {
+        "message": "ដកហូត",
+        "description": "Revoke key button label"
+    },
+    "key_revoke_btn_title": {
+        "message": "ដកហូតសោ",
+        "description": "Title for revoke key button"
+    },
+    "key_revoke_dialog_confirm": {
+        "message": "តើអ្នកនៅតែចង់បន្តលុបសោនេះចេញមែនទេ?",
+        "description": "Confirmation question of revoke key dialog."
+    },
+    "key_revoke_dialog_description": {
+        "message": "ការលុបចោលនេះ នោះសោនេះនឹងមិនអាចប្រើប្រាស់ឡើងវិញបានជារហូត។",
+        "description": "Text of revoke key dialog."
+    },
+    "key_revoke_dialog_title": {
+        "message": "ដកហូតសោ",
+        "description": "Title of revoke key dialog."
+    },
+    "key_set_as_default": {
+        "message": "កំណត់ជាលំនាំដើម",
+        "description": "Set as default key for the keyring button"
+    },
+    "keybackup_failed": {
+        "message": "ការបង្កើតសោរបម្រុងទុកបានបរាជ័យ។",
+        "description": ""
+    },
+    "keybackup_restore_dialog_button": {
+        "message": "ស្តារការបម្រុងទុក",
+        "description": ""
+    },
+    "keybackup_restore_dialog_description": {
+        "message": "បង្កើតសន្លឹកស្តារឡើងវិញថ្មីនៅទីនេះ ប្រសិនបើ៖",
+        "description": ""
+    },
+    "keybackup_restore_dialog_headline": {
+        "message": "ការណែនាំ៖ បង្កើតការបម្រុងទុក",
+        "description": ""
+    },
+    "keybackup_restore_dialog_list_1": {
+        "message": "អ្នកបានបាត់បង់តារាងស្តារឡើងវិញ។",
+        "description": ""
+    },
+    "keybackup_restore_dialog_list_2": {
+        "message": "តារាងស្តារឡើងវិញថ្មីមួួយ ត្រូវបានបង្កើតឡើងដើម្បីសុវត្ថិភាព។",
+        "description": ""
+    },
+    "keybackup_setup_dialog_button": {
+        "message": "បង្កើតការបម្រុងទុក",
+        "description": ""
+    },
+    "keybackup_setup_dialog_description": {
+        "message": "ការបម្រុងទុក ត្រូវបានទាមទារ ដើម្បីការពារការទំនាក់ទំនងដែលសម្ងាត់របស់អ្នក៖",
+        "description": ""
+    },
+    "keybackup_setup_dialog_headline": {
+        "message": "ការណែនាំ៖ កំណត់ការបម្រុងទុក",
+        "description": ""
+    },
+    "keybackup_setup_dialog_list_1": {
+        "message": "ដើម្បីស្តារវាឡើងវិញក្នុងករណីបាត់បង់ទិន្នន័យ",
+        "description": "In order to restore your encrypted communication in case of data loss."
+    },
+    "keybackup_setup_dialog_list_2": {
+        "message": "ដើម្បីផ្ទេរវាទៅកាន់ឧបករណ៍ផ្សេង",
+        "description": "In order to transfer your encrypted communication to other devices."
+    },
+    "keybackup_waiting_description": {
+        "message": "ឯកសារជាមួយកូដស្តារឡើងវិញ ត្រូវបានរៀបចំ។",
+        "description": ""
+    },
+    "keybackup_waiting_headline": {
+        "message": "បង្កើតការបម្រុងទុក!",
+        "description": ""
+    },
+    "keydetails_change_exp_date_dialog_note": {
+        "message": "កាលបរិច្ឆេទផុតកំណត់ក៏បានប្តូរផងដែរសម្រាប់សោរងទាំងអស់។ សោរងមិនត្រឹមត្រូវ ឬសោរងផុតកំណត់ហើយ នៅតែមិនមានឥទ្ធិពលដដែល។",
+        "description": "Important note in change expiration date dialog."
+    },
+    "keydetails_change_exp_date_dialog_title": {
+        "message": "ផ្លាស់ប្តូរថ្ងៃផុតកំណត់",
+        "description": "Title of change expiration date dialog."
+    },
+    "keydetails_change_pwd_dialog_old": {
+        "message": "ពាក្យសម្ងាត់ចាស់",
+        "description": "Old password input label"
+    },
+    "keydetails_change_pwd_dialog_title": {
+        "message": "ផ្លាស់ប្តូរពាក្យសម្ងាត់",
+        "description": "Title of change password dialog."
+    },
+    "keydetails_creation_date": {
+        "message": "បានបង្កើត",
+        "description": "Creation date of a PGP key."
+    },
+    "keydetails_expiration_date": {
+        "message": "ហួសកំណត់",
+        "description": "Expiration date of a PGP key."
+    },
+    "keydetails_key_not_expire": {
+        "message": "មិនដែល",
+        "description": "Expiration date of a PGP key not set."
+    },
+    "keydetails_password": {
+        "message": "ពាក្យសម្ងាត់",
+        "description": "Password of a PGP key."
+    },
+    "keydetails_title": {
+        "message": "សោលម្អិត",
+        "description": "Title of the key details panel"
+    },
+    "keygen_dialog_password_error_length": {
+        "message": "ពាក្យសម្ងាត់ទាមទារយ៉ាងហោច $1 ខ្ទង់",
+        "description": ""
+    },
+    "keygen_dialog_password_placeholder": {
+        "message": "យ៉ាងតិច 4 ខ្ទង់",
+        "description": ""
+    },
+    "keygen_dialog_prolog": {
+        "message": "សូមដាក់​ពាក្យសម្ងាត់ ដើម្បីការពារ​ការទំនាក់ទំនង​របស់អ្នកដោយកូដនីយកម្ម៖",
+        "description": ""
+    },
+    "keygen_waiting_description": {
+        "message": "ដំណើរការនេះអាចចំណាយពេលច្រើន។ កម្មវិធីរុករករបស់អ្នកអាចនឹងលែងឆ្លើយតប។ សូម​អត់ធ្មត់។",
+        "description": ""
+    },
+    "keygen_waiting_headline": {
+        "message": "ការកំណត់​ការទំនាក់ទំនងឲ្យ​សម្ងាត់",
+        "description": ""
+    },
+    "keygrid_algorithm": {
+        "message": "ក្បួនដោះស្រាយ",
+        "description": "Public-key algorithm of a PGP key."
+    },
+    "keygrid_all_keys": {
+        "message": "ទាំងអស់",
+        "description": "Selection of key type."
+    },
+    "keygrid_creation_date": {
+        "message": "កាលបរិច្ឆេទបង្កើត",
+        "description": "Creation date of a PGP key."
+    },
+    "keygrid_creation_date_short": {
+        "message": "បានបង្កើត",
+        "description": "Short creation date of a PGP key. Max. width: 90px"
+    },
+    "keygrid_default_key": {
+        "message": "សោដើម",
+        "description": "Default key in the keyring."
+    },
+    "keygrid_default_label": {
+        "message": "លំនាំដើម",
+        "description": "Label for the default key"
+    },
+    "keygrid_delete": {
+        "message": "លុប",
+        "description": "Max. 6 characters."
+    },
+    "keygrid_delete_confirmation": {
+        "message": "តើ​អ្នក​ប្រាកដ​ថាចង់​លុបសោរនេះមែនទេ?",
+        "description": "Delete confirmation dialog."
+    },
+    "keygrid_display_all_keys": {
+        "message": "បង្ហាញសោរទាំងអស់",
+        "description": "Export key menu."
+    },
+    "keygrid_display_priv_key": {
+        "message": "បង្ហាញសោរឯកជន",
+        "description": "Export key menu."
+    },
+    "keygrid_display_pub_key": {
+        "message": "បង្ហាញសោរសាធារណៈ",
+        "description": "Export key menu."
+    },
+    "keygrid_expiration_date": {
+        "message": "កាលបរិច្ឆេទផុតកំណត់",
+        "description": "Expiration date of a PGP key."
+    },
+    "keygrid_export": {
+        "message": "នាំចេញ",
+        "description": "Export key."
+    },
+    "keygrid_export_title": {
+        "message": "នាំចេញសោរទាំងអស់នៅក្នុងបញ្ជីឯកសារ",
+        "description": "Title for Export key button."
+    },
+    "keygrid_generate_title": {
+        "message": "បង្កើតសោរ",
+        "description": "Title for generate key button"
+    },
+    "keygrid_import_search_title": {
+        "message": "ស្វែងរកសោសាធារណៈនៅក្នុងប្រភពខាងក្រៅ",
+        "description": "Title for Search key button."
+    },
+    "keygrid_import_title": {
+        "message": "នាំចូលសោរ",
+        "description": "Title for Import key button."
+    },
+    "keygrid_invalid_userid": {
+        "message": "អត្តសញ្ញាណអ្នកប្រើប្រាស់មិនត្រឹមត្រូវ",
+        "description": "User ID invalid."
+    },
+    "keygrid_key_fingerprint": {
+        "message": "ស្នាមម្រាមដៃ PGP",
+        "description": "Unique string identifier for a PGP key."
+    },
+    "keygrid_key_length": {
+        "message": "ប្រវែង",
+        "description": "Key length of a PGP key."
+    },
+    "keygrid_key_not_expire": {
+        "message": "សោរនេះមិនទាន់ផុតកំណត់ទេ",
+        "description": "Expiration date of a PGP key not set."
+    },
+    "keygrid_keyid": {
+        "message": "លេខសោរ៖",
+        "description": "Key ID of a PGP key."
+    },
+    "keygrid_primary_key": {
+        "message": "សោរចំបង",
+        "description": "Main key in the PGP key."
+    },
+    "keygrid_private_keys": {
+        "message": "សោរឯកជន",
+        "description": "Selection of key type."
+    },
+    "keygrid_public_keys": {
+        "message": "សោរសាធារណៈ",
+        "description": "Selection of key type."
+    },
+    "keygrid_refresh": {
+        "message": "ផ្ទុកឡើងវិញ",
+        "description": "Refresh keygrid component."
+    },
+    "keygrid_refresh_title": {
+        "message": "ផ្ទុកបណ្តុំសោរឡើងវិញ",
+        "description": "Title for button to refresh keygrid component."
+    },
+    "keygrid_send_pub_key": {
+        "message": "ផ្ញើសោរសាធារណៈតាមអ៊ីម៉េល",
+        "description": "Export key menu."
+    },
+    "keygrid_signer_name": {
+        "message": "អ្នកចុះហត្ថលេខា",
+        "description": "User ID of signer."
+    },
+    "keygrid_signer_unknown": {
+        "message": "អ្នកចុះហត្ថលេខាដែលគេមិនស្គាល់",
+        "description": "Key of signer not available."
+    },
+    "keygrid_sort_type": {
+        "message": "ចម្រោះ",
+        "description": "Key grid sort selector."
+    },
+    "keygrid_status_expired": {
+        "message": "បានហួសកំណត់",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_invalid": {
+        "message": "មិនត្រឹមត្រូវ",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_revoked": {
+        "message": "បានដកហូត",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_valid": {
+        "message": "ត្រឹមត្រូវ",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_subkey": {
+        "message": "សោរបន្ទាប់បន្សំ",
+        "description": "Subkey of a PGP key."
+    },
+    "keygrid_subkeys": {
+        "message": "សោរបន្ទាប់បន្សំ",
+        "description": "Subkeys of a PGP key."
+    },
+    "keygrid_user_email": {
+        "message": "អ៊ីម៉េល",
+        "description": "Email address in User ID of a PGP key."
+    },
+    "keygrid_user_ids": {
+        "message": "លេខ​សម្គាល់​អ្នកប្រើ៖",
+        "description": "User IDs of a PGP key."
+    },
+    "keygrid_user_name": {
+        "message": "ឈ្មោះ",
+        "description": "Name in User ID of a PGP key."
+    },
+    "keygrid_user_primary": {
+        "message": "ចម្បង",
+        "description": "Primary status of User ID of a PGP key"
+    },
+    "keygrid_userid_signatures": {
+        "message": "ហត្ថលេខា",
+        "description": "Signatures on User ID of a PGP key."
+    },
+    "keygrid_validity_status": {
+        "message": "ស្ថានភាព",
+        "description": "Validity status of a PGP key."
+    },
+    "keyring_available_settings": {
+        "message": "មើលការកំណត់ដែលមាននៅ៖",
+        "description": "Text introducing the availability of further settings."
+    },
+    "keyring_backup": {
+        "message": "បម្រុងទុកបណ្តុំសោរ",
+        "description": "Title of keyring backup view"
+    },
+    "keyring_confirm_deletion": {
+        "message": "តើអ្នកចង់លុបបណ្តុំសោរជាមួយលេខសម្គាល់៖ $1?",
+        "description": "Confirmation message prompted when a keyring is deleted"
+    },
+    "keyring_confirm_keys": {
+        "message": "បញ្ជាក់ដោយដាកសោដើម្បីនាំចូល",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_confirm_keys_plural": {
+        "message": "បញ្ជាក់ដោយវាយបញ្ចូលសោ $1 ដើម្បីនាំចូល",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_export_keys": {
+        "message": "នាំចេញបណ្តុំសោរ",
+        "description": "Tab of keyring to export keys."
+    },
+    "keyring_generate_key": {
+        "message": "បង្កើតសោរ",
+        "description": "Tab of keyring to generate key."
+    },
+    "keyring_header": {
+        "message": "ការគ្រប់គ្រងសោរ",
+        "description": "Header of the key ring."
+    },
+    "keyring_import_description": {
+        "message": "អ្នកអាចបន្ថែមសោបានអាចជាឯកសារ ឬជាអត្ថបទពីឃ្លីបបតនេះ។",
+        "description": "Description of key import for import tab of keyring import."
+    },
+    "keyring_import_keys": {
+        "message": "នាំចូលសោ",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_import_search_description": {
+        "message": "ស្វែងរកសោសាធារណៈដើម្បីបន្ថែមទៅកាន់ចង្កោមសោរបស់អ្នក។ Mailvelope ស្កេនថតឯកសារសំខាន់ៗជាច្រើន ហើយណែនាំសោសាធារណៈ ដែលទំនងជាកំពុងប្រើភាគច្រើនបំផុត។",
+        "description": "Description of key search for search tab of keyring import."
+    },
+    "keyring_import_search_keys": {
+        "message": "ស្វែងរកសោ",
+        "description": "Tab of keyring to search keys."
+    },
+    "keyring_main": {
+        "message": "សោរចំបង",
+        "description": "Label for the main keyring"
+    },
+    "keyring_private": {
+        "message": "ឯកជន",
+        "description": "private key type"
+    },
+    "keyring_public": {
+        "message": "សាធារណៈ",
+        "description": "public key type"
+    },
+    "keyring_public_private": {
+        "message": "សោរគូ",
+        "description": "public and private key types"
+    },
+    "keyring_remove_dialog_title": {
+        "message": "លុបចង្កោមសោ",
+        "description": "Title of delete keyring dialog."
+    },
+    "keyring_setup": {
+        "message": "ដំឡើង",
+        "description": "Setup keyring for mail provider."
+    },
+    "keyring_setup_generate_key": {
+        "message": "បង្កើតសោរ",
+        "description": "Generate key"
+    },
+    "keyring_setup_generate_key_explanation": {
+        "message": "ប្រសិនបើអ្នកប្រើកម្មវិធីបន្ថែមនេះជាលើកដំបូង​ និងបើអ្នកមិនទាន់មានសោរគូទេ សូមបង្កើតសោរឥឡូវនេះ។",
+        "description": "Generate key"
+    },
+    "keyring_setup_import_key": {
+        "message": "បញ្ជូលសោរ",
+        "description": "Import key"
+    },
+    "keyring_setup_import_key_explanation": {
+        "message": "តើអ្នកធ្លាប់មានសោរគូលើឧបករណ៍ដទៃ? អ្នកអាចនាំចូលសោរដែលមានស្រាប់។ គ្រាន់តែនាំចេញសោរគូពីឧបករណ៍ផ្សេង និងនាំចូលនៅទីនេះ។",
+        "description": "Import key"
+    },
+    "keyring_setup_no_keypair": {
+        "message": "សោរគូ តម្រូវឲ្យមាន កូដនីយកម្ម និង​បើកកូដនីយកម្ម ព្រមទាំងអញ្ជើញឈ្មោះក្នុងបញ្ជីទំនាក់ទំនងរបស់អ្នក ដើម្បីទំនាក់ទំនង​បានកូដនីយកម្មទំាងសងខាង។",
+        "description": "Setup text if no keypair available"
+    },
+    "keyring_setup_no_keypair_heading": {
+        "message": "បណ្តុំសោរនេះ មិនទាន់មានសោរគូទេ។",
+        "description": "Setup heading if no keypair available"
+    },
+    "keyserver_additionals_label": {
+        "message": "ប្រភពសោផ្សេងៗ",
+        "description": "Label for configuration of additional key sources"
+    },
+    "keyserver_autocrypt_lookup": {
+        "message": "ប្រើប្រាស់សោពីបឋមកថាដែលបានបានបំប្លែងកូដដោយស្វ័យប្រវត្តិនៃអ៊ីមែលផ្ញើចូល",
+        "description": "Enable Looking Up Keys Via Autocrypt"
+    },
+    "keyserver_tofu_lookup": {
+        "message": "ប្រើប្រាស់ម៉ាស៊ីនមេសោ Mailvelope",
+        "description": "Enable Mailvelope Key Server Auto Lookup"
+    },
+    "keyserver_key_binding_header": {
+        "message": "ការរកឃើញសោ",
+        "description": "Header for key binding feature"
+    },
+    "keyserver_key_binding_label": {
+        "message": "កំណត់សោបច្ចុប្បន្នសម្រាប់បញ្ជីទំនាក់ទំនង និងធ្វើការជ្រើសរើសសោដោយស្វ័យប្រវត្តិ",
+        "description": "Label for key binding feature"
+    },
+    "keyserver_oks_lookup": {
+        "message": "ស្វែងរកសោដោយស្វ័យប្រវត្តិនៅលើ <0>keys.openpgp.org</0>",
+        "description": "Enable keys.openpgp.org Auto Lookup"
+    },
+    "keyserver_verifying_servers": {
+        "message": "ម៉ាស៊ីនមេសោដោយមានការផ្ទៀងផ្ទាត់អ៊ីមែល",
+        "description": "Label for verifying key servers."
+    },
+    "keyserver_wkd_lookup": {
+        "message": "ពាក្យគន្លឹះសំណួរពីអ្នកផ្តល់អ៊ីមែល (អ្នកទទួលកូនសោគេហទំព័រ)",
+        "description": "Enable Web Key Directory Auto Lookup"
+    },
+    "keyusers_add_btn": {
+        "message": "បន្ថែមថ្មី",
+        "description": "Add user button label"
+    },
+    "keyusers_add_btn_title": {
+        "message": "បន្ថែមលេខ ID អ្នកប្រើប្រាស់ថ្មី",
+        "description": "Add user button title"
+    },
+    "keyusers_keyserver": {
+        "message": "ម៉ាស៊ីនមេសោរ",
+        "description": "Label of key server column key users table"
+    },
+    "keyusers_keyserver_not": {
+        "message": "មិនបានធ្វើសមកាលកម្ម",
+        "description": "User ID not synchronized with key server label text"
+    },
+    "keyusers_keyserver_sync": {
+        "message": "បានធ្វើសមកាលកម្ម",
+        "description": "User ID synchronized with key server label text"
+    },
+    "keyusers_keyserver_unverified": {
+        "message": "មិនបានផ្ទៀងផ្ទាត់",
+        "description": "User ID key server not verified label text"
+    },
+    "keyusers_title": {
+        "message": "កំណត់លេខ IDs អ្នកប្រើប្រាស់",
+        "description": "Title of the key users panel"
+    },
+    "learn_more_link": {
+        "message": "ស្វែងយល់បន្ថែម",
+        "description": "Text of a link to a learn-more resource"
+    },
+    "message_no_keys": {
+        "message": "រកមិនឃើញសោរឯកជន​ទេ សម្រាប់សារនេះ។ ទាមទារសោរឯកជន លេខសម្គាល់៖ $1",
+        "description": "Decrypt error message."
+    },
+    "message_read_error": {
+        "message": "មិនអាចធ្វើកូដនីយកម្មលើសារនេះ៖ $1",
+        "description": "Message read error message: $1: error message."
+    },
+    "nameaddrinput_error_email_exists": {
+        "message": "អាសយដ្ឋានអ៊ីម៉ែលនេះ ត្រូវបានគេប្រើប្រាស់",
+        "description": "Error message for email input field."
+    },
+    "nameaddrinput_error_name_empty": {
+        "message": "សូមបញ្ចូលឈ្មោះ",
+        "description": "Error message for name input field."
+    },
+    "notification_text_copy_to_clipboard": {
+        "message": "អក្សរបានចម្លងទៅក្ដារត្បៀតឯកសារ",
+        "description": "Copy to clipboard toast message."
+    },
+    "options_docu": {
+        "message": "ឯកសារ",
+        "description": "Options navigation: Documentation."
+    },
+    "options_home": {
+        "message": "ជម្រើស",
+        "description": "Options navigation: Home."
+    },
+    "options_settings": {
+        "message": "ការកំណត់",
+        "description": "Options header: Settings."
+    },
+    "options_title": {
+        "message": "ជម្រើស​ Mailvelope",
+        "description": "Title of options page."
+    },
+    "preferred": {
+        "message": "ចំណូលចិត្ត",
+        "description": "Indicates if a keyring is preferred"
+    },
+    "provider_gmail_auth": {
+        "message": "ការអនុញ្ញាត",
+        "description": "Authorizations"
+    },
+    "provider_gmail_auth_cancel_btn": {
+        "message": "បោះបង់ការអនុញ្ញាត",
+        "description": "Cancel authorization button"
+    },
+    "provider_gmail_auth_readonly": {
+        "message": "អានអ៊ីម៉ែល",
+        "description": "Readonly authorization"
+    },
+    "provider_gmail_auth_send": {
+        "message": "ផ្ញើ អ៊ីម៉ែល",
+        "description": "Send authorization"
+    },
+    "provider_gmail_auth_table_title": {
+        "message": "ការអនុញ្ញាត Google API",
+        "description": "Title for authorization table."
+    },
+    "provider_gmail_dialog_auth_google_signin": {
+        "message": "ចូលដោយប្រើ Google",
+        "description": "Text Google sign in button"
+    },
+    "provider_gmail_dialog_auth_intro": {
+        "message": "ដើម្បីប្រើការរួមបញ្ចូល Gmail សម្រាប់ <0></0> ការអនុញ្ញាតខាងក្រោមត្រូវតែផ្តល់ទៅឱ្យ Mailvelope៖",
+        "description": "Intro text for GMAIL OAuth dialog."
+    },
+    "provider_gmail_dialog_auth_outro": {
+        "message": "ប្រសិនបើអ្នកចុចលើប៊ូតុងចូល ផ្ទាំងវីនដូការអនុញ្ញាត Google នឹងបើក។ ជ្រើសរើសគណនី Gmail របស់អ្នកសម្រាប់អាសយដ្ឋានអ៊ីមែល <0></0> ហើយធ្វើតាមការណែនាំ។",
+        "description": "Outro text for GMAIL OAuth dialog."
+    },
+    "provider_gmail_dialog_description": {
+        "message": "ការប្រើប្រាស់ Gmail API ដើម្បីបន្ថែមមុខងាររបស់ Mailvelope ជាមួយ Gmail និងសម្រួលទៅដល់ការផ្ញើ និងអានអ៊ីមែល និងឯកសារភ្ជាប់ដែលបានបំប្លែងកូដរួចហើយ។",
+        "description": "Leading text for GMAIL API dialog."
+    },
+    "provider_gmail_dialog_gsuite_alert": {
+        "message": "មុខងារនេះអាចប្រើប្រាស់បានដោយសេរីសម្រាប់គណនី Gmail។ ប្រសិនបើអ្នកបានចូលរួមប្រើប្រាស់ឈុត G Suite (<0>gsuite.google.com</0>) អ្នកចាំបាច់ត្រូវតែទិញអាជ្ញាបណ្ណនៅលើ <1>ទំព័រផលិតផល Mailvelope</1>។",
+        "description": "Alert text for GSuite Users in GMAIL API dialog."
+    },
+    "provider_gmail_dialog_privacy_policy": {
+        "message": "សូមអានគោលការណ៍ឯកជនភាពរបស់យើង",
+        "description": "Privacy policy link."
+    },
+    "provider_gmail_dialog_title": {
+        "message": "ការប្រើប្រាស់ Gmail API",
+        "description": "Title of GMAIL API dialog."
+    },
+    "provider_gmail_integration": {
+        "message": "ការរួមបញ្ចូល Gmail API",
+        "description": "Label for Gmail integration option."
+    },
+    "provider_gmail_integration_info": {
+        "message": "Mailvelope តម្រូវឱ្យមានការអនុញ្ញាតបន្ថែម ដើម្បីចូលប្រើប្រាស់ Gmail API ។ នៅពេលណាអ្នកចាប់ផ្តើមប្រើប្រាស់មុខងារបំប្លែងកូដរបស់ Mailvelope ក្នុង Gmail នោះអ្នកនឹងត្រូវណែនាំតាមរយៈដំណើរការអនុញ្ញាត។ ដំណើរការអនុញ្ញាតនេះតម្រូវឱ្យអ្នក ចូល គណនី Google របស់អ្នក។",
+        "description": "Info message for Gmail integration option"
+    },
+    "provider_gmail_integration_warning": {
+        "message": "Gmail មិនត្រូវបានអនុញ្ញាតជាមួយទម្រង់ស្វែងរក <0></0>។ សូមពិនិត្យការកំណត់ក្នុង <1></1>។",
+        "description": "Warning message, when Gmail is not authorized"
+    },
+    "provider_gmail_licensing_dialog_business_btn_info": {
+        "message": "ការប្រាស្រ័យទាក់ទងប្រកបដោយសុវត្ថិភាពជាមួយអង្គការនានានៅទូទាំងពិភពលោក",
+        "description": "Info text on Business button "
+    },
+    "provider_gmail_licensing_dialog_business_btn_price_info": {
+        "message": "សម្រាប់អ្នកប្រើ/ខែ",
+        "description": "Info text for price label of Business button"
+    },
+    "provider_gmail_licensing_dialog_deactivate_btn": {
+        "message": "បន្តដោយមិនមាន Gmail API",
+        "description": "Gmail API deactivate button in licensing dialog"
+    },
+    "provider_gmail_licensing_dialog_para_1": {
+        "message": "ការប្រើប្រាស់ Gmail API នៅក្នុងឈុត G Suite គឺ <0>តម្រូវឲ្យគិតថ្លៃ</0>។",
+        "description": "Text of Gmail API licensing dialog first paragraph."
+    },
+    "provider_gmail_licensing_dialog_para_2": {
+        "message": "អ្នកអាចបន្តប្រើប្រាស់ Mailvelope ជាមួយ Gmail ដោយឥតគិតថ្លៃ ប៉ុន្តែ <0>ជាមួយ API ដំណើរការការងាររបស់អ្នក</0> សម្រាប់ការសរសេរ និងអានអ៊ីមែលដែលបានបំប្លែងកូដហើយ និងឯកសារភ្ជាប់របស់ពួកវានឹង <1>កាន់តែលឿន និងងាយស្រួលជាងមុន</1>។",
+        "description": "Text of Gmail API licensing dialog second paragraph."
+    },
+    "provider_gmail_licensing_dialog_para_3": {
+        "message": "សាកល្បង Mailvelope Business ជាមួយ Gmail API ដែលបានបើកដំណើរការ <0>14 ថ្ងៃដោយឥតគិតថ្លៃ</0>៖",
+        "description": "Text of Gmail API licensing dialog third paragraph."
+    },
+    "provider_gmail_licensing_dialog_test_btn": {
+        "message": "សាកល្បង Gmail API ដោយឥតគិតថ្លៃ",
+        "description": "Gmail API test button in licensing dialog"
+    },
+    "provider_gmail_licensing_dialog_title": {
+        "message": "តម្រូវឲ្យមានអាជ្ញាបណ្ណអាជីវកម្ម Mailvelope",
+        "description": "Title of GMAIL API licensing dialog."
+    },
+    "provider_gmail_licensing_table_caption": {
+        "message": "អាជ្ញាបណ្ណនានាសម្រាប់ការប្រើប្រាស់ការរួមបញ្ចូល Gmail-API នៅពេលប្រើប្រាស់ឈុត G Suite (<0>gsuite.google.com</0>) អាចទិញបាននៅលើ <1>ទំព័រផលិតផល Mailvelope</1>។",
+        "description": "Caption for G Suite licensing table."
+    },
+    "provider_gmail_licensing_table_title": {
+        "message": "អាជ្ញាបណ្ណ Mailvelope",
+        "description": "Title for G Suite licensing table."
+    },
+    "provider_gmail_secure_forward_btn": {
+        "message": "ផ្ញើបន្តដោយសម្ងាត់",
+        "description": "Secure forward button title/tooltip"
+    },
+    "provider_gmail_secure_replyAll_btn": {
+        "message": "ឆ្លើយដោយសម្ងាត់ទៅទាំងអស់គ្នា",
+        "description": "Secure reply all button title/tooltip"
+    },
+    "provider_gmail_secure_reply_btn": {
+        "message": "ឆ្លើយដោយសម្ងាត់",
+        "description": "Secure reply button title/tooltip"
+    },
+    "pwd_dialog_cache_pwd": {
+        "message": "ចងចាំ​ពាក្យសម្ងាត់​បណ្តោះអាសន្ន",
+        "description": "Checkbox label for remembering of the password."
+    },
+    "pwd_dialog_cancel": {
+        "message": "ការដោះសោរត្រូវបានបោះបង់។",
+        "description": "User canceled key unlock dialog."
+    },
+    "pwd_dialog_header": {
+        "message": "បញ្ចូល ពាក្យសម្ងាត់",
+        "description": "Header of the password dialog."
+    },
+    "pwd_dialog_pwd_please": {
+        "message": "សូមបញ្ជូន​ពាក្យសម្ងាត់​របស់អ្នក",
+        "description": "Placeholder for password."
+    },
+    "pwd_dialog_reason_add_user": {
+        "message": "សូមបញ្ចូលពាក្យសម្ងាត់នៃសោរបស់អ្នក ដើម្បីបង្កើតលេខសម្គាល់អ្នកប្រើ។",
+        "description": ""
+    },
+    "pwd_dialog_reason_create_backup": {
+        "message": "សូមបញ្ចូល​ពាក្យសម្ងាត់​របស់អ្នក ដើម្បី​បង្កើតតារាងស្តារឡើងវិញមួយ។",
+        "description": ""
+    },
+    "pwd_dialog_reason_create_draft": {
+        "message": "បញ្ចូល​ពាក្យសម្ងាត់ដើម្បីរក្សាសំណៅព្រាង។",
+        "description": ""
+    },
+    "pwd_dialog_reason_decrypt": {
+        "message": "សូមបញ្ចូល​ពាក្យសម្ងាត់​របស់អ្នកដើម្បី​បើកកូដនីយកម្ម។",
+        "description": ""
+    },
+    "pwd_dialog_reason_editor": {
+        "message": "សូមបញ្ចូល​ពាក្យសម្ងាត់​របស់អ្នក ដើម្បី​ធ្វើបច្ចុប្បន្នភាព ការកំណត់ សម្រាប់ការទំនាក់ទំនងឲ្យ​មានការសម្ងាត់។",
+        "description": ""
+    },
+    "pwd_dialog_reason_revoke": {
+        "message": "សូមបញ្ចូលពាក្យសំងាត់របស់អ្នកដើម្បីដកលេខកូដនេះ។",
+        "description": ""
+    },
+    "pwd_dialog_reason_revoke_user": {
+        "message": "សូមបញ្ចូលពាក្យសម្ងាត់នៃសោរបស់អ្នក ដើម្បីដកចេញលេខសម្គាល់អ្នកប្រើ។",
+        "description": ""
+    },
+    "pwd_dialog_reason_set_exdate": {
+        "message": "សូមបញ្ចូលពាក្យសម្ងាត់នៃសោរបស់អ្នក ដើម្បីកំណត់កាលបរិច្ឆេទផុតកំណត់ថ្មីសម្រាប់សោនេះ។",
+        "description": ""
+    },
+    "pwd_dialog_reason_sign": {
+        "message": "សូមបញ្ចូល​ពាក្យសម្ងាត់​របស់អ្នក ដើម្បី​ចុះហត្ថលេខា សារនេះ។",
+        "description": ""
+    },
+    "pwd_dialog_title": {
+        "message": "បញ្ចូលពាក្យសម្ងាត់ | Mailvelope",
+        "description": "Title of the password dialog."
+    },
+    "pwd_dialog_userid": {
+        "message": "លេខប្រើ៖",
+        "description": "Label for user ID."
+    },
+    "pwd_dialog_wrong_pwd": {
+        "message": "ខុស​ពាក្យសម្ងាត់",
+        "description": "Password error message."
+    },
+    "recovery_sheet_backup_data": {
+        "message": "ទិន្នន័យបម្រុងទុករបស់អ្នក",
+        "description": ""
+    },
+    "recovery_sheet_backup_local": {
+        "message": "ប្រសិនបើអ្នកចង់ រក្សាទុកឯកសារ ដាច់ដោយឡែកក្នុងកុំព្យូទ័ររបស់អ្នក អ្នកនឹងឃើញជម្រើសនៃការកំណត់ការទំនាក់ទំនង​សម្ងាត់នៃគណនី $1 របស់អ្នក។",
+        "description": ""
+    },
+    "recovery_sheet_backup_server": {
+        "message": "ដើម្បីបម្រុងទុកទិន្នន័យ ដែលសំខាន់សម្រាប់ការទំនាក់ទំនង​ដោយសម្ងាត់​ (ឧទា. សោរ​ពាក្យសម្ងាត់​), ទិន្នន័យ នឹងត្រូវរក្សាទុកដោយ​ធ្វើកូដនីយកម្មនៅលើម៉ាស៊ីនមេ $1 របស់យើង ដោយដៃគូសុវត្ថិភាពរបស់យើង Mailvelope។",
+        "description": ""
+    },
+    "recovery_sheet_be_aware": {
+        "message": "សូមប្រុងប្រយ័ត្ន",
+        "description": "Label"
+    },
+    "recovery_sheet_check_settings": {
+        "message": "សូមពិនិត្យការកំណត់ក្នុងគណនីរបស់អ្នក ខាងក្រោម៖",
+        "description": ""
+    },
+    "recovery_sheet_creation_date": {
+        "message": "កាលបរិច្ឆេទបង្កើត៖",
+        "description": "Label for recovery sheet creation date"
+    },
+    "recovery_sheet_data_lost": {
+        "message": "បើគ្មានការបម្រុងទុក, សារសម្ងាត់​របស់អ្នកមិនអាចធ្វើវិកូដនីយកម្ម ឬដោះកូដមកវិញបានទេក្នុងករណីដែលអ្នក ​ពាក្យសម្ងាត់​សោរ ឬក្នុងករណីដែលអ្នកមានបញ្ហាជាមួយកម្មវិធីរុករក។",
+        "description": ""
+    },
+    "recovery_sheet_encryption_note": {
+        "message": "ជំនួយសម្រាប់ការទំនាក់ទំនងសម្ងាត់ជាមួយ $1",
+        "description": "Sub title"
+    },
+    "recovery_sheet_enter_code": {
+        "message": "សម្រាប់ការដំឡើងលើកុំព្យូទ័រផ្សេង, បញ្ចូលកូដស្តារឡើងវិញ ក្នុងការកំណត់ ខាងក្រោម៖",
+        "description": "Label for navigation path"
+    },
+    "recovery_sheet_explain_pgp": {
+        "message": "ការទំនាក់ទំនងសម្ងាត់ជាមួយ $1 ជាដំណើរការ​ផ្អែកលើ PGP។ វាអនុញ្ញាតអ្នកបញ្ជូនសារសម្ងាត់ ក្នុងខណៈពេលជាមួយគ្នា វាធានាថាមានតែអ្នក និងអ្នកទទួលប៉ុណ្ណោះ ដែលអាចអានសារបាន។",
+        "description": ""
+    },
+    "recovery_sheet_extension_problems": {
+        "message": "ដោយសារតែមានបញ្ហាជាមួយកម្មវិធីរុករក",
+        "description": "List item"
+    },
+    "recovery_sheet_forgot_password": {
+        "message": "ដោយសារអ្នកភ្លេច​ពាក្យសម្ងាត់​របស់សោរអ្នក",
+        "description": "List item"
+    },
+    "recovery_sheet_further_info": {
+        "message": "អ្នកអាចរកព័ត៌មានបន្ថែម និង​ការកំណត់​​ជម្រើស ក្នុងគណនី $1ខាងក្រោម",
+        "description": ""
+    },
+    "recovery_sheet_header": {
+        "message": "ព័ត៌មានសំខាន់!",
+        "description": "Title of recovery sheet."
+    },
+    "recovery_sheet_in_general": {
+        "message": "ជាទូទៅ, វាមានសារៈសំខាន់",
+        "description": "Label"
+    },
+    "recovery_sheet_invite_contacts": {
+        "message": "នៅក្នុងទំនាក់ទំនងសម្ងាត់នៃគណនី$1 របស់អ្នក, អ្នកអាចអញ្ជើញដៃគូរទំនាក់ទំនងបន្ថែម ដើម្បីប្រើប្រាស់ ការទំនាក់ទំនង​សម្ងាត់តាមរយៈ PGP។ ដៃគូរទំនាក់ទំនងដែលត្រូវបានអញ្ជើញដោយជោគជ័យ អាចកំណត់បានដោយមានរូបសញ្ញាមេសោរនៅក្បែរ អាសយដ្ឋានអ៊ីម៉េល។",
+        "description": ""
+    },
+    "recovery_sheet_keep_safe": {
+        "message": "រក្សាឯកសារបោះពុម្ពហើយ នៅក្នុងកន្លែងសុវត្ថិភាព និងត្រូវធ្វើអោយប្រាកដថាគ្មាននរណាអាចរកឃើញ​កូដស្តារឡើងវិញបាន​ទេ​។",
+        "description": ""
+    },
+    "recovery_sheet_key_server": {
+        "message": "អ្នកប្រើប្រាស់ $1 ផ្សេង ដែលកំពុងប្រើប្រាស់ដំណើរការ PGP នៃ GMX អាចស្វែងរកថតឯកសារកណ្តល នៅក្នុងគណនី$1 របស់អ្នក។ បើអ្នកមិនចង់មានអ្វីនៅក្នុងនេះ, សូមបិទមុខងារនេះក្នុង​ការកំណត់​គណនី  $1 របស់អ្នក។ ",
+        "description": ""
+    },
+    "recovery_sheet_mobile_devices": {
+        "message": "នៅលើទូរស័ព្ទដៃ",
+        "description": ""
+    },
+    "recovery_sheet_not_working": {
+        "message": "ប្រសិនបើការទំនាក់ទំនង​សម្ងាត់លែងដំណើរការ​ហើយ ឧទា.៖",
+        "description": "Label for list"
+    },
+    "recovery_sheet_other_computer": {
+        "message": "នៅលើកុំព្យូទ័រផ្សេង",
+        "description": ""
+    },
+    "recovery_sheet_other_contacts": {
+        "message": "ទំនាក់ទំនងសម្ងាត់ដៃគូរទំនាក់ទំនងដទៃ",
+        "description": ""
+    },
+    "recovery_sheet_other_devices": {
+        "message": "ទំនាក់ទំនងសម្ងាត់នៅលើឧបករណ៍ផ្សេងៗ",
+        "description": "Sub title"
+    },
+    "recovery_sheet_other_devices_setup": {
+        "message": "ការកំណត់ទំនាក់ទំនងសម្ងាត់លើឧបករណ៍ផ្សេង",
+        "description": ""
+    },
+    "recovery_sheet_other_problems": {
+        "message": "សម្រាប់មូលហេតុផ្សេងទៀត",
+        "description": "List item"
+    },
+    "recovery_sheet_pgp_compat": {
+        "message": "អ្នកអាចទាក់ទងដោយ​សុវត្ថិភាព ជាមួយអ្នកទំនាក់ទំនងផ្សេងទៀត ប្រសិនបើ ពួកគេកំពុងប្រើប្រាស់​ការទំនាក់ទំនង​សម្ងាត់ (PGP)។",
+        "description": ""
+    },
+    "recovery_sheet_print_block": {
+        "message": "សូមរក្សាឯកសារនេះនៅកន្លែងសុវត្ថិភាព។",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_print_button": {
+        "message": "បោះពុម្ព",
+        "description": ""
+    },
+    "recovery_sheet_print_notice": {
+        "message": "សូមបោះពុម្ពឯកសារនេះ និងរក្សានៅកន្លែងសម្ងាត់!",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_provider_communication": {
+        "message": "ទំនាក់ទំនងសម្ងាត់",
+        "description": ""
+    },
+    "recovery_sheet_provider_inbox": {
+        "message": "ប្រអប់សារ",
+        "description": ""
+    },
+    "recovery_sheet_provider_security": {
+        "message": "សុវត្ថិភាព",
+        "description": ""
+    },
+    "recovery_sheet_provider_settings": {
+        "message": "ការកំណត់",
+        "description": ""
+    },
+    "recovery_sheet_qr_code": {
+        "message": "ស្កេនកូដ QR ជាមួយទូរស័ព្ទរបស់អ្នក។",
+        "description": ""
+    },
+    "recovery_sheet_recommendation": {
+        "message": "អនុសាសន៍",
+        "description": ""
+    },
+    "recovery_sheet_recover_data": {
+        "message": "ទិន្នន័យស្តារឡើងវិញ",
+        "description": "Sub title"
+    },
+    "recovery_sheet_recovery_code": {
+        "message": "កូដស្តារឡើងវិញ",
+        "description": ""
+    },
+    "recovery_sheet_subtitle_receipt": {
+        "message": "តារាងស្តារឡើងវិញ សម្រាប់ការទំនាក់ទំនងសម្ងាត់",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_subtitle_recover": {
+        "message": "ស្តារឡើងវិញ សម្រាប់ការទំនាក់ទំនង​សម្ងាត់",
+        "description": "Sub title"
+    },
+    "recovery_sheet_trusted_contacts": {
+        "message": "ជាមួយបញ្ជីទំនាក់ទំនង GMX អ្នកអាចប្រាកដថា អ្នកប្រើប្រាស់ដែលបានបង្ហាញជាអ្នកប្រើប្រាស់ដែលមានសុពលភាព ។ យ៉ាងហោចណាស់ អ្នកគួរតែផ្ទៀងផ្ទាត់បញ្ជីទំនាក់ទំនងជាមួយអាសយដ្ឋានអ៊ីម៉េលពីអ្នកផ្គត់ផ្គង់អ៊ីម៉េលផ្សេង។",
+        "description": ""
+    },
+    "recovery_sheet_unknown_third": {
+        "message": "គ្រាន់តែកំណត់ការទំនាក់ទំនង​សម្ងាត់​នៅលើឧបករណ៍សុវត្ថិភាពដែលមិន​មានអ្នកផ្សេងប្រើប្រាស់តែប៉ុណ្ណោះ។",
+        "description": ""
+    },
+    "recovery_sheet_unlock_backup": {
+        "message": "ការបម្រុងទុក​ទិន្នន័យរបស់អ្នកអាចបើកកូដនីយកម្មដោយមានជំនួយពីការស្តារកូដឡើងវិញនៅលើតារាងស្តារនេះ។",
+        "description": ""
+    },
+    "reload_tab": {
+        "message": "សូមផ្ទុកទំព័រដែលត្រូវគ្នាឡើងវិញ ដើម្បីឱ្យការកំណត់មានប្រសិទ្ធភាព។",
+        "description": "Info message."
+    },
+    "restore_backup_dialog_button": {
+        "message": "យល់ព្រម",
+        "description": ""
+    },
+    "restore_backup_dialog_headline": {
+        "message": "សូមបញ្ចូលកូដស្តារឡើងវិញ៖",
+        "description": ""
+    },
+    "restore_password_dialog_button": {
+        "message": "បង្ហាញ",
+        "description": ""
+    },
+    "restore_password_dialog_headline": {
+        "message": "​ពាក្យសម្ងាត់សំខាន់​របស់អ្នក៖",
+        "description": ""
+    },
+    "security_background_color_text": {
+        "message": "2. ឥឡូវជ្រើសរើសពណ៌ដែលអ្នកចូលចិត្ត",
+        "description": "Security background select color text"
+    },
+    "security_background_icons_text": {
+        "message": "1. ជ្រើសរើសរូបតំណាងដែលអ្នកចូលចិត្ត",
+        "description": "Security background select icon text"
+    },
+    "security_background_text": {
+        "message": "ផ្ទៃខាងក្រោយសុវត្ថិភាពរបស់អ្នក ត្រូវបង្ហាញក្រោយសារកូដនីយកម្មទាំងអស់។ ដើម្បីបង្កើនសុវត្ថិភាព អ្នកគួរកំណត់វា។ នេះអាចធានាថា គ្មាននរណាម្នាក់អាចកសាងទ្រង់ទ្រាយ Mailvelope ដើម្បីចូលប្រើប្រាស់ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកទេ។",
+        "description": "Security background text"
+    },
+    "security_cache_header": {
+        "message": "ចងចាំពាក្យសម្ងាត់សម្រាប់ ការប្រើប្រាស់កម្មវិធីរុករកនេះ។",
+        "description": "Password cache header"
+    },
+    "security_cache_help": {
+        "message": "ត្រូវតែជា លេខ ចន្លោះ 1-999",
+        "description": "Help text for cache time."
+    },
+    "security_cache_off": {
+        "message": "ទេ",
+        "description": "Don't store password."
+    },
+    "security_cache_on": {
+        "message": "ពិត​មែន​ រក្សាក្នុងអង្គចងចាំចំនួន",
+        "description": "Store password in memory for $1 minutes."
+    },
+    "security_cache_time": {
+        "message": "នាទី។",
+        "description": "Store password in memory for $1 minutes."
+    },
+    "security_display_decrypted": {
+        "message": "តើសារដោះសោរ ត្រូវបង្ហាញនៅទីណា?",
+        "description": "Label for display options"
+    },
+    "security_display_inline": {
+        "message": "នៅទំព័ររបស់អ្នកផ្គត់ផ្គង់អ៊ីម៉េល។",
+        "description": "Decrypted message display option"
+    },
+    "security_display_popup": {
+        "message": "នៅទំព័រ Mailvelope ផ្សេងទៀតនឹងលោតឡើង ។",
+        "description": "Decrypted message display option"
+    },
+    "security_hide_armored_head": {
+        "message": "លាក់ជំនាន់ Mailvelope និងមតិយោបល់ក្នុងសារ PGP។",
+        "description": "Hide header infos in armored messages"
+    },
+    "security_log_action": {
+        "message": "សកម្មភាព",
+        "description": "Title of the action column of the security log table."
+    },
+    "security_log_add_attachment": {
+        "message": "ប៊ូតុងបន្ថែមឯកសារភ្ជាប់",
+        "description": "A click on the attachment upload button as an event type"
+    },
+    "security_log_attachment_download": {
+        "message": "ឯកសារភ្ជាប់ត្រូវបានទាញយក",
+        "description": "Attachment downloaded as an event source"
+    },
+    "security_log_backup_create": {
+        "message": "ចុច ដើម្បីបង្កើតការបម្រុងទុក",
+        "description": ""
+    },
+    "security_log_backup_restore": {
+        "message": "ចុច ដើម្បីស្តារការបម្រុងទុក",
+        "description": ""
+    },
+    "security_log_content_copy": {
+        "message": "ចម្លងក្នុងផ្ទាំងផ្ទៀងផ្ទាត់",
+        "description": ""
+    },
+    "security_log_decrypt_ui": {
+        "message": "បើកកូដនីយកម្ម",
+        "description": ""
+    },
+    "security_log_decryption_operation": {
+        "message": "សារត្រូវបានធ្វើវិកូដនីយកម្មជាមួយ៖ $1",
+        "description": ""
+    },
+    "security_log_dialog_cancel": {
+        "message": "ចុច ដើម្បីបោះបង់ផ្ទាំង",
+        "description": ""
+    },
+    "security_log_dialog_encrypt": {
+        "message": "ចុចដើម្បី​ដាក់កូដនីយកម្ម​ក្នុងផ្ទាំង",
+        "description": ""
+    },
+    "security_log_dialog_ok": {
+        "message": "ចុច ដើម្បីយល់ព្រមក្នុងផ្ទាំង",
+        "description": ""
+    },
+    "security_log_dialog_sign": {
+        "message": "ចុច ដើម្បីចុះហត្ថលេខាក្នុងផ្ទាំង",
+        "description": ""
+    },
+    "security_log_editor": {
+        "message": "កម្មវិធីនិពន្ធ Mailvelope ",
+        "description": "Message editor container as an event source"
+    },
+    "security_log_email_viewer": {
+        "message": "បើកកូដនីយកម្មអ៊ីម៉ែល PGP",
+        "description": "Email decryption container as an event source"
+    },
+    "security_log_encrypt_dialog": {
+        "message": "ផ្ទាំង​កូដនីយកម្ម",
+        "description": "Encrypt dialog as an event source"
+    },
+    "security_log_encrypt_form": {
+        "message": "ទម្រង់កូដនីយកម្ម",
+        "description": "Encrypt form as an event source"
+    },
+    "security_log_encrypt_ui": {
+        "message": "ធ្វើកូដនីយកម្ម",
+        "description": ""
+    },
+    "security_log_encryption_operation": {
+        "message": "សារ ត្រូវ​បានធ្វើកូដនីយកម្ម សម្រាប់៖ $1",
+        "description": ""
+    },
+    "security_log_import_dialog": {
+        "message": "ផ្ទាំងនាំចូល",
+        "description": "Key import dialog as an event source"
+    },
+    "security_log_key_backup": {
+        "message": "សោរបម្រុងទុក",
+        "description": "Message keybackup container as an event source"
+    },
+    "security_log_key_generator": {
+        "message": "ការបង្កើតសោរ",
+        "description": "Key generator container as an event source"
+    },
+    "security_log_password_click": {
+        "message": "ចុចក្នុងផ្ទាំង​ពាក្យសម្ងាត់",
+        "description": ""
+    },
+    "security_log_password_dialog": {
+        "message": "ផ្ទាំង​ពាក្យសម្ងាត់",
+        "description": "Password dialog as an event source"
+    },
+    "security_log_password_input": {
+        "message": "ផ្ទាំងបញ្ចូលពាក្យសម្ងាត់",
+        "description": ""
+    },
+    "security_log_remove_attachment": {
+        "message": "ឯកសារភ្ជាប់បានលុបចោល",
+        "description": "A click on the attachment remove button as event type"
+    },
+    "security_log_restore_backup_click": {
+        "message": "ចុចដើម្បីស្តារផ្ទាំងបម្រុងទុក",
+        "description": ""
+    },
+    "security_log_sign_operation": {
+        "message": "សារដែលបាន​ចុះហត្ថលេខាជាមួយសោ៖ $1",
+        "description": ""
+    },
+    "security_log_signature_modal_close": {
+        "message": "ចុច ដើម្បីបិទផ្ទាំងចុះហត្ថលេខា",
+        "description": ""
+    },
+    "security_log_signature_modal_open": {
+        "message": "ចុច ដើម្បីបើកផ្ទាំងចុះហត្ថលេខា",
+        "description": ""
+    },
+    "security_log_source": {
+        "message": "ប្រភព",
+        "description": "Title of the source column of the security log table."
+    },
+    "security_log_text": {
+        "message": "កំណត់ត្រាសុវត្ថិភាពបង្ហាញសកម្មភាពអ្នកប្រើប្រាស់គ្រប់មុខងាររបស់ Mailvelope។",
+        "description": "Text explaining the purpose of the security log"
+    },
+    "security_log_text_input": {
+        "message": "បញ្ចូលក្នុងកន្លែងសរសេរអក្សរ",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_click": {
+        "message": "ចុចក្នុងតំបន់អក្សរ",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_input": {
+        "message": "បញ្ចូលក្នុងតំបន់អក្សរ",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_select": {
+        "message": "ជ្រើសរើសក្នុងតំបនង់អក្សរ",
+        "description": "Selection of the text area as an event type"
+    },
+    "security_log_timestamp": {
+        "message": "តែមពេលវេលា",
+        "description": "Title of the timestamp column of the security log table."
+    },
+    "security_log_verify_dialog": {
+        "message": "ផ្ទាំងផ្ទៀងផ្ទាត់",
+        "description": "Verify dialog as an event source"
+    },
+    "security_log_viewer": {
+        "message": "កម្មវិធីបើក Mailvelope",
+        "description": "Message viewer as an event source"
+    },
+    "security_openpgp_header": {
+        "message": "ការកំណត់​ OpenPGP",
+        "description": "OpenPGP settings header"
+    },
+    "settings_analytics": {
+        "message": "ស្ថិតិ​វិភាគ",
+        "description": "Tab for deciding whether or not to share analytics data."
+    },
+    "settings_backup": {
+        "message": "បម្រុង",
+        "description": "Tab allowing to backup and restore the settings."
+    },
+    "settings_general": {
+        "message": "ទូទៅ",
+        "description": "Tab of options to display general settings."
+    },
+    "settings_keyserver": {
+        "message": "បញ្ជីសោ",
+        "description": "Tab of options to display key server settings."
+    },
+    "settings_provider": {
+        "message": "Gmail API",
+        "description": "Tab of options to display provider (Gmail) settings."
+    },
+    "settings_security": {
+        "message": "សុវត្ថិភាព",
+        "description": "Tab of options to display security settings."
+    },
+    "settings_security_background": {
+        "message": "ផ្ទៃខាងក្រោយសុវត្ថិភាព",
+        "description": "Security background header"
+    },
+    "settings_security_log": {
+        "message": "កំណត់ត្រាសុវត្ថិភាព",
+        "description": "Tab of options to display security log."
+    },
+    "settings_watchlist": {
+        "message": "ឈ្មោះគេហទំព័រដែលបានអនុញ្ញាត",
+        "description": "Tab of options to display list of authorized domains."
+    },
+    "sign_dialog_header": {
+        "message": "ចុះហត្ថលេខា​ជា៖",
+        "description": "Header of sign dialog. Choose the person you want to sign the message with."
+    },
+    "sign_error": {
+        "message": "មិនអាចចុះហត្ថលេខាសារនេះ៖ $1",
+        "description": "Error during signing process."
+    },
+    "signer_unknown": {
+        "message": "មិន​ស្គាល់",
+        "description": "Name of unknown signer."
+    },
+    "text_decrypt_button": {
+        "message": "បើកកូដនីយកម្ម",
+        "description": "Button label for decrypting the message"
+    },
+    "text_decrypting": {
+        "message": "បើកកូដនីយកម្មជាអក្សរ",
+        "description": "Navigation link to text decryption feature"
+    },
+    "text_encrypting": {
+        "message": "ធ្វើកូដនីយកម្មជាអក្សរ",
+        "description": "Navigation link to text encryption feature"
+    },
+    "upload_aborting_warning": {
+        "message": "ឯកសារបញ្ជូននឹងត្រូវបានបោះបង់ចោល។",
+        "description": "A warning for the aborting of the file upload."
+    },
+    "upload_attachment": {
+        "message": "បន្ថែម​ឯកសារ",
+        "description": "Text in the upload attachment button of the message editor dialog"
+    },
+    "upload_drop": {
+        "message": "ទម្លាក់ឯកសារនៅតំបន់នេះ ដើម្បីភ្ជាប់វា",
+        "description": "Text in file drop overlay area"
+    },
+    "upload_help": {
+        "message": "ទាញឯកសារទៅកាន់ផ្ទាំងនេះ ឬ",
+        "description": "Text in file upload area. Sentence continues with: Upload File (Button)."
+    },
+    "upload_quota_exceeded_warning": {
+        "message": "ទំហំឯកសារភ្ជាប់ដែលបានកំណត់៖",
+        "description": "A warning shown when the attachments upload quota is exceeded."
+    },
+    "upload_quota_warning_headline": {
+        "message": "ឯកសារភ្ជាប់ធំពេក",
+        "description": ""
+    },
+    "user_create_btn": {
+        "message": "បង្កើត",
+        "description": "Create user button label"
+    },
+    "user_create_title": {
+        "message": "បង្កើតលេខ ID អ្នកប្រើប្រាស់",
+        "description": "Title of create user page"
+    },
+    "user_keyserver_not": {
+        "message": "លេខសម្គាល់អ្នកប្រើមិនបានធ្វើសមកាលកម្មជាមួយម៉ាស៊ីនមេសោ Mailvelope ទេ។",
+        "description": "User ID is not synchronized with Mailvelope key server"
+    },
+    "user_keyserver_remove": {
+        "message": "សម្រាប់ការដកចេញសោសារធារណៈចេញពីម៉ាស៊ីនមេសោ Mailvelope ជាជាចុងក្រោយ នោះនឹងការផ្ញើអ៊ីមែលបញ្ជាក់ទៅ $1។",
+        "description": "A remove request has been sent to the Mailvelope key server"
+    },
+    "user_keyserver_remove_btn": {
+        "message": "លុបលេខ ID អ្នកប្រើប្រាស់",
+        "description": "Remove user ID button label text"
+    },
+    "user_keyserver_resend_confirmation_btn": {
+        "message": "បញ្ជូនបញ្ជាក់ឡើងវិញ",
+        "description": "Resend confirmation button label text"
+    },
+    "user_keyserver_sync": {
+        "message": "លេខសម្គាល់អ្នកប្រើបានធ្វើសមកាលកម្មជាមួយម៉ាស៊ីនមេសោ Mailvelope។",
+        "description": "User ID is synchronised with the Mailvelope key server"
+    },
+    "user_keyserver_unverified": {
+        "message": "សូមបញ្ជាក់លេខសម្គាល់អ្នកប្រើដើម្បីធ្វើសមកាលកម្មវាជាមួយម៉ាស៊ីនមេសោ Mailvelope។",
+        "description": "User ID Mailvelope key server not verified"
+    },
+    "user_keyserver_upload": {
+        "message": "ដើម្បីធ្វើសមកាលកម្មជាមួយម៉ាស៊ីនមេសោ Mailvelope នោះនឹងមានអ៊ីមែលបានផ្ញើទៅបញ្ជាក់ $1។",
+        "description": "An upload request has been sent to the Mailvelope key server"
+    },
+    "user_remove_btn": {
+        "message": "ដកចេញ",
+        "description": "Remove user button label"
+    },
+    "user_remove_btn_title": {
+        "message": "លុបលេខ ID អ្នកប្រើប្រាស់",
+        "description": "Remove user button title"
+    },
+    "user_remove_dialog_confirmation": {
+        "message": "តើអ្នកចង់លុបចេញលេខសម្គាល់អ្នកប្រើនេះពីសោរបស់អ្នកឬទេ?",
+        "description": "Confirmation question in remove user dialog."
+    },
+    "user_remove_dialog_keyserver_warning": {
+        "message": "ក៏ត្រូវដកចេញលេខសម្គាល់អ្នកប្រើពីម៉ាស៊ីនមេសោ Mailvelope ផងដែរ។",
+        "description": "Warning message, that key will be deleted from keyserver"
+    },
+    "user_remove_dialog_title": {
+        "message": "លុបលេខ ID អ្នកប្រើប្រាស់",
+        "description": "Title of remove user dialog."
+    },
+    "user_revoke_btn": {
+        "message": "ដកហូត",
+        "description": "Revoke user button label"
+    },
+    "user_revoke_btn_title": {
+        "message": "ដកកូដ ID អ្នកប្រើប្រាស់",
+        "description": "Revoke user button title"
+    },
+    "user_revoke_dialog_confirmation": {
+        "message": "តើអ្នកនៅតែចង់ដកកូដ?",
+        "description": "Confirmation question in revoke user dialog."
+    },
+    "user_revoke_dialog_description": {
+        "message": "បន្ទាប់ពីលុបចោល លេខសម្គាល់អ្នកប្រើសម្រាប់សោនេះនឹងមិនអាចប្រើប្រាស់ឡើងវិញបានជារហូត។",
+        "description": "Description in revoke user dialog."
+    },
+    "user_revoke_dialog_title": {
+        "message": "ដកកូដ ID អ្នកប្រើប្រាស់",
+        "description": "Title of revoke user dialog."
+    },
+    "user_title": {
+        "message": "លេខ​សម្គាល់​អ្នកប្រើ",
+        "description": "Title of user page"
+    },
+    "usersignatures_title": {
+        "message": "ការផ្ទៀងផ្ទាត់",
+        "description": "Title of signatures panel in user."
+    },
+    "verify_error": {
+        "message": "មិនអាចផ្ទៀងផ្ទាត់សារនេះ៖ $1",
+        "description": "Error during verification process."
+    },
+    "verify_frame_help_text": {
+        "message": "ចុចដើម្បីផ្ទៀងផ្ទាត់ហត្ថលេខា",
+        "description": "Help text on verify frame."
+    },
+    "waiting_dialog_decryption_failed": {
+        "message": "វិកូដនីយកម្មបរាជ័យ។",
+        "description": "Error message in the waiting dialog after failing to decrypt a message"
+    },
+    "watchlist_command_create": {
+        "message": "បញ្ចូលថ្មី",
+        "description": "Create entry in watchlist."
+    },
+    "watchlist_command_edit": {
+        "message": "កែប្រែ",
+        "description": "Edit entry in watchlist."
+    },
+    "watchlist_delete_confirmation": {
+        "message": "តើអ្នកពិតជាចង់លុបគេហទំព័រនេះចេញពីតារាងឈ្មោះគេហទំព័រដែលបានអនុញ្ញាត?",
+        "description": "Message in the watchlist delete confirmation dialog."
+    },
+    "watchlist_expose_api": {
+        "message": "API",
+        "description": "Expose API to Webmailer."
+    },
+    "watchlist_record_title": {
+        "message": "ឈ្មោះគេហទំព័រដែលបានអនុញ្ញាត",
+        "description": "Title of the watchlist editor dialog."
+    },
+    "watchlist_remove_dialog_title": {
+        "message": "លុបឈ្មោះគេហទំព័រ",
+        "description": "Title of delete watchlist dialog."
+    },
+    "watchlist_title_active": {
+        "message": "បានបើក",
+        "description": "Entry in watchlist is active."
+    },
+    "watchlist_title_frame": {
+        "message": "គំនូសដែន Domain",
+        "description": "Web domain URL match pattern of site in watchlist."
+    },
+    "watchlist_title_https_only": {
+        "message": "HTTPS-តែប៉ុណ្ណោះ",
+        "description": "Only allow URLs with HTTPS scheme in watchlist."
+    },
+    "watchlist_title_scan": {
+        "message": "បានបើក",
+        "description": "Scan status of site in watchlist."
+    },
+    "watchlist_title_site": {
+        "message": "ទំព័រ",
+        "description": "Site in watchlist."
+    },
+    "word_or": {
+        "message": "ឬ",
+        "description": "Separate list of elements."
+    },
+    "wrong_restore_code": {
+        "message": "កូដស្តារឡើងវិញមិនត្រឹមត្រូវ",
+        "description": ""
+    }
+}

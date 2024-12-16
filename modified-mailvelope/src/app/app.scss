@@ -1,0 +1,81 @@
+@import "../res/styles/_required";
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  &.modal-open {
+    overflow-y: auto !important;
+    padding-right: 0 !important;
+  }
+}
+
+nav {
+  &.navbar {
+    box-shadow: $box-shadow-lg;
+    .feature-banner {
+      border: 1px solid rgba($turquoise, 0.05);
+      background-color: rgba($turquoise, 0.1);
+      margin-bottom: -$navbar-padding-y;
+      margin-left: -$navbar-padding-x;
+      margin-right: -$navbar-padding-x;
+    }
+  }
+}
+
+main {
+  padding-top: 7.5rem;
+  &.featured {
+    padding-top: 11.5rem;
+  }
+  > .jumbotron {
+    padding: map-get($spacers, 2);
+    margin-bottom: 1.5rem;
+    background-color: $white;
+    box-shadow: $box-shadow-lg;
+    > section {
+      &.card {
+        border: 0;
+        > .card-body {
+          padding: 2.2rem;
+          > .card-title {
+            padding-right: 0;
+            margin-bottom: 2rem;
+          }
+        }
+      }
+    }
+  }
+  > .toastWrapper {
+    z-index: 1051;
+    position: fixed;
+    top: 5.75rem;
+    left: 50%;
+    transform:translateX(-50%);
+  }
+}
+
+footer {
+  > div {
+    font-size: 0.75rem;
+    color: $gray-900;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+input[readonly] {
+  cursor: text !important;
+}
+
+.busy {
+  cursor: wait !important;
+}
+
+.lockBtnIcon {
+  width: 30px !important;
+  height: 30px;
+  margin-right: -44px;
+}

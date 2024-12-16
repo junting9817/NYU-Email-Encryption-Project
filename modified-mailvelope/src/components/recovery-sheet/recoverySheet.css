@@ -1,0 +1,324 @@
+/***************************************
+ * RECOVERY SHEET ROOT ELEMENT
+ */
+.recovery-sheet {
+    min-width: 740px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #262626;
+    box-sizing: border-box;
+}
+
+/***************************************
+ * TEASER ELEMENT
+ */
+.recovery-sheet_teaser {
+    position: relative;
+    background-color: #ccc;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.recovery-sheet_teaser h1 {
+    margin: 10px 0;
+    font-size: 54px;
+    color: #515151;
+}
+
+.recovery-sheet_teaser img {
+    margin: 20px;
+}
+
+/***************************************
+ * GLOBAL CONTENT
+ */
+.recovery-sheet_content {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px 0;
+    max-width: 880px;
+}
+
+.recovery-sheet_content h2,
+.recovery-sheet_content h3,
+.recovery-sheet_content h4 {
+    color: #515151;
+}
+
+.recovery-sheet_content h2 {
+    font-size: 43px;
+    margin-top: 0;
+}
+
+.recovery-sheet_content h3 {
+    font-size: 15px;
+}
+
+.recovery-sheet_content h4 {
+    font-size: 14px;
+}
+
+.recovery-sheet_content p:last-of-type {
+    margin-bottom: 0;
+}
+
+/***************************************
+ * CONTENT PANEL ELEMENT
+ */
+.recovery-sheet_panel {
+    background-color: #e8eef7;
+    border: 1px solid #c6c6c6;
+    margin: 20px 15px 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.recovery-sheet_panel-content {
+    margin: 20px;
+}
+
+/***************************************
+ * CODE PANEL ELEMENT
+ */
+.recovery-sheet_code {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px
+}
+
+.recovery-sheet_code-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.recovery-sheet_code-header * {
+    margin-top: 0;
+}
+
+.recovery-sheet_code-container {
+    position: static !important;
+    background-color: #fff;
+    height: 85px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recovery-sheet_code-digit {
+    background-color: #ccc;
+    border: 1px dotted #c6c6c6;
+    padding: 5px 10px;
+    font-size: 30px;
+    text-align: center;
+    font-family: Consolas, "Lucida Console", Monaco, monospace;
+}
+
+.recovery-sheet_code-separator {
+    font-size: 30px;
+    margin: 5px;
+}
+
+/***************************************
+ * DEVICE ELEMENTS
+ */
+.recovery-sheet_devices {
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.recovery-sheet_devices-item {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.recovery-sheet_devices-item:first-of-type {
+    padding-right: 45px;
+    border-right: 1px solid #c6c6c6;
+}
+
+.recovery-sheet_devices-item:last-of-type {
+    padding-left: 45px;
+    border-left: 1px solid #c6c6c6;
+}
+
+.recovery-sheet_devices-image {
+    width: 100px;
+    height: 60px;
+    background-color: #999;
+}
+
+.recovery-sheet_devices-split-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.recovery-sheet_devices-split-content:last-child {
+    margin-bottom: 0;
+}
+
+.recovery-sheet_devices-qr-code {
+    width: 100px;
+    height: 100px;
+}
+
+/***************************************
+ * DESCRIPTION
+ */
+.recovery-sheet_description {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/***************************************
+ * PRINT BUTTON
+ */
+.recovery-sheet_print {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.recovery-sheet_print > img {
+    margin: 0 15px;
+    opacity: 0.75;
+    cursor: pointer;
+}
+
+.recovery-sheet_print > button {
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.recovery-sheet_print-button {
+    height: 40px;
+    line-height: 40px;
+    font-weight: 500;
+    font-size: 16.24px;
+    padding: 0 16px;
+    transition: background-color .1s ease-in-out;
+    border: none;
+    border-radius: 4px;
+    box-shadow: none;
+}
+
+.gmx .recovery-sheet_print-button {
+    background: #6e8904;
+    color: #fff;
+}
+
+.gmx .recovery-sheet_print-button:hover {
+    background: #586e03;
+}
+
+.webde .recovery-sheet_print-button {
+    background: #ffd800;
+    color: #333;
+}
+
+.webde .recovery-sheet_print-button:hover {
+    background: #ccad00;
+}
+
+/***************************************
+ * MISC CLASSES
+ */
+
+.page-breaker {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/***************************************
+ * BRAND SPECIFIC
+ */
+.logo {
+    width: 100px;
+    height: auto;
+    background-color: #fff;
+}
+
+.gmx .logo {
+    margin-top: 26px;
+}
+
+.webde .gmx-specific {
+    display: none;
+}
+
+.desktop-image {
+    width: 121px;
+    height: 99px;
+}
+
+.smartphone-image {
+    width: 45px;
+    height: 95px;
+}
+
+.tablet-image {
+    width: 70px;
+    height: 97px;
+}
+
+/***************************************
+ * PRINT SPECIFIC LAYOUT
+ */
+@media print {
+
+    @page {
+      size: 210mm 297mm;
+      margin-top: 20mm;
+    }
+
+    .recovery-sheet {
+        display: block;
+    }
+
+    .recovery-sheet_teaser {
+        border: 1px solid #000;
+    }
+
+    .recovery-sheet_teaser img {
+        margin: 10px;
+    }
+
+    .recovery-sheet_content {
+        margin: 40px 0;
+    }
+
+    .recovery-sheet_content h2 {
+        font-size: 30px;
+    }
+
+    .recovery-sheet_content h3 {
+        font-size: 18px;
+    }
+
+    .recovery-sheet_content h4 {
+        font-size: 16px;
+    }
+
+    .recovery-sheet_content p, .recovery-sheet_content ul li {
+        font-size: 14px;
+    }
+
+    .page-breaker {
+        page-break-after: always;
+        page-break-inside: avoid;
+    }
+}

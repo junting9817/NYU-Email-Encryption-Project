@@ -1,0 +1,47 @@
+@import "../../res/styles/_required";
+
+$dashboard-item-title-bg-color: theme-color('light');
+$dashboard-item-title-bg-color-hover: darken($dashboard-item-title-bg-color, 2%);
+$dashboard-item-bg-color: color('white');
+$dashboard-item-bg-color-hover: darken($dashboard-item-bg-color, 2%);
+
+.dashboard {
+  a.card {
+    background-color: $dashboard-item-bg-color;
+    text-decoration: none;
+    padding: 2rem;
+    border: 0;
+    box-shadow:0 5px 15px 0 rgba($black, 0.2), 0 0 2px 0 rgba($black, 0.2);
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: $dashboard-item-bg-color-hover;
+      text-decoration: none;
+      .card-footer {
+        color: $black;
+      }
+    }
+
+    .card-body {
+      flex-grow: 0;
+      img {
+        width: 80px;
+        height: 80px;
+      }
+    }
+
+    .card-footer {
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: $headings-font-family;      
+      font-size: $font-size-lg;
+      font-weight: 500;
+      color: $gray-900;
+      padding: 0.5em;
+      background-color: transparent;
+      border-top: 0;
+    }
+  }
+}

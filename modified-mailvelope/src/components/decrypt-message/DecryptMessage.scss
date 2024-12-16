@@ -1,0 +1,122 @@
+/**
+ * Mailvelope - secure email with OpenPGP encryption for Webmail
+ * Copyright (C) 2012-2019 Mailvelope GmbH
+ */
+@import "../../res/styles/_required";
+
+.decrypt-msg {
+
+  .modal {
+    padding: 2.75rem;
+  }
+
+  &.embedded {
+    .modal {
+      padding: 2rem;
+      .modal-header, .modal-body {
+         padding: 1rem 1.25rem;
+      }
+      .modal-footer {
+        padding: 0.75rem 1.25rem;
+      }
+    }
+  }
+
+  .locked.modal-content {
+    position: relative;
+    background-color: $white;
+    background-image: linear-gradient(to bottom, $white, $white 50%, $gray-300 50%, $white);
+    background-size: 100% 48px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    &.cursor {
+      cursor: pointer;
+    }
+    img {
+      position: absolute;
+      width: 64px;
+      height: 64px;
+      left: 50%;
+      top: 50%;
+      transform: translate3d(-50%,-50%,0);
+    }
+    .m-spinner-inline, > p {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate3d(-50%,-50%,0);
+      margin-top: 70px;
+    }
+    > p {
+      font-size: $font-size-lg;
+      font-weight: 500;
+    }
+
+  }
+
+  .large.locked.modal-content {
+    background-position: center 150px;
+    img, .m-spinner-inline, > p {
+      top: 174px;
+    }
+  }
+
+  .modal-content {
+    background-color: transparent;
+    .modal-header {
+      background-color: rgba($white, 1);
+      padding: 1.5rem 1.5rem 1.25rem 1.5rem;
+      .signature:not(:only-child) {
+        margin-bottom: 0.5rem;
+      }
+      .files {
+        margin-bottom: -0.5rem;
+      }
+    }
+    .modal-body {
+      display: flex;
+      flex-direction: column;
+      background-color: rgba($white, 1);
+      padding: 1rem 1.5rem;
+      .plain-text {
+        flex-grow: 1;
+        iframe {
+          width: 100%;
+          height: 100%;
+          margin-bottom: 0;
+          color: black;
+          background-color: transparent !important;
+          border: none !important;
+          resize: none;
+        }
+      }
+    }
+
+    .modal-footer {
+      background-color: rgba($white, 0.6);
+      padding: 0.75rem 1.5rem;
+      .alert-info {
+        background-color: rgba(theme-color-level('info', $alert-bg-level), 0.6);
+      }
+    }
+  }
+
+  .decrypt-popup-pwd-dialog {
+    position: absolute;
+    width: 580px;
+    height: 480px;
+    left: 50%;
+    top: 50%;
+    transform: translate3d(-50%,-50%,0);
+    z-index: 1050;
+  }
+
+  .toastWrapper {
+    z-index: 1051;
+    position: fixed;
+    top: 5.75rem;
+    left: 50%;
+    transform:translateX(-50%);
+  }
+
+}

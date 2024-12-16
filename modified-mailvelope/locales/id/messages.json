@@ -1,0 +1,2286 @@
+{
+    "action_menu_activate_current_tab": {
+        "message": "Otorisasi domain ini",
+        "description": "Activate on current tab shortcut in the action menu"
+    },
+    "action_menu_all_options": {
+        "message": "Semua opsi",
+        "description": "All options link in the action menu"
+    },
+    "action_menu_configure_mailvelope": {
+        "message": "<0>Konfigurasi Mailvelope</0> untuk memulai!",
+        "description": "Configure Mailvelope label in the action menu"
+    },
+    "action_menu_dashboard_description": {
+        "message": "Tampilkan semua pilihan konfigurasi.",
+        "description": "Dashboard description in the action menu"
+    },
+    "action_menu_dashboard_label": {
+        "message": "Dasbor",
+        "description": "Dashboard label in the action menu"
+    },
+    "action_menu_file_encryption_description": {
+        "message": "Mengenkripsi satu atau banyak berkas.",
+        "description": "File encryption description in the action menu"
+    },
+    "action_menu_file_encryption_label": {
+        "message": "Enkripsi berkas",
+        "description": "File encryption label in the action menu"
+    },
+    "action_menu_help": {
+        "message": "Bantuan",
+        "description": "Online help shortcut."
+    },
+    "action_menu_keyring_description": {
+        "message": "Atur kunci publik dan privat.",
+        "description": "Keyring description in the action menu"
+    },
+    "action_menu_keyring_label": {
+        "message": "Rangkaian kunci",
+        "description": "Keyring label in the action menu"
+    },
+    "action_menu_primary_menu_aria_label": {
+        "message": "Menu utama Mailvelope",
+        "description": "Accessibility, aria label of the primary menu"
+    },
+    "action_menu_reload_extension_scripts": {
+        "message": "Muat ulang Mailvelope.",
+        "description": "Reload extension scripts shortcut in the action menu"
+    },
+    "action_menu_review_security_logs_description": {
+        "message": "Tinjau tindakan pengguna yang relevan dengan keamanan.",
+        "description": "Review security logs description in the action menu"
+    },
+    "action_menu_review_security_logs_label": {
+        "message": "Catatan keamanan",
+        "description": "Review security logs label in the action menu"
+    },
+    "action_menu_setup_menu_aria_label": {
+        "message": "Menu pengaturan Mailvelope",
+        "description": "Accessibility, aria label of the setup menu"
+    },
+    "action_menu_setup_new_bg_description": {
+        "message": "Pembaruan terakhir Mailvelope membutuhkan anda untuk mengatur ulang latar belakang keamanan anda.",
+        "description": "Configure new security bg description text in the action menu"
+    },
+    "action_menu_setup_start_label": {
+        "message": "Mari mulai!",
+        "description": "Start button label"
+    },
+    "alert_header_error": {
+        "message": "Gagal!",
+        "description": "Alert header of category error."
+    },
+    "alert_header_important": {
+        "message": "Penting!",
+        "description": "Alert header of category important."
+    },
+    "alert_header_notice": {
+        "message": "Mohon dicatat:",
+        "description": "Alert header of category notice."
+    },
+    "alert_header_success": {
+        "message": "Berhasil!",
+        "description": "Alert header of category success."
+    },
+    "alert_header_warning": {
+        "message": "Peringatan!",
+        "description": "Alert header of category warning."
+    },
+    "alert_invalid_domainmatchpattern_warning": {
+        "message": "Pola pencocokan domain adalah [*.]host.name.tld[:port].",
+        "description": "Alert header of category warning."
+    },
+    "alert_no_domainmatchpattern_warning": {
+        "message": "Sedikitnya harus ada satu pola kecocokan domain.",
+        "description": "Alert header of category warning."
+    },
+    "analytics_consent_description": {
+        "message": "Bagikan informasi analitik gabungan dan anonim dengan Mailvelope",
+        "description": "Consent to share analytics information with mailvelope"
+    },
+    "auth_domain_api_label": {
+        "message": "Izinkan API",
+        "description": "Label for API allowed info"
+    },
+    "auth_domain_description": {
+        "message": "Apakah Anda mengizinkan penggunaan Mailvelope untuk domain $1?",
+        "description": "Description in authorize domain dialog"
+    },
+    "auth_domain_headline": {
+        "message": "Mengotorisasi domain",
+        "description": "Headline of authorize domain dialog."
+    },
+    "change_link": {
+        "message": "Ubah",
+        "description": "Navigation link to change this setting."
+    },
+    "cleartext_read_error": {
+        "message": "Tidak dapat membaca pesan teksbersih ini: $1",
+        "description": "Cleartext message read error message: $1: error message."
+    },
+    "dashboard_link_encrypt_decrypt_files": {
+        "message": "Enkripsi",
+        "description": "Dashboard encrypt decrypt files link"
+    },
+    "dashboard_link_manage_domains": {
+        "message": "Domain yang terotorisasi",
+        "description": "Dashboard manage domains link"
+    },
+    "dashboard_link_manage_keys": {
+        "message": "Atur kunci",
+        "description": "Dashboard manage keys link"
+    },
+    "dashboard_link_view_security_log": {
+        "message": "Catatan Keamanan",
+        "description": "Dashboard view security logs link"
+    },
+    "decrypt_att_frame_help_text": {
+        "message": "Klik di sini untuk melihat pesan",
+        "description": "Help text on decrypt frame with encrypted attachments or clipped armored message."
+    },
+    "decrypt_attachment_label": {
+        "message": "Lampiran",
+        "description": "Label for attachments in decrypted message"
+    },
+    "decrypt_cleartext_warning": {
+        "message": "Teks berikut tidak terenkripsi.",
+        "description": "Warning when cleartext is shown in decrypt component"
+    },
+    "decrypt_decrypted_files_label": {
+        "message": "Berkas terdekripsi",
+        "description": "Decrypted files label on decrypt success page."
+    },
+    "decrypt_digital_signature": {
+        "message": "Signed ",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_failure": {
+        "message": "Tanda tangan tidak valid",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_inconsistent": {
+        "message": "Inconsistent signatures: message and file not signed with same key",
+        "description": "Warning message if digital signature is inconsistent"
+    },
+    "decrypt_digital_signature_missing": {
+        "message": "Signature missing",
+        "description": "Digital signature is missing"
+    },
+    "decrypt_digital_signature_null": {
+        "message": "Tanda Tangan tidak dikenal",
+        "description": "Caption digital signature"
+    },
+    "decrypt_digital_signature_null_info": {
+        "message": "Kunci dengan ID $1tidak ditemukan.",
+        "description": "Digital signature unknown info message"
+    },
+    "decrypt_digital_signature_null_info_short": {
+        "message": "Kunci tidak ditemukan",
+        "description": "Digital signature unknown short info message"
+    },
+    "decrypt_digital_signature_sender_mismatch": {
+        "message": "Sender address mismatch",
+        "description": "Alert label in the case of sender email address mismatch"
+    },
+    "decrypt_digital_signature_sender_mismatch_tooltip": {
+        "message": "This message contains a digital signature, but a mismatch was detected. The message was sent from an email address that doesn't match the signer's public key.",
+        "description": "Tooltip for alert label in the case of sender email address mismatch"
+    },
+    "decrypt_digital_signature_uncertain_sender": {
+        "message": "Uncertain sender identity",
+        "description": "Digital signature link to more information in the case of uncertain sender identity"
+    },
+    "decrypt_file_error_header": {
+        "message": "Dekripsi berkas  $1 tidak memungkinkan.",
+        "description": "Header of file decryption error on decrypt result page."
+    },
+    "decrypt_frame_help_text": {
+        "message": "Klik untuk dekrip",
+        "description": "Help text on decrypt frame."
+    },
+    "decrypt_header": {
+        "message": "Dekripsi data",
+        "description": "Header of file/text decrypt page."
+    },
+    "decrypt_header_success": {
+        "message": "Dekripsi berhasil",
+        "description": "Header of file/text decrypt result page."
+    },
+    "decrypt_home": {
+        "message": "Dekripsi",
+        "description": "File/text decrypting navigation: Home."
+    },
+    "decrypt_open_viewer_btn_title": {
+        "message": "Buka di penampil Mailvelope",
+        "description": "Title of open message viewer icon button."
+    },
+    "decrypt_show_message_btn": {
+        "message": "Tampilkan pesan",
+        "description": "Show messsage button label in decrypt message."
+    },
+    "decrypt_signer_label": {
+        "message": "Pengirim",
+        "description": "Label for signature line in decrypted message"
+    },
+    "decrypt_text_area_label": {
+        "message": "Teks untuk didekrip",
+        "description": "Label of textarea to paste armored block in on decrypt page."
+    },
+    "decrypt_text_decryption_btn": {
+        "message": "Apakah Anda juga ingin mendekripsi teks?",
+        "description": "Text decryption button label on decrypt page."
+    },
+    "decrypt_text_error_header": {
+        "message": "Dekripsi teks tidak memungkinkan.",
+        "description": "Header of text decryption error on decrypt result page."
+    },
+    "dialog_cancel_btn": {
+        "message": "Batal",
+        "description": "Dialog cancel button label"
+    },
+    "dialog_no_btn": {
+        "message": "Tidak",
+        "description": "Dialog no button label"
+    },
+    "dialog_popup_close": {
+        "message": "Tutup",
+        "description": "Close decrypt popup."
+    },
+    "dialog_save_btn": {
+        "message": "Simpan",
+        "description": "Dialog save button label"
+    },
+    "dialog_yes_btn": {
+        "message": "Yes",
+        "description": "Dialog yes button label"
+    },
+    "editor_blur_warn": {
+        "message": "Peringatan: Editor teks kehilangan fokus",
+        "description": "Warning for lost focus."
+    },
+    "editor_encrypt_button": {
+        "message": "Mengenkripsi",
+        "description": "Encrypt button."
+    },
+    "editor_error_header": {
+        "message": "Kesalahan",
+        "description": ""
+    },
+    "editor_extra_key_checkbox": {
+        "message": "Tambahkan kunci tambahan",
+        "description": "Extra key checkbox label."
+    },
+    "editor_extra_key_help": {
+        "message": "Surel akan dienkripsi dengan kunci tambahan ini",
+        "description": "Extra key help text."
+    },
+    "editor_header": {
+        "message": "Mengarang Surel aman",
+        "description": "Header of editor popup."
+    },
+    "editor_key_auto_sign": {
+        "message": "Apakah Anda ingin tanda tangan semua surel Anda?",
+        "description": "Label for default private key option."
+    },
+    "editor_key_auto_sign_link": {
+        "message": "Ganti pengaturan di sini",
+        "description": "Test for auto sign link."
+    },
+    "editor_key_has_extra_msg": {
+        "message": "Surel akan dienkripsi dengan kunci alternatif yang dimasukkan di bawah ini.",
+        "description": "Label for info message invalid recipients but extra key."
+    },
+    "editor_key_no_sign_option": {
+        "message": "Belum ditandatangani",
+        "description": "Label for not sign option in sign key select."
+    },
+    "editor_key_not_found": {
+        "message": "Kunci tidak ditemukan!",
+        "description": "Warning for when a recipient key was not found."
+    },
+    "editor_key_not_found_msg": {
+        "message": "Semua penerima membutuhkan kunci PGP untuk mengenkripsi. Meskipun begitu Anda masih bisa menandatangani pesannya.",
+        "description": "Warning for when a recipient key was not found."
+    },
+    "editor_label_attachments": {
+        "message": "Lampiran",
+        "description": "Label for attachments select/drop area."
+    },
+    "editor_label_copy_recipient": {
+        "message": "Cc",
+        "description": "Label for copy recipient text input."
+    },
+    "editor_label_message": {
+        "message": "Pesan",
+        "description": "Label for message textarea."
+    },
+    "editor_label_recipient": {
+        "message": "Penerima",
+        "description": "Label for recipient input."
+    },
+    "editor_label_subject": {
+        "message": "Subyek",
+        "description": "Label for subject text input."
+    },
+    "editor_link_file_encryption": {
+        "message": "Enkripsikan berkas",
+        "description": "Navigation link to file encryption"
+    },
+    "editor_no_default_key_caption_long": {
+        "message": "Surel tidak dapat ditandatangani secara digital karena kunci bawaan hilang",
+        "description": ""
+    },
+    "editor_no_default_key_caption_short": {
+        "message": "Surel tidak dapat ditandatangani secara digital",
+        "description": ""
+    },
+    "editor_remove_upload": {
+        "message": "Hapus",
+        "description": "Remove uploaded attachment"
+    },
+    "editor_sign_button": {
+        "message": "Hanya tanda tangan",
+        "description": "Sign button."
+    },
+    "editor_sign_caption_long": {
+        "message": "Ketika surel dikirim, itu juga akan ditandatangani secara digital",
+        "description": ""
+    },
+    "editor_sign_caption_short": {
+        "message": "Surel akan ditandatangani secara digital",
+        "description": ""
+    },
+    "editor_transfer": {
+        "message": "Transfer",
+        "description": "Transfer button of editor popup."
+    },
+    "encrypt_change_signer_dialog_signer_label": {
+        "message": "Pilih tanda tangan",
+        "description": "Label for signer select of change signer dialog."
+    },
+    "encrypt_change_signer_dialog_title": {
+        "message": "Ganti tanda tangan",
+        "description": "Titel of change signer dialog."
+    },
+    "encrypt_dialog_no_recipient": {
+        "message": "Silahkan tambah penerima.",
+        "description": "Error message if no recipient selected."
+    },
+    "encrypt_download_all_button": {
+        "message": "Unduh semua",
+        "description": "Button to download all files"
+    },
+    "encrypt_encrypted_files_label": {
+        "message": "Berkas terenkripsi",
+        "description": "Encrypted files label on encrypt success page."
+    },
+    "encrypt_encrypted_for_label": {
+        "message": "Dienkripsikan untuk",
+        "description": "Encrypted for label on encrypt success page."
+    },
+    "encrypt_error": {
+        "message": "Tidak dapat mengenkripsi pesan ini: $1",
+        "description": "Error during encryption process."
+    },
+    "encrypt_file_error_header": {
+        "message": "Enkripsi berkas $1 tidak memungkinkan.",
+        "description": "Header of file decryption error on decrypt result page."
+    },
+    "encrypt_frame_btn_label": {
+        "message": "Tulis surel aman",
+        "description": "Text on expanded editor button of editable email area"
+    },
+    "encrypt_header": {
+        "message": "Enkripsikan data",
+        "description": "Header of file/text encrypt page."
+    },
+    "encrypt_header_success": {
+        "message": "Enkripsi berhasil",
+        "description": "Header of file/text encrypt result page."
+    },
+    "encrypt_home": {
+        "message": "Mengenkripsi",
+        "description": "File/text encrypting navigation: Home."
+    },
+    "encrypt_no_signer_info": {
+        "message": "Data terenkripsi tidak ditandatangani",
+        "description": "No signer info text on encrypt page."
+    },
+    "encrypt_remove_signer_btn": {
+        "message": "Hapus tanda tangan",
+        "description": "Remove signer button label on encrypt page."
+    },
+    "encrypt_signed_as_label": {
+        "message": "Signed oleh",
+        "description": "Signed as label on encrypt success page."
+    },
+    "encrypt_signer_info": {
+        "message": "Data terenkripsi ditandatangani dengan kunci Anda ($1)",
+        "description": "Signer info text on encrypt page."
+    },
+    "encrypt_text_encryption_btn": {
+        "message": "Apakah Anda juga ingin mengenkripsi teks?",
+        "description": "Text encryption button label on encrypt page."
+    },
+    "encrypt_text_error_header": {
+        "message": "Enkripsi teks tidak memungkinkan.",
+        "description": "Header of text decryption error on decrypt result page."
+    },
+    "encrypt_upload_file_warning_too_big": {
+        "message": "Salah satu berkas terlalu besar.",
+        "description": "."
+    },
+    "ext_description": {
+        "message": "Perkuat penyedia surel anda dengan enkripsi antarpengguna. Komunikasi surel aman berdasarkan standar OpenPGP.",
+        "description": "Description of the extension."
+    },
+    "ext_name": {
+        "message": "Mailvelope",
+        "description": "Name of the extension."
+    },
+    "feature_banner_new_security_background_btn": {
+        "message": "Personalisasikan sekarang",
+        "description": "Button text of feature banner for new security background."
+    },
+    "feature_banner_new_security_background_text": {
+        "message": "Buat Mailvelope makin aman dengan mempersonalisasikan latar belakang keamanan Anda.",
+        "description": "Text of feature banner for new security background."
+    },
+    "file_invalid_signed": {
+        "message": "Tanda tangan tidak sah",
+        "description": "Text of signer field of file element."
+    },
+    "file_not_signed": {
+        "message": "Berkas tidak ditandatangani",
+        "description": "Text of signer field of file element."
+    },
+    "file_read_error": {
+        "message": "Tidak bisa mendekripsikan berkas ini: $1",
+        "description": ""
+    },
+    "file_signed": {
+        "message": "Berkas ditandatangani oleh $1",
+        "description": "Text of signer field of file element."
+    },
+    "form_back": {
+        "message": "Kembali",
+        "description": "Back form button."
+    },
+    "form_busy": {
+        "message": "Memproses",
+        "description": "Form in busy state."
+    },
+    "form_cancel": {
+        "message": "Batal",
+        "description": "Cancel form button."
+    },
+    "form_clear": {
+        "message": "Bersihkan",
+        "description": "Clear form button."
+    },
+    "form_close": {
+        "message": "Tutup",
+        "description": "Close form button."
+    },
+    "form_confirm": {
+        "message": "Konfirmasi",
+        "description": "Confirm form button."
+    },
+    "form_continue": {
+        "message": "Lanjutkan",
+        "description": "Continue form button."
+    },
+    "form_definition_error_no_recipient_key": {
+        "message": "Tidak ada kunci enkripsi yang valid untuk alamat penerima.",
+        "description": "Error message when recipient key is not in keyring"
+    },
+    "form_definition_error_signature_invalid": {
+        "message": "Formulir tanda tangan tidak valid.",
+        "description": "Error message when the form signature is not valid"
+    },
+    "form_destination": {
+        "message": "Destinasi",
+        "description": "URL the form data will be sent to"
+    },
+    "form_destination_default": {
+        "message": "Data terenkripsi akan dikembalikan ke halaman.",
+        "description": "Behavior when no action is specified in form"
+    },
+    "form_forward": {
+        "message": "Selanjutnya",
+        "description": "Forward form button."
+    },
+    "form_import": {
+        "message": "Impor",
+        "description": "Import form button."
+    },
+    "form_loading": {
+        "message": "Memuat formulir",
+        "description": "Waiting modal when form is loading."
+    },
+    "form_next": {
+        "message": "Selanjutnya",
+        "description": "Next form button."
+    },
+    "form_no": {
+        "message": "Tidak",
+        "description": "No form button."
+    },
+    "form_ok": {
+        "message": "OK",
+        "description": "Ok form button."
+    },
+    "form_recipient": {
+        "message": "Penerima",
+        "description": "The email for which the form will be encrypted for"
+    },
+    "form_save": {
+        "message": "Simpan",
+        "description": "Save form button."
+    },
+    "form_sign_error_no_default_key": {
+        "message": "Kunci privat tidak tersedia di rangkaian kunci untuk menandatangani konten formulir ini. Silakan impor atau buat terlebih dahulu.",
+        "description": "Error message when trying to sign and no primary key is found"
+    },
+    "form_submit": {
+        "message": "Kirim",
+        "description": "Submit form button."
+    },
+    "form_undo": {
+        "message": "Undo",
+        "description": "Undo form button."
+    },
+    "form_yes": {
+        "message": "Ya",
+        "description": "Yes form button."
+    },
+    "general_default_key_always": {
+        "message": "Selalu tambahkan kunci default saya ke daftar penerima. (Ini memungkinkan Anda untuk mendekripsi email yang dikirimkan)",
+        "description": "Label for default private key option."
+    },
+    "general_default_key_auto_sign": {
+        "message": "Tanda tangani semua pesan keluar.",
+        "description": "Label for default private key option."
+    },
+    "general_gnupg_check_availability": {
+        "message": "Izinkan kami memeriksa ketersediaan",
+        "description": "Button label to check availability of GnuPG"
+    },
+    "general_gnupg_installed_question": {
+        "message": "Apakah Anda memiliki GnuPG yang telah terpasang? Jika belum <0>Unduh di sini</0>. Untuk memeriksa kembali ketersediaan <1>Jalankan kembali Mailvelope</1>",
+        "description": "Status message with available user options"
+    },
+    "general_gnupg_not_available": {
+        "message": "GnuPG tidak tersedia",
+        "description": "Indicator if GnuPG is not available"
+    },
+    "general_gnupg_prefer": {
+        "message": "Apakah Anda lebih memilih menggunakan GnuPG?",
+        "description": "Question if user prefers to use GnuPG"
+    },
+    "general_openpgp_current": {
+        "message": "Anda sedang menggunakan",
+        "description": "Label for current OpenPGP backend. Sentence continues with either 'OpenPGP.js' or 'GnuPG"
+    },
+    "general_openpgp_prefer": {
+        "message": "Backend enkripsi mana yang Anda sukai?",
+        "description": "Label for OpenPGP backend selection."
+    },
+    "general_openpgp_preferences": {
+        "message": "Preferensi OpenPGP",
+        "description": "Headline for OpenPGP settings."
+    },
+    "general_prefer_gnupg_note": {
+        "message": "Catatan: kunci publik disinkronkan di antara rangkaian kunci yang tersedia. Tergantung pada ketersediaan kunci privat, Mailvelope dapat membatalkan pengaturan pustaka enkripsi yang disukai.",
+        "description": "Help text for GnuPG as the preferred OpenPGP backend option."
+    },
+    "gmail_integration_auth_error_download": {
+        "message": "Mailvelope tidak terotorisasi untuk mengunduh lampiran. Anda harus mengizinkan Mailvelope untuk mengakses API Gmail agar bisa menggunakan fungsi ini.",
+        "description": "Error message for components requiring authorization of GMAIL integration"
+    },
+    "gmail_integration_auth_error_send": {
+        "message": "Mailvelope tidak terotorisasi untuk mengirim surel. Anda harus mengizinkan Mailvelope untuk mengakses API Gmail agar bisa menggunakan fungsi ini.",
+        "description": "Error message for components requiring authorization of GMAIL integration"
+    },
+    "gmail_integration_quoted_mail_header_forward": {
+        "message": "---------- Pesan yang diteruskan --------- Dari: $1 Tanggal: $2 Perihal: $3 Kepada: $4",
+        "description": "Header for forwarded mail"
+    },
+    "gmail_integration_quoted_mail_header_reply": {
+        "message": "Di $1, $2 menulis:",
+        "description": "Header for quoted reply mail"
+    },
+    "gmail_integration_sent_success": {
+        "message": "Surel berhasil terkirim.",
+        "description": "Email sent success notification"
+    },
+    "gnupg_connection": {
+        "message": "Koneksi GnuPG",
+        "description": "Header that shows that GnuPG is available on the system."
+    },
+    "gnupg_error_unusable_pub_key": {
+        "message": "Periksa apakah kunci publik berikut ini tersedia di rangkaian kunci GnuPG Anda dan valid: $1",
+        "description": ""
+    },
+    "import_frame_help_text": {
+        "message": "Klik untuk mengimpor kunci",
+        "description": "Help text on import frame."
+    },
+    "install_landing_page_hint": {
+        "message": "Klik di sini, untuk membuka ekstensi.",
+        "description": "Install landing page getting started hint"
+    },
+    "key_default_active_btn_title": {
+        "message": "Kunci ditetapkan sebagai kunci bawaan",
+        "description": "Title for active default key button"
+    },
+    "key_default_disabled_btn_title": {
+        "message": "Kunci tidak valid untuk operasi pengenkripsian dan penandatanganan",
+        "description": "Title for disabled (invalid) default key button"
+    },
+    "key_default_inactive_btn_title": {
+        "message": "Atur kunci sebagai kunci bawaan",
+        "description": "Title for inactive default key button"
+    },
+    "key_export_btn": {
+        "message": "Mengekspor",
+        "description": "Export key button label"
+    },
+    "key_export_btn_title": {
+        "message": "Ekspor kunci",
+        "description": "Title for export key button"
+    },
+    "key_export_create_file": {
+        "message": "Simpan",
+        "description": "Download file button."
+    },
+    "key_export_dialog_copy_to_clipboard": {
+        "message": "Salin ke clipboard",
+        "description": "Copy to clipboard button label."
+    },
+    "key_export_dialog_question": {
+        "message": "Kunci mana yang Anda ingin ekspor?",
+        "description": "Question in export private key dialog."
+    },
+    "key_export_dialog_title": {
+        "message": "Ekspor kunci",
+        "description": "Title of export key dialog."
+    },
+    "key_export_filename": {
+        "message": "Nama berkas",
+        "description": "Label of filename input."
+    },
+    "key_export_header": {
+        "message": "Ekspor Kunci",
+        "description": "Export key dialog header."
+    },
+    "key_export_warning_private": {
+        "message": "Berkas ini memuat kunci privat. Simpan berkas di tempat yang aman dan jangan bagikan dengan orang lain.",
+        "description": "Key export warning."
+    },
+    "key_gen_advanced_btn": {
+        "message": "Lanjutan",
+        "description": "Advanced key generation settings."
+    },
+    "key_gen_another": {
+        "message": "Hasilkan ...lainnya",
+        "description": "Key import button"
+    },
+    "key_gen_demail": {
+        "message": "Alamat De-Mail",
+        "description": "De-Mail address name."
+    },
+    "key_gen_error": {
+        "message": "Terjadi kesalahan saat membuat kunci.",
+        "description": "Key generation error message"
+    },
+    "key_gen_experimental": {
+        "message": "Percobaan",
+        "description": "A key algorithm is flagged as experimental"
+    },
+    "key_gen_expiration": {
+        "message": "Tanggal kedaluwarsa kunci",
+        "description": "Key expiration date"
+    },
+    "key_gen_future_default": {
+        "message": "Default Mendatang",
+        "description": "Key generation algorithm, the future supported standard."
+    },
+    "key_gen_generate": {
+        "message": "Buat",
+        "description": "Key generate button label"
+    },
+    "key_gen_invalid_email": {
+        "message": "Alamat surel tidak sah",
+        "description": "Error message."
+    },
+    "key_gen_key_size": {
+        "message": "Ukuran kunci",
+        "description": "Advanced key generation settings: Key size"
+    },
+    "key_gen_name_help": {
+        "message": "Nama lengkap pemilik kunci",
+        "description": "Help text for name field."
+    },
+    "key_gen_pwd": {
+        "message": "Masukkan Kata Sandi",
+        "description": "Label for passphrase input field"
+    },
+    "key_gen_pwd_empty": {
+        "message": "Kolom kata sandi kosong",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_pwd_match": {
+        "message": "Kata sandi cocok",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_pwd_reenter": {
+        "message": "Masukkan ulang Kata sandi",
+        "description": "Label for passphrase input field"
+    },
+    "key_gen_pwd_unequal": {
+        "message": "Kata sandi tidak cocok",
+        "description": "Passphrase input field status"
+    },
+    "key_gen_success": {
+        "message": "Kunci baru telah dibuat dan telah diimpor ke rangkaian kunci",
+        "description": "Key generation success message"
+    },
+    "key_gen_upload": {
+        "message": "Unggah kunci publik ke Peladen Kunci Mailvelope (dapat dihapus kapan saja)",
+        "description": "Upload key to Mailvelope key server checkbox"
+    },
+    "key_gen_wait_header": {
+        "message": "Pembuatan kunci sedang berlangsung...",
+        "description": "Wait dialog header"
+    },
+    "key_gen_wait_info": {
+        "message": "Harap tunggu, pembuatan kunci dapat memakan waktu hingga beberapa menit tergantung pada berbagai faktor, seperti ukuran kunci.",
+        "description": "Wait dialog info message"
+    },
+    "key_import_bulk_success": {
+        "message": "Kunci berhasi diimpor/diperbarui.",
+        "description": "Import success message for more than 5 keys"
+    },
+    "key_import_contacts_import_btn": {
+        "message": "Impor kunci",
+        "description": "Contact import button label on key import page."
+    },
+    "key_import_default_description": {
+        "message": "Setelah konfirmasi, kunci ini ditransfer ke rangkaian kunci lokal:",
+        "description": "Key import dialog description."
+    },
+    "key_import_default_description_plural": {
+        "message": "Setelah konfirmasi, kunci-kunci ini ditransfer ke rangkaian kunci lokal:",
+        "description": "Key import dialog description."
+    },
+    "key_import_default_headline": {
+        "message": "Konfirmasi kunci",
+        "description": "Key import dialog header."
+    },
+    "key_import_dialog_header": {
+        "message": "Tambahkan kunci ke rangkaian kunci",
+        "description": "Key import dialog header."
+    },
+    "key_import_error": {
+        "message": "Impor Eror.",
+        "description": "Import error alert."
+    },
+    "key_import_error_no_uid": {
+        "message": "Tidak ditemukan ID pengguna yang valid di kunci $1",
+        "description": "Import error no user id found."
+    },
+    "key_import_error_parse": {
+        "message": "Kesalahan membaca kunci berlapis PGP: $1",
+        "description": "Import parse error."
+    },
+    "key_import_exception": {
+        "message": "Sebuah galat terjadi saat memproses kunci",
+        "description": "Import error alert."
+    },
+    "key_import_file_label": {
+        "message": "Pilih berkas",
+        "description": "File selection label."
+    },
+    "key_import_from_text_btn": {
+        "message": "Impor kunci dari papan klip",
+        "description": "Import keys from clipboard button label on key import page."
+    },
+    "key_import_from_text_label": {
+        "message": "Teks dari papan klip.",
+        "description": "Import keys from clipboard textarea label on key import page."
+    },
+    "key_import_invalid_text": {
+        "message": "Tidak ditemukan teks kunci yang valid",
+        "description": "Import error alert."
+    },
+    "key_import_invalidated_description": {
+        "message": "Peringatan: Kunci untuk kontak ini telah kedaluwarsa. Komunikasi yang terenkripsi dengan $1 tidak lagi memungkinkan. Anda perlu mendapatkan kunci saat ini dari kontak ini.",
+        "description": ""
+    },
+    "key_import_number_of_failed": {
+        "message": "Kunci tidak dapat diimpor karena kesalahan.",
+        "description": "Error message with number of failed imports."
+    },
+    "key_import_number_of_failed_plural": {
+        "message": "$1 kunci tidak dapat diimpor karena kesalahan.",
+        "description": "Error message with number of failed imports."
+    },
+    "key_import_private_exists": {
+        "message": "Bagian kunci privat sesuai dengan kunci publik yang ada $1 dari pengguna $2 yang diimpor ke rangkaian kunci",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_private_read": {
+        "message": "Tidak dapat membaca kunci privat: $1",
+        "description": "Import error message. $1: error message"
+    },
+    "key_import_private_success": {
+        "message": "Kunci privat $1 dari pengguna $2 diimpor ke rangkaian kunci",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_private_update": {
+        "message": "Kunci privat $1 yang diperbarui dari pengguna $2",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_public_read": {
+        "message": "Tidak dapat membaca kunci publik  $1",
+        "description": "Import error message. $1: error message"
+    },
+    "key_import_public_success": {
+        "message": "Kunci publik  $1pengguna  $2 telah diimpor ke rangkaian kunci",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_public_update": {
+        "message": "Kunci publik  $1 pengguna  $2 telah diperbarui",
+        "description": "Import success message: $1: keyid, $2: userid."
+    },
+    "key_import_rotation_add": {
+        "message": "Tambahkan ke rangkaian kunci",
+        "description": "Key import rotation add button."
+    },
+    "key_import_rotation_cancel": {
+        "message": "Nanti saja",
+        "description": "Key import rotation cancel button."
+    },
+    "key_import_rotation_description": {
+        "message": "Jika Anda tetap menggunakan kunci lama, pengirim mungkin tidak dapat mendekripsi pesan Anda. Jika Anda mencurigainya, minta pengirim untuk mengonfirmasi perubahan di saluran komunikasi yang lain. Anda bisa menambahkan atau menghapus kuncinya nanti.",
+        "description": "Key import dialog description."
+    },
+    "key_import_rotation_headline": {
+        "message": "Pengirim menandatangani pesan ini dengan kunci baru.",
+        "description": "Key import rotation dialog header."
+    },
+    "key_import_search_btn": {
+        "message": "Cari",
+        "description": "Key search input button."
+    },
+    "key_import_search_found": {
+        "message": "Kunci ditemukan di:",
+        "description": "Key search found label."
+    },
+    "key_import_search_found_source": {
+        "message": "Sumber:",
+        "description": "Key search found label."
+    },
+    "key_import_search_found_modified": {
+        "message": "Tanggal terakhir diubah:",
+        "description": "Key search found label."
+    },
+    "key_import_search_disabled": {
+        "message": "Pencarian dinonaktifkan.",
+        "description": "Key search disabled warning."
+    },
+    "key_import_search_disabled_descr": {
+        "message": "Aktifkan sedikitnya satu kunci di pengaturan.",
+        "description": "Key search disabled warning description."
+    },
+    "key_import_search_invalid": {
+        "message": "Masukkan alamat surel yang valid, ID kunci (16 digit) atau sidik jari (40 digit)",
+        "description": "Key search input has invalid content."
+    },
+    "key_import_search_not_found": {
+        "message": "Kunci tidak tersedia di semua direktori kunci yang ditelusuri.",
+        "description": "Key search found no result error message."
+    },
+    "key_import_search_not_found_header": {
+        "message": "Tidak ditemukan kunci.",
+        "description": "Key search found no result header."
+    },
+    "key_import_search_ph": {
+        "message": "Alamat Surel / ID Kunci / Sidik Jari",
+        "description": "Key search input place holder."
+    },
+    "key_import_textarea": {
+        "message": "Impor kunci sebagai teks",
+        "description": "Key import box."
+    },
+    "key_import_too_big": {
+        "message": "Teks kunci yang Anda coba impor terlalu panjang. Coba lagi dengan bagian yang lebih kecil.",
+        "description": "Import error alert."
+    },
+    "key_import_unable": {
+        "message": "Tidak dapat mengimpor kunci karena pengecualian: $1",
+        "description": "Import error message: $1: error message."
+    },
+    "key_keyserver_mod": {
+        "message": "Data kunci di peladen kunci Mailvelope sudah tidak diperbarui lagi.",
+        "description": "Local key data differs from Mailvelope key server"
+    },
+    "key_keyserver_not": {
+        "message": "Kunci tidak sinkronisasi dengan peladen kunci Mailvelope.",
+        "description": "Key is not on the the Mailvelope server"
+    },
+    "key_keyserver_remove": {
+        "message": "Surel konfirmasi dikirimkan ke semua ID pengguna untuk menghapusan total dari server kunci Mailvelope.",
+        "description": "A deletion request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_remove_btn": {
+        "message": "Hapus semua ID pengguna",
+        "description": "Key server remove existing key button label"
+    },
+    "key_keyserver_resend_btn": {
+        "message": "Kirim ulang",
+        "description": "Key server send again button label"
+    },
+    "key_keyserver_sync": {
+        "message": "Data kunci di peladen kunci Mailvelope adalah yang terbaru.",
+        "description": "Key data is synchronized with the Mailvelope key server"
+    },
+    "key_keyserver_update": {
+        "message": "Data kunci telah diperbarui di peladen kunci Mailvelope.",
+        "description": "An update request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_update_btn": {
+        "message": "Memperbarui",
+        "description": "Key server update button label"
+    },
+    "key_keyserver_upload": {
+        "message": "Untuk sinkronkan kunci dengan peladen kunci Mailvelope, konfirmasi surel dikirim ke semua ID pengguna.",
+        "description": "An upload request has been sent to the Mailvelope key server"
+    },
+    "key_keyserver_upload_btn": {
+        "message": "Sinkronkan",
+        "description": "Key server upload button label"
+    },
+    "key_recovery_failed": {
+        "message": "Gagal memulihkan kunci dari cadangan.",
+        "description": ""
+    },
+    "key_remove_btn": {
+        "message": "Hapus",
+        "description": "Remove key button label"
+    },
+    "key_remove_btn_title": {
+        "message": "Hapus kunci dari rangkaian kunci",
+        "description": "Title for remove key button"
+    },
+    "key_remove_dialog_title": {
+        "message": "Hapus kunci",
+        "description": "Title of delete key dialog."
+    },
+    "key_revoke_btn": {
+        "message": "Cabut",
+        "description": "Revoke key button label"
+    },
+    "key_revoke_btn_title": {
+        "message": "Cabut kunci",
+        "description": "Title for revoke key button"
+    },
+    "key_revoke_dialog_confirm": {
+        "message": "Apakah Anda tetap ingin mencabut kunci?",
+        "description": "Confirmation question of revoke key dialog."
+    },
+    "key_revoke_dialog_description": {
+        "message": "Dengan pembatalan kunci tetap tidak dapat digunakan secara permanen.",
+        "description": "Text of revoke key dialog."
+    },
+    "key_revoke_dialog_title": {
+        "message": "Cabut kunci",
+        "description": "Title of revoke key dialog."
+    },
+    "key_set_as_default": {
+        "message": "Atur sebagai Bawaan",
+        "description": "Set as default key for the keyring button"
+    },
+    "keybackup_failed": {
+        "message": "Gagal membuat cadangan kunci.",
+        "description": ""
+    },
+    "keybackup_restore_dialog_button": {
+        "message": "Pulihkan cadangan",
+        "description": ""
+    },
+    "keybackup_restore_dialog_description": {
+        "message": "Buat lembar pemulihan baru di sini jika:",
+        "description": ""
+    },
+    "keybackup_restore_dialog_headline": {
+        "message": "Rekomendasi: Buat cadangan",
+        "description": ""
+    },
+    "keybackup_restore_dialog_list_1": {
+        "message": "Anda kehilangan lembar pemulihan.",
+        "description": ""
+    },
+    "keybackup_restore_dialog_list_2": {
+        "message": "Lembar pemulihan baru harus dibuat untuk alasan keamanan.",
+        "description": ""
+    },
+    "keybackup_setup_dialog_button": {
+        "message": "Buat cadangan",
+        "description": ""
+    },
+    "keybackup_setup_dialog_description": {
+        "message": "Cadangan diperlukan untuk memastikan komunikasi yang terenkripsi Anda:",
+        "description": ""
+    },
+    "keybackup_setup_dialog_headline": {
+        "message": "Rekomendasi: Siapkan pencadangan",
+        "description": ""
+    },
+    "keybackup_setup_dialog_list_1": {
+        "message": "Untuk memulihkannya andai terjadi kehilangan data",
+        "description": "In order to restore your encrypted communication in case of data loss."
+    },
+    "keybackup_setup_dialog_list_2": {
+        "message": "Untuk memindahkannya ke perangkat lain",
+        "description": "In order to transfer your encrypted communication to other devices."
+    },
+    "keybackup_waiting_description": {
+        "message": "Dokumen dengan kode pemulihan Anda sedang dipersiapkan.",
+        "description": ""
+    },
+    "keybackup_waiting_headline": {
+        "message": "Membuat cadangan!",
+        "description": ""
+    },
+    "keydetails_change_exp_date_dialog_note": {
+        "message": "Tanggal kedaluwarsa juga diubah untuk semua sub-kunci. Sub-kunci yang tidak valid atau sub-kunci yang telah kedaluwarsa tetap tidak terpengaruh.",
+        "description": "Important note in change expiration date dialog."
+    },
+    "keydetails_change_exp_date_dialog_title": {
+        "message": "Ganti tanggal kedaluwarsa",
+        "description": "Title of change expiration date dialog."
+    },
+    "keydetails_change_pwd_dialog_old": {
+        "message": "Kata sandi lama",
+        "description": "Old password input label"
+    },
+    "keydetails_change_pwd_dialog_title": {
+        "message": "Ubah kata sandi",
+        "description": "Title of change password dialog."
+    },
+    "keydetails_creation_date": {
+        "message": "Dibuat",
+        "description": "Creation date of a PGP key."
+    },
+    "keydetails_expiration_date": {
+        "message": "Habis waktu",
+        "description": "Expiration date of a PGP key."
+    },
+    "keydetails_key_not_expire": {
+        "message": "Tidak pernah",
+        "description": "Expiration date of a PGP key not set."
+    },
+    "keydetails_password": {
+        "message": "Kata sandi",
+        "description": "Password of a PGP key."
+    },
+    "keydetails_title": {
+        "message": "Detail kunci",
+        "description": "Title of the key details panel"
+    },
+    "keygen_dialog_password_error_length": {
+        "message": "Kata sandi membutuhkan setidaknya $1 karakter",
+        "description": ""
+    },
+    "keygen_dialog_password_placeholder": {
+        "message": "Minimal 4 karakter",
+        "description": ""
+    },
+    "keygen_dialog_prolog": {
+        "message": "Tetapkan kata sandi untuk kunci Anda guna melindungi komunikasi terenkripsi Anda:",
+        "description": ""
+    },
+    "keygen_waiting_description": {
+        "message": "Proses ini dapat memakan waktu beberapa menit. Peramban Anda mungkin menjadi tidak responsif. Harap bersabar.",
+        "description": ""
+    },
+    "keygen_waiting_headline": {
+        "message": "Menyiapkan komunikasi yang terenkripsi",
+        "description": ""
+    },
+    "keygrid_algorithm": {
+        "message": "Algoritma",
+        "description": "Public-key algorithm of a PGP key."
+    },
+    "keygrid_all_keys": {
+        "message": "Semua Kunci",
+        "description": "Selection of key type."
+    },
+    "keygrid_creation_date": {
+        "message": "Tanggal Pembuatan",
+        "description": "Creation date of a PGP key."
+    },
+    "keygrid_creation_date_short": {
+        "message": "Dibuat",
+        "description": "Short creation date of a PGP key. Max. width: 90px"
+    },
+    "keygrid_default_key": {
+        "message": "Kunci bawaan",
+        "description": "Default key in the keyring."
+    },
+    "keygrid_default_label": {
+        "message": "Bawaan",
+        "description": "Label for the default key"
+    },
+    "keygrid_delete": {
+        "message": "Hapus",
+        "description": "Max. 6 characters."
+    },
+    "keygrid_delete_confirmation": {
+        "message": "Apakah Anda yakin ingin menghapus kunci ini?",
+        "description": "Delete confirmation dialog."
+    },
+    "keygrid_display_all_keys": {
+        "message": "Tampilkan semua kunci",
+        "description": "Export key menu."
+    },
+    "keygrid_display_priv_key": {
+        "message": "Tampilkan Kunci Privat",
+        "description": "Export key menu."
+    },
+    "keygrid_display_pub_key": {
+        "message": "Tampilkan kunci publik",
+        "description": "Export key menu."
+    },
+    "keygrid_expiration_date": {
+        "message": "Tanggal Kedaluwarsa",
+        "description": "Expiration date of a PGP key."
+    },
+    "keygrid_export": {
+        "message": "Mengekspor",
+        "description": "Export key."
+    },
+    "keygrid_export_title": {
+        "message": "Ekspor semua kunci dalam daftar ini ke berkas",
+        "description": "Title for Export key button."
+    },
+    "keygrid_generate_title": {
+        "message": "Buat kunci",
+        "description": "Title for generate key button"
+    },
+    "keygrid_import_search_title": {
+        "message": "Cari kunci publik di sumber eksternal",
+        "description": "Title for Search key button."
+    },
+    "keygrid_import_title": {
+        "message": "Impor kunci",
+        "description": "Title for Import key button."
+    },
+    "keygrid_invalid_userid": {
+        "message": "ID Pengguna tidak valid",
+        "description": "User ID invalid."
+    },
+    "keygrid_key_fingerprint": {
+        "message": "Sidik Jari PGP",
+        "description": "Unique string identifier for a PGP key."
+    },
+    "keygrid_key_length": {
+        "message": "Panjang",
+        "description": "Key length of a PGP key."
+    },
+    "keygrid_key_not_expire": {
+        "message": "Kunci tidak kedaluwarsa",
+        "description": "Expiration date of a PGP key not set."
+    },
+    "keygrid_keyid": {
+        "message": "ID Kunci",
+        "description": "Key ID of a PGP key."
+    },
+    "keygrid_primary_key": {
+        "message": "Kunci Utama",
+        "description": "Main key in the PGP key."
+    },
+    "keygrid_private_keys": {
+        "message": "Kunci Privat",
+        "description": "Selection of key type."
+    },
+    "keygrid_public_keys": {
+        "message": "Kunci Publik",
+        "description": "Selection of key type."
+    },
+    "keygrid_refresh": {
+        "message": "Segarkan",
+        "description": "Refresh keygrid component."
+    },
+    "keygrid_refresh_title": {
+        "message": "Muat ulang pasangan kunci",
+        "description": "Title for button to refresh keygrid component."
+    },
+    "keygrid_send_pub_key": {
+        "message": "Kirim kunci publik lewat surel",
+        "description": "Export key menu."
+    },
+    "keygrid_signer_name": {
+        "message": "Penandatangan",
+        "description": "User ID of signer."
+    },
+    "keygrid_signer_unknown": {
+        "message": "Tidak diketahui penandatangannya",
+        "description": "Key of signer not available."
+    },
+    "keygrid_sort_type": {
+        "message": "Filter",
+        "description": "Key grid sort selector."
+    },
+    "keygrid_status_expired": {
+        "message": "kadaluarsa",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_invalid": {
+        "message": "tidak sah",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_revoked": {
+        "message": "dicabut",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_status_valid": {
+        "message": "Valid",
+        "description": "Validity status of a PGP key."
+    },
+    "keygrid_subkey": {
+        "message": "Sub-kunci",
+        "description": "Subkey of a PGP key."
+    },
+    "keygrid_subkeys": {
+        "message": "Sub-kunci",
+        "description": "Subkeys of a PGP key."
+    },
+    "keygrid_user_email": {
+        "message": "Surel",
+        "description": "Email address in User ID of a PGP key."
+    },
+    "keygrid_user_ids": {
+        "message": "ID Pengguna",
+        "description": "User IDs of a PGP key."
+    },
+    "keygrid_user_name": {
+        "message": "Nama",
+        "description": "Name in User ID of a PGP key."
+    },
+    "keygrid_user_primary": {
+        "message": "Utama",
+        "description": "Primary status of User ID of a PGP key"
+    },
+    "keygrid_userid_signatures": {
+        "message": "Tanda Tangan",
+        "description": "Signatures on User ID of a PGP key."
+    },
+    "keygrid_validity_status": {
+        "message": "Status",
+        "description": "Validity status of a PGP key."
+    },
+    "keyring_available_settings": {
+        "message": "Lihat pengaturan yang tersedia di:",
+        "description": "Text introducing the availability of further settings."
+    },
+    "keyring_backup": {
+        "message": "Pencadangan rangkaian kunci",
+        "description": "Title of keyring backup view"
+    },
+    "keyring_confirm_deletion": {
+        "message": "Apakah Anda ingin menghapus rangkaian kunci dengan ID: $1?",
+        "description": "Confirmation message prompted when a keyring is deleted"
+    },
+    "keyring_confirm_keys": {
+        "message": "Konfirmasi kunci untuk diimpor",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_confirm_keys_plural": {
+        "message": "Konfirmasi kunci $1 untuk diimpor",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_export_keys": {
+        "message": "Mengekspor Rangkaian Kunci",
+        "description": "Tab of keyring to export keys."
+    },
+    "keyring_generate_key": {
+        "message": "Membuat Kunci",
+        "description": "Tab of keyring to generate key."
+    },
+    "keyring_header": {
+        "message": "Manajemen Kunci",
+        "description": "Header of the key ring."
+    },
+    "keyring_import_description": {
+        "message": "Anda dapat menambahkan kunci sebagai berkas atau sebagai teks dari papan klip.",
+        "description": "Description of key import for import tab of keyring import."
+    },
+    "keyring_import_keys": {
+        "message": "Impor Kunci",
+        "description": "Tab of keyring to import keys."
+    },
+    "keyring_import_search_description": {
+        "message": "Cari kunci publik untuk ditambahkan ke rangkaian kunci Anda. Mailvelope memindai banyak direktori kunci dan menyarankan kunci publik yang kemungkinan besar sedang digunakan.",
+        "description": "Description of key search for search tab of keyring import."
+    },
+    "keyring_import_search_keys": {
+        "message": "Cari kunci",
+        "description": "Tab of keyring to search keys."
+    },
+    "keyring_main": {
+        "message": "Rangkaian Kunci Utama",
+        "description": "Label for the main keyring"
+    },
+    "keyring_private": {
+        "message": "Privat",
+        "description": "private key type"
+    },
+    "keyring_public": {
+        "message": "Publik",
+        "description": "public key type"
+    },
+    "keyring_public_private": {
+        "message": "Pasangan Kunci",
+        "description": "public and private key types"
+    },
+    "keyring_remove_dialog_title": {
+        "message": "Hapus rangkaian kunci",
+        "description": "Title of delete keyring dialog."
+    },
+    "keyring_setup": {
+        "message": "Setelan",
+        "description": "Setup keyring for mail provider."
+    },
+    "keyring_setup_generate_key": {
+        "message": "Buat kunci",
+        "description": "Generate key"
+    },
+    "keyring_setup_generate_key_explanation": {
+        "message": "Jika Anda baru menggunakan ekstensi ini untuk pertama kali dan belum memiliki pasangan kunci, buat sekarang.",
+        "description": "Generate key"
+    },
+    "keyring_setup_import_key": {
+        "message": "Impor Kunci",
+        "description": "Import key"
+    },
+    "keyring_setup_import_key_explanation": {
+        "message": "Apakah Anda sudah memiliki pasangan kunci pada perangkat lain? Anda bisa mengimpor kunci-kunci Anda yang sudah ada. Cukup dengan mengekspor pasangan kunci itu dari perangkat yang lain dan impor ke sini.",
+        "description": "Import key"
+    },
+    "keyring_setup_no_keypair": {
+        "message": "Pasangan kunci dibutuhkan untuk mengenkripsi dan mendekripsi pesan, juga untuk mengundang kontak Anda ke komunikasi terenkripsi antarpengguna.",
+        "description": "Setup text if no keypair available"
+    },
+    "keyring_setup_no_keypair_heading": {
+        "message": "Rangkaian kunci ini belum berisi pasangan kunci.",
+        "description": "Setup heading if no keypair available"
+    },
+    "keyserver_additionals_label": {
+        "message": "Sumber kunci tambahan",
+        "description": "Label for configuration of additional key sources"
+    },
+    "keyserver_autocrypt_lookup": {
+        "message": "Gunakan kunci dari tajuk Autocrypt surel masuk",
+        "description": "Enable Looking Up Keys Via Autocrypt"
+    },
+    "keyserver_tofu_lookup": {
+        "message": "Gunakan peladen kunci Mailvelope",
+        "description": "Enable Mailvelope Key Server Auto Lookup"
+    },
+    "keyserver_key_binding_header": {
+        "message": "Pendeteksian Kunci",
+        "description": "Header for key binding feature"
+    },
+    "keyserver_key_binding_label": {
+        "message": "Tentukan kunci kontak saat ini dan lakukan pemilihan kunci secara otomatis",
+        "description": "Label for key binding feature"
+    },
+    "keyserver_oks_lookup": {
+        "message": "Otomatis menelusuri kunci di <0>keys.openpgp.org</0>",
+        "description": "Enable keys.openpgp.org Auto Lookup"
+    },
+    "keyserver_verifying_servers": {
+        "message": "Server kunci dengan verifikasi surel",
+        "description": "Label for verifying key servers."
+    },
+    "keyserver_wkd_lookup": {
+        "message": "Kunci kueri dari penyedia surel penerima (Direktori Kunci Web)",
+        "description": "Enable Web Key Directory Auto Lookup"
+    },
+    "keyusers_add_btn": {
+        "message": "Tambahkan baru",
+        "description": "Add user button label"
+    },
+    "keyusers_add_btn_title": {
+        "message": "Tambahkan ID pengguna baru",
+        "description": "Add user button title"
+    },
+    "keyusers_keyserver": {
+        "message": "Server kunci",
+        "description": "Label of key server column key users table"
+    },
+    "keyusers_keyserver_not": {
+        "message": "Tidak sinkronisasi",
+        "description": "User ID not synchronized with key server label text"
+    },
+    "keyusers_keyserver_sync": {
+        "message": "Sinkronisasi",
+        "description": "User ID synchronized with key server label text"
+    },
+    "keyusers_keyserver_unverified": {
+        "message": "Belum diverifikasi",
+        "description": "User ID key server not verified label text"
+    },
+    "keyusers_title": {
+        "message": "ID pengguna yang ditugaskan",
+        "description": "Title of the key users panel"
+    },
+    "learn_more_link": {
+        "message": "Pelajari selengkapnya",
+        "description": "Text of a link to a learn-more resource"
+    },
+    "message_no_keys": {
+        "message": "Kunci privat pada pesan ini tidak ditemukan. Dibutuhkan ID kunci privat: $1",
+        "description": "Decrypt error message."
+    },
+    "message_read_error": {
+        "message": "Tidak dapat mendekripsi pesan ini: $1",
+        "description": "Message read error message: $1: error message."
+    },
+    "nameaddrinput_error_email_exists": {
+        "message": "Alamat surel sudah digunakan",
+        "description": "Error message for email input field."
+    },
+    "nameaddrinput_error_name_empty": {
+        "message": "Masukkan nama",
+        "description": "Error message for name input field."
+    },
+    "notification_text_copy_to_clipboard": {
+        "message": "Teks telah disalin ke papan klip.",
+        "description": "Copy to clipboard toast message."
+    },
+    "options_docu": {
+        "message": "Dokumentasi",
+        "description": "Options navigation: Documentation."
+    },
+    "options_home": {
+        "message": "Pilihan",
+        "description": "Options navigation: Home."
+    },
+    "options_settings": {
+        "message": "Pengaturan",
+        "description": "Options header: Settings."
+    },
+    "options_title": {
+        "message": "Opsi Mailvelope",
+        "description": "Title of options page."
+    },
+    "preferred": {
+        "message": "Memilih",
+        "description": "Indicates if a keyring is preferred"
+    },
+    "provider_gmail_auth": {
+        "message": "Otorisasi",
+        "description": "Authorizations"
+    },
+    "provider_gmail_auth_cancel_btn": {
+        "message": "Batalkan otorisasi",
+        "description": "Cancel authorization button"
+    },
+    "provider_gmail_auth_readonly": {
+        "message": "Membaca surel",
+        "description": "Readonly authorization"
+    },
+    "provider_gmail_auth_send": {
+        "message": "Kirim surel",
+        "description": "Send authorization"
+    },
+    "provider_gmail_auth_table_title": {
+        "message": "Otorisasi API Google",
+        "description": "Title for authorization table."
+    },
+    "provider_gmail_dialog_auth_google_signin": {
+        "message": "Masuk dengan Google",
+        "description": "Text Google sign in button"
+    },
+    "provider_gmail_dialog_auth_intro": {
+        "message": "Untuk menggunakan integrasi Gmail untuk <0></0>, izin berikut harus diberikan kepada Mailvelope:",
+        "description": "Intro text for GMAIL OAuth dialog."
+    },
+    "provider_gmail_dialog_auth_outro": {
+        "message": "Saat Anda mengeklik tombol masuk, jendela otorisasi Google akan terbuka. Pilih akun Gmail untuk alamat surel <0></0> dan ikuti petunjuknya.",
+        "description": "Outro text for GMAIL OAuth dialog."
+    },
+    "provider_gmail_dialog_description": {
+        "message": "Menggunakan API Gmail memperluas fungsionalitas Mailvelope dengan Gmail dan menyederhanakan pengiriman dan membaca surel terenkripsi dan lampiran.",
+        "description": "Leading text for GMAIL API dialog."
+    },
+    "provider_gmail_dialog_gsuite_alert": {
+        "message": "Fitur ini tersedia secara gratis untuk akun Gmail. Jika Anda adalah bagian dari organisasi G Suite (<0>gsuite.google.com</0>), Anda perlu membeli lisensi di <1>halaman produk Mailvelope</1>.",
+        "description": "Alert text for GSuite Users in GMAIL API dialog."
+    },
+    "provider_gmail_dialog_privacy_policy": {
+        "message": "Mohon baca Kebijakan Privasi kami",
+        "description": "Privacy policy link."
+    },
+    "provider_gmail_dialog_title": {
+        "message": "Gunakan API Gmail",
+        "description": "Title of GMAIL API dialog."
+    },
+    "provider_gmail_integration": {
+        "message": "Integrasi API Gmail",
+        "description": "Label for Gmail integration option."
+    },
+    "provider_gmail_integration_info": {
+        "message": "Mailvelope membutuhkan izin tambahan untuk mengakses API Gmail. Segera setelah Anda menggunakan fungsi enkripsi Mailvelope di Gmail, Anda akan dipandu melalui proses otorisasi. Proses ini mengharuskan Anda untuk masuk ke akun Google Anda.",
+        "description": "Info message for Gmail integration option"
+    },
+    "provider_gmail_integration_warning": {
+        "message": "Gmail tidak terotorisasi dengan pola penelusuran <0></0>. Periksa pengaturan di <1></1>.",
+        "description": "Warning message, when Gmail is not authorized"
+    },
+    "provider_gmail_licensing_dialog_business_btn_info": {
+        "message": "Berkomunikasi secara aman dengan organisasi di seluruh dunia",
+        "description": "Info text on Business button "
+    },
+    "provider_gmail_licensing_dialog_business_btn_price_info": {
+        "message": "Per pengguna/bulan",
+        "description": "Info text for price label of Business button"
+    },
+    "provider_gmail_licensing_dialog_deactivate_btn": {
+        "message": "Lanjutkan tanpa API Gmail",
+        "description": "Gmail API deactivate button in licensing dialog"
+    },
+    "provider_gmail_licensing_dialog_para_1": {
+        "message": "Penggunaan API Gmail dalam organisasi G Suite <0>dikenakan biaya</0>.",
+        "description": "Text of Gmail API licensing dialog first paragraph."
+    },
+    "provider_gmail_licensing_dialog_para_2": {
+        "message": "Anda dapat melanjutkan menggunakan Mailvelope dengan Gmail secara gratis, tetapi <0>dengan API, alur kerja Anda</0> untuk menulis dan membaca surel terenkripsi dan lampirannya akan <1>lebih cepat dan lebih mudah</1>.",
+        "description": "Text of Gmail API licensing dialog second paragraph."
+    },
+    "provider_gmail_licensing_dialog_para_3": {
+        "message": "Uji Mailvelope Business dengan API Gmail yang diaktifkan <0>gratis selama 14 hari</0>:",
+        "description": "Text of Gmail API licensing dialog third paragraph."
+    },
+    "provider_gmail_licensing_dialog_test_btn": {
+        "message": "Uji API Gmail secara gratis",
+        "description": "Gmail API test button in licensing dialog"
+    },
+    "provider_gmail_licensing_dialog_title": {
+        "message": "Wajib menggunakan lisensi Mailvelope Bisnis",
+        "description": "Title of GMAIL API licensing dialog."
+    },
+    "provider_gmail_licensing_table_caption": {
+        "message": "Lisensi untuk pemakaian integrasi API Gmail ketika menggunakan G Suite (<0>gsuite.google.com</0>) dapat dibeli di <1>halaman produk Mailvelope</1>.",
+        "description": "Caption for G Suite licensing table."
+    },
+    "provider_gmail_licensing_table_title": {
+        "message": "Lisensi Mailvelope",
+        "description": "Title for G Suite licensing table."
+    },
+    "provider_gmail_secure_forward_btn": {
+        "message": "Amankan selanjutnya",
+        "description": "Secure forward button title/tooltip"
+    },
+    "provider_gmail_secure_replyAll_btn": {
+        "message": "Amankan semua balasan",
+        "description": "Secure reply all button title/tooltip"
+    },
+    "provider_gmail_secure_reply_btn": {
+        "message": "Amankan balasan",
+        "description": "Secure reply button title/tooltip"
+    },
+    "pwd_dialog_cache_pwd": {
+        "message": "Ingat sementara kata sandi",
+        "description": "Checkbox label for remembering of the password."
+    },
+    "pwd_dialog_cancel": {
+        "message": "Membuka kunci dibatalkan.",
+        "description": "User canceled key unlock dialog."
+    },
+    "pwd_dialog_header": {
+        "message": "Masukkan kata sandi kunci",
+        "description": "Header of the password dialog."
+    },
+    "pwd_dialog_pwd_please": {
+        "message": "Silakan masukkan kata sandi Anda",
+        "description": "Placeholder for password."
+    },
+    "pwd_dialog_reason_add_user": {
+        "message": "Masukkan kata sandi kunci Anda untuk membuat ID pengguna.",
+        "description": ""
+    },
+    "pwd_dialog_reason_create_backup": {
+        "message": "Masukkan kata sandi kunci Anda untuk membuat lembar pemulihan.",
+        "description": ""
+    },
+    "pwd_dialog_reason_create_draft": {
+        "message": "Masukkan kata sandi kunci untuk menyimpan draf.",
+        "description": ""
+    },
+    "pwd_dialog_reason_decrypt": {
+        "message": "Masukkan kata sandi kunci Anda untuk mendekripsi pesan ini.",
+        "description": ""
+    },
+    "pwd_dialog_reason_editor": {
+        "message": "Masukkan kata sandi kunci Anda untuk memperbarui pengaturan untuk komunikasi yang terenkripsi.",
+        "description": ""
+    },
+    "pwd_dialog_reason_revoke": {
+        "message": "Masukkan kata sandi kunci Anda untuk mencabut kunci ini.",
+        "description": ""
+    },
+    "pwd_dialog_reason_revoke_user": {
+        "message": "Masukkan kata sandi kunci Anda untuk mencabut ID pengguna.",
+        "description": ""
+    },
+    "pwd_dialog_reason_set_exdate": {
+        "message": "Masukkan kata sandi kunci Anda untuk menetapkan tanggal kedaluwarsa baru untuk kunci ini.",
+        "description": ""
+    },
+    "pwd_dialog_reason_sign": {
+        "message": "Masukkan kata sandi kunci Anda untuk menandatangani pesan ini.",
+        "description": ""
+    },
+    "pwd_dialog_title": {
+        "message": "Masukkan Kata Sandi | Mailvelope",
+        "description": "Title of the password dialog."
+    },
+    "pwd_dialog_userid": {
+        "message": "ID Pengguna:",
+        "description": "Label for user ID."
+    },
+    "pwd_dialog_wrong_pwd": {
+        "message": "Kata sandi salah",
+        "description": "Password error message."
+    },
+    "recovery_sheet_backup_data": {
+        "message": "Cadangan data Anda",
+        "description": ""
+    },
+    "recovery_sheet_backup_local": {
+        "message": "Jika Anda ingin dengan eksklusif menyimpan data Anda secara lokal di komputer Anda, maka Anda akan menemukan opsi ini pengaturan komunikasi terenkripsi di akun $1 Anda.",
+        "description": ""
+    },
+    "recovery_sheet_backup_server": {
+        "message": "Untuk mencadangkan data yang penting untuk komunikasi yang terenkripsi (mis. kata sandi kunci), data akan disimpan dengan dienkripsi di peladen $1 kami oleh mitra keamanan kami, Mailvelope.",
+        "description": ""
+    },
+    "recovery_sheet_be_aware": {
+        "message": "Harap berhati-hati",
+        "description": "Label"
+    },
+    "recovery_sheet_check_settings": {
+        "message": "Periksa pengaturan di akun Anda pada:",
+        "description": ""
+    },
+    "recovery_sheet_creation_date": {
+        "message": "Tanggal dibuat:",
+        "description": "Label for recovery sheet creation date"
+    },
+    "recovery_sheet_data_lost": {
+        "message": "Tanpa cadangan, pesan terenkripsi Anda tidak dapat didekripsi lagi jika Anda kehilangan kata sandi utama atau jika ada perangkat yang rusak atau masalah dengan ekstensi peramban!",
+        "description": ""
+    },
+    "recovery_sheet_encryption_note": {
+        "message": "Petunjuk untuk komunikasi terenkripsi dengan $1",
+        "description": "Sub title"
+    },
+    "recovery_sheet_enter_code": {
+        "message": "Untuk penginstalan di komputer lain, masukkan kode pemulihan di pengaturan pada:",
+        "description": "Label for navigation path"
+    },
+    "recovery_sheet_explain_pgp": {
+        "message": "Komunikasi terenkripsi dengan $1 adalah prosedur berbasis PGP. Prosedur ini memungkinkan Anda untuk mengirim surel terenkripsi sekaligus memastikan bahwa hanya Anda dan penerima yang dapat membacanya.",
+        "description": ""
+    },
+    "recovery_sheet_extension_problems": {
+        "message": "Karena masalah dengan ekstensi peramban",
+        "description": "List item"
+    },
+    "recovery_sheet_forgot_password": {
+        "message": "Karena Anda lupa kata sandi untuk kunci Anda",
+        "description": "List item"
+    },
+    "recovery_sheet_further_info": {
+        "message": "Anda dapat menemukan informasi lebih lanjut dan pilihan pemformat pengaturan di akun $1 Anda di bawah",
+        "description": ""
+    },
+    "recovery_sheet_header": {
+        "message": "Informasi penting!",
+        "description": "Title of recovery sheet."
+    },
+    "recovery_sheet_in_general": {
+        "message": "Secara umum, ini penting",
+        "description": "Label"
+    },
+    "recovery_sheet_invite_contacts": {
+        "message": "Pada pengaturan komunikasi terenkripsi Anda di akun $1, Anda berkesempatan mengundang kontak tambahan untuk menggunakan komunikasi terenkripsi melalui PGP. Kontak yang telah berhasil diundang dapat dikenali oleh ikon padlock di samping alamat email.",
+        "description": ""
+    },
+    "recovery_sheet_keep_safe": {
+        "message": "Simpan cetakan dokumen ini di tempat yang aman dan pastikan tidak ada yang memiliki akses ke kode pemulihan.",
+        "description": ""
+    },
+    "recovery_sheet_key_server": {
+        "message": "Pengguna $1 lainnya yang memakai prosedur PGP dari GMX dapat langsung ditemukan di direktori sentral pada akun $1 Anda. Jika Anda tidak ingin memiliki entri apa pun di direktori ini, nonaktifkan fungsi ini di pengaturan akun $1 Anda.",
+        "description": ""
+    },
+    "recovery_sheet_mobile_devices": {
+        "message": "Di perangkat seluler",
+        "description": ""
+    },
+    "recovery_sheet_not_working": {
+        "message": "Jika komunikasi terenkripsi Anda sudah tidak berhasil, misalnya:",
+        "description": "Label for list"
+    },
+    "recovery_sheet_other_computer": {
+        "message": "Di komputer berbeda",
+        "description": ""
+    },
+    "recovery_sheet_other_contacts": {
+        "message": "Komunikasi terenkripsi dengan kontak lain",
+        "description": ""
+    },
+    "recovery_sheet_other_devices": {
+        "message": "Komunikasi terenkripsi pada perangkat lain",
+        "description": "Sub title"
+    },
+    "recovery_sheet_other_devices_setup": {
+        "message": "Menyiapkan komunikasi terenkripsi pada perangkat lain",
+        "description": ""
+    },
+    "recovery_sheet_other_problems": {
+        "message": "Untuk alasan lain",
+        "description": "List item"
+    },
+    "recovery_sheet_pgp_compat": {
+        "message": "Anda dapat berkomunikasi secara aman dengan kontak lain jika mereka juga menggunakan komunikasi yang terenkripsi (PGP).",
+        "description": ""
+    },
+    "recovery_sheet_print_block": {
+        "message": "Simpan dokumen ini di tempat yang aman!",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_print_button": {
+        "message": "Cetak",
+        "description": ""
+    },
+    "recovery_sheet_print_notice": {
+        "message": "Cetak dokumen ini dan simpan di tempat yang aman!",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_provider_communication": {
+        "message": "Komunikasi yang terenkripsi",
+        "description": ""
+    },
+    "recovery_sheet_provider_inbox": {
+        "message": "Kotak masuk",
+        "description": ""
+    },
+    "recovery_sheet_provider_security": {
+        "message": "Keamanan",
+        "description": ""
+    },
+    "recovery_sheet_provider_settings": {
+        "message": "Pengaturan",
+        "description": ""
+    },
+    "recovery_sheet_qr_code": {
+        "message": "Pindai kode QR dengan perangkat seluler Anda.",
+        "description": ""
+    },
+    "recovery_sheet_recommendation": {
+        "message": "Rekomendasi",
+        "description": ""
+    },
+    "recovery_sheet_recover_data": {
+        "message": "Memulihkan data",
+        "description": "Sub title"
+    },
+    "recovery_sheet_recovery_code": {
+        "message": "Kode pemulihan",
+        "description": ""
+    },
+    "recovery_sheet_subtitle_receipt": {
+        "message": "Lembar pemulihan untuk komunikasi yang dienkripsi",
+        "description": "Sub title of recovery sheet."
+    },
+    "recovery_sheet_subtitle_recover": {
+        "message": "Pulihkan komunikasi yang dienkripsi",
+        "description": "Sub title"
+    },
+    "recovery_sheet_trusted_contacts": {
+        "message": "Dengan kontak GMX, Anda dapat yakin bahwa pengguna yang ditampilkan adalah pengguna yang valid. Namun, Anda harus selalu memverifikasi identitas kontak dengan alamat surel dari penyedia surel lain.",
+        "description": ""
+    },
+    "recovery_sheet_unknown_third": {
+        "message": "Cukup siapkan komunikasi terenkripsi pada perangkat yang aman yang tidak dapat diakses oleh orang asing.",
+        "description": ""
+    },
+    "recovery_sheet_unlock_backup": {
+        "message": "Cadangan data Anda hanya dapat didekripsi dengan bantuan kode pemulihan pada lembar pemulihan ini.",
+        "description": ""
+    },
+    "reload_tab": {
+        "message": "Muat ulang halaman yang terkait agar pengaturan dapat diterapkan.",
+        "description": "Info message."
+    },
+    "restore_backup_dialog_button": {
+        "message": "Konfirmasi",
+        "description": ""
+    },
+    "restore_backup_dialog_headline": {
+        "message": "Masukkan kode pemulihan Anda:",
+        "description": ""
+    },
+    "restore_password_dialog_button": {
+        "message": "Tampilkan",
+        "description": ""
+    },
+    "restore_password_dialog_headline": {
+        "message": "Kata sandi kunci Anda:",
+        "description": ""
+    },
+    "security_background_color_text": {
+        "message": "2. Lalu pilih warna yang Anda sukai",
+        "description": "Security background select color text"
+    },
+    "security_background_icons_text": {
+        "message": "1. Pilih ikon yang Anda sukai",
+        "description": "Security background select icon text"
+    },
+    "security_background_text": {
+        "message": "Latar belakang keamanan Anda ditampilkan di balik setiap surel terenkripsi. Untuk membuatnya benar-benar aman, Anda harus mempersonalisasikannya. Inilah cara Anda memastikan, bahwa tidak ada yang dapat merekonstruksi antarmuka Mailvelope untuk mengakses data pribadi Anda.",
+        "description": "Security background text"
+    },
+    "security_cache_header": {
+        "message": "Ingat kata sandi untuk sesi  peramban ini",
+        "description": "Password cache header"
+    },
+    "security_cache_help": {
+        "message": "Harus berupa angka dari 1-999",
+        "description": "Help text for cache time."
+    },
+    "security_cache_off": {
+        "message": "Tidak.",
+        "description": "Don't store password."
+    },
+    "security_cache_on": {
+        "message": "Yes, simpan di memori selama",
+        "description": "Store password in memory for $1 minutes."
+    },
+    "security_cache_time": {
+        "message": "menit.",
+        "description": "Store password in memory for $1 minutes."
+    },
+    "security_display_decrypted": {
+        "message": "Dimana pesan yang terdekripsi ditampilkan?",
+        "description": "Label for display options"
+    },
+    "security_display_inline": {
+        "message": "Di halaman penyedia surel.",
+        "description": "Decrypted message display option"
+    },
+    "security_display_popup": {
+        "message": "Di tampilan Mailvelope terpisah.",
+        "description": "Decrypted message display option"
+    },
+    "security_hide_armored_head": {
+        "message": "Sembunyikan versi Mailvelope dan komentar di pesan PGP.",
+        "description": "Hide header infos in armored messages"
+    },
+    "security_log_action": {
+        "message": "Aksi",
+        "description": "Title of the action column of the security log table."
+    },
+    "security_log_add_attachment": {
+        "message": "Tambahkan klik tombol lampiran",
+        "description": "A click on the attachment upload button as an event type"
+    },
+    "security_log_attachment_download": {
+        "message": "Lampiran diunduh",
+        "description": "Attachment downloaded as an event source"
+    },
+    "security_log_backup_create": {
+        "message": "Klik untuk membuat cadangan",
+        "description": ""
+    },
+    "security_log_backup_restore": {
+        "message": "Klik untuk memulihkan cadangan",
+        "description": ""
+    },
+    "security_log_content_copy": {
+        "message": "Salin dalam dialog verifikasi",
+        "description": ""
+    },
+    "security_log_decrypt_ui": {
+        "message": "Dekripsi",
+        "description": ""
+    },
+    "security_log_decryption_operation": {
+        "message": "Pesan telah didekripsi dengan: $1",
+        "description": ""
+    },
+    "security_log_dialog_cancel": {
+        "message": "Klik untuk batal masuk dialog",
+        "description": ""
+    },
+    "security_log_dialog_encrypt": {
+        "message": "Klik untuk enkripsikan dialog",
+        "description": ""
+    },
+    "security_log_dialog_ok": {
+        "message": "Klik untuk konfirmasi masuk dialog",
+        "description": ""
+    },
+    "security_log_dialog_sign": {
+        "message": "Klik untuk memasuki dialog",
+        "description": ""
+    },
+    "security_log_editor": {
+        "message": "Editor Mailvelope",
+        "description": "Message editor container as an event source"
+    },
+    "security_log_email_viewer": {
+        "message": "Email PGP Terdekripsi",
+        "description": "Email decryption container as an event source"
+    },
+    "security_log_encrypt_dialog": {
+        "message": "Enkripsikan Dialog",
+        "description": "Encrypt dialog as an event source"
+    },
+    "security_log_encrypt_form": {
+        "message": "Enkripsikan Formulir",
+        "description": "Encrypt form as an event source"
+    },
+    "security_log_encrypt_ui": {
+        "message": "Enkripsikan",
+        "description": ""
+    },
+    "security_log_encryption_operation": {
+        "message": "Pesan telah dienkripsi untuk: $1",
+        "description": ""
+    },
+    "security_log_import_dialog": {
+        "message": "Impor Dialog",
+        "description": "Key import dialog as an event source"
+    },
+    "security_log_key_backup": {
+        "message": "Pencadangan Kunci",
+        "description": "Message keybackup container as an event source"
+    },
+    "security_log_key_generator": {
+        "message": "Pembuat Kunci",
+        "description": "Key generator container as an event source"
+    },
+    "security_log_password_click": {
+        "message": "Klik pada dialog kata sandi",
+        "description": ""
+    },
+    "security_log_password_dialog": {
+        "message": "Dialog Kata Sandi",
+        "description": "Password dialog as an event source"
+    },
+    "security_log_password_input": {
+        "message": "Masukkan ke dialog kata sandi",
+        "description": ""
+    },
+    "security_log_remove_attachment": {
+        "message": "Lampiran dihapus",
+        "description": "A click on the attachment remove button as event type"
+    },
+    "security_log_restore_backup_click": {
+        "message": "Klik pada dialog pulihkan cadangan",
+        "description": ""
+    },
+    "security_log_sign_operation": {
+        "message": "Pesan telah ditandatangani dengan kunci: $1",
+        "description": ""
+    },
+    "security_log_signature_modal_close": {
+        "message": "Klik untuk menutup dialog tanda tangan",
+        "description": ""
+    },
+    "security_log_signature_modal_open": {
+        "message": "Klik untuk membuka dialog tanda tangan",
+        "description": ""
+    },
+    "security_log_source": {
+        "message": "Sumber",
+        "description": "Title of the source column of the security log table."
+    },
+    "security_log_text": {
+        "message": "Catatan keamanan menunjukkan tindakan pengguna di semua komponen Mailvelope.",
+        "description": "Text explaining the purpose of the security log"
+    },
+    "security_log_text_input": {
+        "message": "Masukkan ke kolom teks",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_click": {
+        "message": "Klik pada area teks",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_input": {
+        "message": "Masukkan ke area teks",
+        "description": "User clicked in text area"
+    },
+    "security_log_textarea_select": {
+        "message": "Pemilihan di area teks",
+        "description": "Selection of the text area as an event type"
+    },
+    "security_log_timestamp": {
+        "message": "Penanda waktu",
+        "description": "Title of the timestamp column of the security log table."
+    },
+    "security_log_verify_dialog": {
+        "message": "Verifikasi dialog",
+        "description": "Verify dialog as an event source"
+    },
+    "security_log_viewer": {
+        "message": "Penampil Mailvelope",
+        "description": "Message viewer as an event source"
+    },
+    "security_openpgp_header": {
+        "message": "Pengaturan OpenPGP",
+        "description": "OpenPGP settings header"
+    },
+    "settings_analytics": {
+        "message": "Analitik",
+        "description": "Tab for deciding whether or not to share analytics data."
+    },
+    "settings_backup": {
+        "message": "Cadangan",
+        "description": "Tab allowing to backup and restore the settings."
+    },
+    "settings_general": {
+        "message": "Umum",
+        "description": "Tab of options to display general settings."
+    },
+    "settings_keyserver": {
+        "message": "Direktori Kunci",
+        "description": "Tab of options to display key server settings."
+    },
+    "settings_provider": {
+        "message": "API Gmail",
+        "description": "Tab of options to display provider (Gmail) settings."
+    },
+    "settings_security": {
+        "message": "Keamanan",
+        "description": "Tab of options to display security settings."
+    },
+    "settings_security_background": {
+        "message": "Latar Belakang Keamanan",
+        "description": "Security background header"
+    },
+    "settings_security_log": {
+        "message": "Catatan Keamanan",
+        "description": "Tab of options to display security log."
+    },
+    "settings_watchlist": {
+        "message": "Domain yang terotorisasi",
+        "description": "Tab of options to display list of authorized domains."
+    },
+    "sign_dialog_header": {
+        "message": "Tandai pesan sebagai:",
+        "description": "Header of sign dialog. Choose the person you want to sign the message with."
+    },
+    "sign_error": {
+        "message": "Tidak dapat menandatangani pesan ini: $1",
+        "description": "Error during signing process."
+    },
+    "signer_unknown": {
+        "message": "Tidak diketahui",
+        "description": "Name of unknown signer."
+    },
+    "text_decrypt_button": {
+        "message": "Dekripsi",
+        "description": "Button label for decrypting the message"
+    },
+    "text_decrypting": {
+        "message": "Teks dekripsi",
+        "description": "Navigation link to text decryption feature"
+    },
+    "text_encrypting": {
+        "message": "Teks enkripsi",
+        "description": "Navigation link to text encryption feature"
+    },
+    "upload_aborting_warning": {
+        "message": "Pengunggahan berkas akan dibatalkan.",
+        "description": "A warning for the aborting of the file upload."
+    },
+    "upload_attachment": {
+        "message": "Tambahkan berkas",
+        "description": "Text in the upload attachment button of the message editor dialog"
+    },
+    "upload_drop": {
+        "message": "Letakkan berkas di area ini untuk melampirkannya",
+        "description": "Text in file drop overlay area"
+    },
+    "upload_help": {
+        "message": "Seret berkas ke jendela ini atau",
+        "description": "Text in file upload area. Sentence continues with: Upload File (Button)."
+    },
+    "upload_quota_exceeded_warning": {
+        "message": "Ukuran lampiran yang diizinkan:",
+        "description": "A warning shown when the attachments upload quota is exceeded."
+    },
+    "upload_quota_warning_headline": {
+        "message": "Lampiran terlalu besar",
+        "description": ""
+    },
+    "user_create_btn": {
+        "message": "Buat",
+        "description": "Create user button label"
+    },
+    "user_create_title": {
+        "message": "Buat ID pengguna",
+        "description": "Title of create user page"
+    },
+    "user_keyserver_not": {
+        "message": "ID pengguna tidak disinkronkan dengan peladen kunci Mailvelope.",
+        "description": "User ID is not synchronized with Mailvelope key server"
+    },
+    "user_keyserver_remove": {
+        "message": "Surel konfirmasi telah dikirimkan ke $1 untuk penghapusan total dari server kunci Mailvelope.",
+        "description": "A remove request has been sent to the Mailvelope key server"
+    },
+    "user_keyserver_remove_btn": {
+        "message": "Hapus ID pengguna",
+        "description": "Remove user ID button label text"
+    },
+    "user_keyserver_resend_confirmation_btn": {
+        "message": "Kirim ulang konfirmasi",
+        "description": "Resend confirmation button label text"
+    },
+    "user_keyserver_sync": {
+        "message": "ID pengguna disinkronkan dengan peladen kunci Mailvelope.",
+        "description": "User ID is synchronised with the Mailvelope key server"
+    },
+    "user_keyserver_unverified": {
+        "message": "Konfirmasi ID pengguna untuk menyinkronkannya dengan server kunci Mailvelope.",
+        "description": "User ID Mailvelope key server not verified"
+    },
+    "user_keyserver_upload": {
+        "message": "Untuk sinkronkan dengan peladen kunci Mailvelope, konfirmasi surel dikirim ke $1.",
+        "description": "An upload request has been sent to the Mailvelope key server"
+    },
+    "user_remove_btn": {
+        "message": "Hapus",
+        "description": "Remove user button label"
+    },
+    "user_remove_btn_title": {
+        "message": "Hapus ID pengguna",
+        "description": "Remove user button title"
+    },
+    "user_remove_dialog_confirmation": {
+        "message": "Apakah Anda ingin menghapus ID pengguna ini dari kunci Anda?",
+        "description": "Confirmation question in remove user dialog."
+    },
+    "user_remove_dialog_keyserver_warning": {
+        "message": "ID Pengguna juga dihapus dari peladen kunci Mailvelope.",
+        "description": "Warning message, that key will be deleted from keyserver"
+    },
+    "user_remove_dialog_title": {
+        "message": "Hapus ID pengguna",
+        "description": "Title of remove user dialog."
+    },
+    "user_revoke_btn": {
+        "message": "Cabut",
+        "description": "Revoke user button label"
+    },
+    "user_revoke_btn_title": {
+        "message": "Cabut ID pengguna",
+        "description": "Revoke user button title"
+    },
+    "user_revoke_dialog_confirmation": {
+        "message": "Apakah Anda tetap ingin mencabutnya?",
+        "description": "Confirmation question in revoke user dialog."
+    },
+    "user_revoke_dialog_description": {
+        "message": "Setelah pembatalan, ID pengguna untuk kunci ini selamanya tidak akan dapat digunakan.",
+        "description": "Description in revoke user dialog."
+    },
+    "user_revoke_dialog_title": {
+        "message": "Cabut ID pengguna",
+        "description": "Title of revoke user dialog."
+    },
+    "user_title": {
+        "message": "ID Pengguna",
+        "description": "Title of user page"
+    },
+    "usersignatures_title": {
+        "message": "Verifikasi",
+        "description": "Title of signatures panel in user."
+    },
+    "verify_error": {
+        "message": "Tidak dapat memverifikasi pesan ini: $1",
+        "description": "Error during verification process."
+    },
+    "verify_frame_help_text": {
+        "message": "Klik untuk verifikasi tanda tangan",
+        "description": "Help text on verify frame."
+    },
+    "waiting_dialog_decryption_failed": {
+        "message": "Dekripsi gagal.",
+        "description": "Error message in the waiting dialog after failing to decrypt a message"
+    },
+    "watchlist_command_create": {
+        "message": "Tambah ",
+        "description": "Create entry in watchlist."
+    },
+    "watchlist_command_edit": {
+        "message": "Sunting",
+        "description": "Edit entry in watchlist."
+    },
+    "watchlist_delete_confirmation": {
+        "message": "Apakah Anda benar-benar ingin menghapus situs ini dari daftar domain resmi?",
+        "description": "Message in the watchlist delete confirmation dialog."
+    },
+    "watchlist_expose_api": {
+        "message": "API",
+        "description": "Expose API to Webmailer."
+    },
+    "watchlist_record_title": {
+        "message": "Domain yang terotorisasi",
+        "description": "Title of the watchlist editor dialog."
+    },
+    "watchlist_remove_dialog_title": {
+        "message": "Hapus domain",
+        "description": "Title of delete watchlist dialog."
+    },
+    "watchlist_title_active": {
+        "message": "Aktifkan",
+        "description": "Entry in watchlist is active."
+    },
+    "watchlist_title_frame": {
+        "message": "Pola domain",
+        "description": "Web domain URL match pattern of site in watchlist."
+    },
+    "watchlist_title_https_only": {
+        "message": "Hanya HTTPS",
+        "description": "Only allow URLs with HTTPS scheme in watchlist."
+    },
+    "watchlist_title_scan": {
+        "message": "Aktifkan",
+        "description": "Scan status of site in watchlist."
+    },
+    "watchlist_title_site": {
+        "message": "Situs",
+        "description": "Site in watchlist."
+    },
+    "word_or": {
+        "message": "Atau",
+        "description": "Separate list of elements."
+    },
+    "wrong_restore_code": {
+        "message": "Kode pemulihan tidak valid",
+        "description": ""
+    }
+}

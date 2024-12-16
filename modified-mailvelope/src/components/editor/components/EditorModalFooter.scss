@@ -1,0 +1,13 @@
+@import "../../../res/styles/_required";
+
+#sign-msg-option {
+  color: $gray-900;
+}
+
+.collapsed[data-target="#sign-msg-option"] span.icon:before {
+  content: "\e900";
+}
+
+[data-target="#sign-msg-option"]:not(.collapsed) span.icon:before {
+  content: "\e903";
+}

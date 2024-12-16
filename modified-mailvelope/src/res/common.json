@@ -1,0 +1,50 @@
+{
+  "securityBGs": {
+    "african_mask": "bgAfricanMask",
+    "big_ben": "bgBigBen",
+    "boat":  "bgBoat",
+    "brandenburg_gate": "bgBrandenburgGate",
+    "chichen_itza": "bgChichenItza",
+    "colosseum": "bgColosseum",
+    "eagle": "bgEagle",
+    "eiffel_tower": "bgEiffelTower",
+    "elephant": "bgElephant",
+    "forbidden_city": "bgForbiddenCity",
+    "golden_gate_bridge": "bgGoldenGateBridge",
+    "great_wall": "bgGreatWall",
+    "kilimanjaro": "bgKilimanjaro",
+    "moai_easter_island": "bgMoaiEasterIsland",
+    "mountain_fuji": "bgMountainFuji",
+    "opera_house": "bgOperaHouse",
+    "pisa_tower": "bgPisaTower",
+    "pyramid": "bgPyramid",
+    "rhinoceros": "bgRhinoceros",
+    "saint_basils_cathedral": "bgSaintBasilsCathedral",
+    "statue_of_liberty": "bgStatueOfLiberty",
+    "torii_shrine": "bgToriiShrine",
+    "toucan": "bgToucan",
+    "whale": "bgWhale"
+  },
+  "securityColors": {
+    "petrol": {
+      "bg": "#caebdd",
+      "icon": "#85c9af"
+    },
+    "corn": {
+      "bg": "#faebae",
+      "icon": "#e3d18b"
+    },
+    "salmon": {
+      "bg": "#f7cab5",
+      "icon": "#e0a98e"
+    },
+    "lavender": {
+      "bg": "#d9caeb",
+      "icon": "#baa7d9"
+    },
+    "sky": {
+      "bg": "#cadaeb",
+      "icon": "#90b5da"
+    }
+  }
+}
